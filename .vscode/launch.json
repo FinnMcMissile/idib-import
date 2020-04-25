@@ -6,34 +6,34 @@
     "configurations": [
 
         {
-            "name": "dubbers path",
+            "name": "dubbers (all))",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-dubbers", "samples/voci"],
+            "args": ["-movies", "samples/doppiaggio/film/donniedarko.htm", "-dubbers", "samples/doppiaggio/voci", "-index", "samples/doppiaggio/indice", "-dictionary", "-output", "output/dubbers-data.json",],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
         {
-            "name": "dubbers single (vocipr)",
+            "name": "dubbers single (vocirr)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-dubbers", "samples/voci/vocipr.htm"],
+            "args": ["-dubbers", "samples/doppiaggio/voci/vocirr.htm"],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
         },
         {
-            "name": "dubbers single (vociro)",
+            "name": "dubbers single (vocidlio)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-dubbers", "samples/voci/vociro.htm"],
+            "args": ["-dubbers", "samples/doppiaggio/voci/vocidlio.htm"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false

@@ -23,7 +23,7 @@ namespace idib_import
                 
                 foreach (var member in movie.cast)
                 {
-                    if (member.dubber.source == null)
+                    if (member.dubber.name != null && member.dubber.source == null)
                         log += $"Missing dubber link {movie.source} : {member.dubber.name}\n";
                 }
             }
@@ -31,9 +31,9 @@ namespace idib_import
             return log;
         }
 
-        public static void BuildDictionary(IdibData idibData)
+        // set the indexed name of the dubbers
+        private static void DubbersIndexedName(IdibData idibData)
         {
-            // set the indexed name of the dubbers
             foreach (var dubber in idibData.dubbers)
             {
                 string indexName;
@@ -42,8 +42,11 @@ namespace idib_import
                     dubber.indexName = indexName;
                 }
             }
-
-            // set the indexed name of the movies
+        }
+        
+        // set the indexed name of the movies
+        private static void MoviesIndexedName(IdibData idibData)
+        {
             foreach (var movie in idibData.movies)
             {
                 string indexTitle;
@@ -52,8 +55,11 @@ namespace idib_import
                     movie.indexTitle = indexTitle;
                 }
             }
+        }
 
-            // set the movies each dubber worked on
+        // set the movies each dubber worked on
+        private static void SetDubbersWorks(IdibData idibData)
+        {
             foreach (var movie in idibData.movies)
             {
                 foreach (var member in movie.cast)
@@ -111,6 +117,41 @@ namespace idib_import
 
                 }
             }
+        }
+
+        // insert some markdown hrefs in dubbers data
+        private static void InsertDubbersHref(IdibData idibData)
+        {
+            foreach (var dubber in idibData.dubbers)
+            {
+                if (dubber.audio == null)
+                    continue;
+                if (dubber.audio.description.Contains("\""))
+                {
+                    var start = dubber.audio.description.IndexOf("\"");
+                    var stop = dubber.audio.description.LastIndexOf("\"");
+                    if (start != -1 && stop != -1)
+                    {
+                        var movieTitle = dubber.audio.description.Substring(start + 1, stop - start - 1);
+                        var movie = idibData.movies.Find( m => m.indexTitle == movieTitle);
+                        if (movie != null) 
+                        {
+                            dubber.audio.description = dubber.audio.description.
+                                    Remove(start, stop - start + 1).
+                                    Insert(start, $"[{movieTitle}](movie-page.html?movieSource={movie.source})");
+                        }
+                    }
+
+                }
+            }
+        }
+
+        public static void BuildDictionary(IdibData idibData)
+        {
+            DubbersIndexedName(idibData);
+            MoviesIndexedName(idibData);
+            SetDubbersWorks(idibData);
+            InsertDubbersHref(idibData);
 
         }
     }

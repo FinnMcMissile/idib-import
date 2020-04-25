@@ -5,12 +5,13 @@ namespace idib_import
 {
     public static class Utils
     {
-        public static string Cleanup(string input)
+        public static string Cleanup(string input, bool titleCase = true)
         {
             var output = input.Replace("\n"," ").Replace("\t"," ").TrimEnd().TrimStart();
             output = Regex.Replace(output, " {2,}", " ");
             TextInfo ti = new CultureInfo("it-IT").TextInfo;
-            output = ti.ToTitleCase(ti.ToLower(output));
+            if (titleCase)
+                output = ti.ToTitleCase(ti.ToLower(output));
             return output;
         }
 

@@ -16,6 +16,15 @@
       "works": [
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Gretchen Ross",
+          "actor": "Jena Malone"
+        },
+        {
+          "movie": {
             "title": "Gli Incredibili",
             "source": "film/gliincredibili.htm",
             "poster": "film/gliincredibili.jpg"
@@ -23,7 +32,11 @@
           "character": "Violetta Parr",
           "actor": "Sarah Vowell"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaam.mp3",
+        "description": "la voce di Alessia Amendola nel film [Donnie Darko](movie-page.html?movieSource=film/donniedarko.htm), in cui doppia Jena Malone."
+      }
     },
     {
       "source": "voci/vociaang.htm",
@@ -43,7 +56,11 @@
           "character": "Soldato Rivoluzionario",
           "actor": "Rick Jones"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaang.mp3",
+        "description": "la voce di Alberto Angrisano nel film \"D'Artagnan\", in cui doppia Tim Roth."
+      }
     },
     {
       "source": "voci/vociabag.htm",
@@ -54,6 +71,15 @@
         "description": "Foto di Angiola Baggi"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Sig.Ra Rose Darko",
+          "actor": "Mary Mcdonnell"
+        },
         {
           "movie": {
             "title": "Elliott, Il Drago Invisibile",
@@ -72,7 +98,11 @@
           "character": "Diana",
           "actor": "Sinèad Cusack"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceabag.mp3",
+        "description": "la voce di Angiola Baggi nel film \"Titanic\", in cui doppia Kathy Bates."
+      }
     },
     {
       "source": "voci/vociabart.htm",
@@ -92,7 +122,11 @@
           "character": "Taun We (Voce)",
           "actor": "Rena Owen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceabart.mp3",
+        "description": "la voce di Anita Bartolucci nel film d'animazione \"Bianca e Bernie nella terra dei canguri\", in cui doppia Bianca."
+      }
     },
     {
       "source": "voci/vociabat.htm",
@@ -130,7 +164,11 @@
           "character": "Imperatore Palpatine",
           "actor": "Ian Mcdiarmid"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceabat.mp3",
+        "description": "la voce di Alvise Battain nel documentario \"Fantasia - La creazione di un capolavoro\", in cui doppia Carl Falberg."
+      }
     },
     {
       "source": "voci/vociaca.htm",
@@ -150,7 +188,11 @@
           "character": "Snaga",
           "actor": "Jed Brophy Andy Serkis (Voce)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaca.mp3",
+        "description": "la voce di Alberto Caneva nel telefilm \"Spin City\", in cui doppia Michael J. Fox."
+      }
     },
     {
       "source": "voci/vociacan.htm",
@@ -170,7 +212,11 @@
           "character": "Maudeline Everglot",
           "actor": "Joanna Lumley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceacan.mp3",
+        "description": "la voce di Aurora Cancian nel film d'animazione \"Red e Toby nemiciamici\", in cui doppia Gran Ma'."
+      }
     },
     {
       "source": "voci/vociacas.htm",
@@ -186,7 +232,11 @@
           "character": "Casey",
           "actor": "Anna Maria Horsford"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceacas.mp3",
+        "description": "la voce di Alessandra Cassioli nel film \"Congo\", in cui doppia Laura Linney."
+      }
     },
     {
       "source": "voci/vociaces.htm",
@@ -233,7 +283,11 @@
           "character": "Gordon",
           "actor": "Viola Davis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaces.mp3",
+        "description": "la voce di Anna Cesareni nel telefilm \"OZ\", in cui doppia Edie Falco."
+      }
     },
     {
       "source": "voci/vociaco.htm",
@@ -262,7 +316,11 @@
           "character": "Alan Bradley / Tron",
           "actor": "Bruce Boxleitner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaco.mp3",
+        "description": "la voce di Antonio Colonnello nel telefilm \"Happy Days\", in cui doppia Henry Winkler."
+      }
     },
     {
       "source": "voci/vociacol.htm",
@@ -309,7 +367,11 @@
           "character": "Padre Di Zack",
           "actor": "Tim Hopper"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceacol.mp3",
+        "description": "la voce di Ambrogio Colombo nel telefilm \"Chernobyl\", in cui doppia Stellan Skarsgård."
+      }
     },
     {
       "source": "voci/vociad.htm",
@@ -356,7 +418,11 @@
           "character": "Ag. Jones",
           "actor": "Arthur Treacher"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocead.mp3",
+        "description": "la voce di Arturo Dominici nel film \"Quella sporca dozzina\", in cui doppia Robert Webber."
+      }
     },
     {
       "source": "voci/vociadf.htm",
@@ -385,7 +451,11 @@
           "character": "Asbel",
           "actor": "Yôji Matsuda"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceadf.mp3",
+        "description": "la voce di Alessio De Filippis nel telefilm \"Skins\", in cui doppia Jack O'Connell."
+      }
     },
     {
       "source": "voci/vociaf.htm",
@@ -405,7 +475,11 @@
           "character": "Voce Narrante",
           "actor": "Geoffrey Holder"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaf.mp3",
+        "description": "la voce di Arnoldo Foà, narratore del film \"La fabbrica di cioccolato\"."
+      }
     },
     {
       "source": "voci/vociagrade.htm",
@@ -454,7 +528,11 @@
           "character": "Catharina",
           "actor": "Essie Davis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceak.mp3",
+        "description": "la voce di Alessandra Korompay nel film \"Harry Potter e il calice di fuoco\", in cui doppia Miranda Richardson."
+      }
     },
     {
       "source": "voci/vociam.htm",
@@ -501,7 +579,11 @@
           "character": "Signora Dora, Anziana Del Villaggio",
           "actor": "Sho Saito"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceam.mp3",
+        "description": "la voce di Alina Moradei nel film TV \"La signora in giallo - Appuntamento con la morte\", in cui doppia Angela Lansbury."
+      }
     },
     {
       "source": "voci/vociamag.htm",
@@ -584,7 +666,11 @@
           "character": "Ian Solo (Han Solo)",
           "actor": "Harrison Ford"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceamag.mp3",
+        "description": "la voce di Angelo Maggi nel film \"Il sesto senso\", in cui doppia Bruce Willis."
+      }
     },
     {
       "source": "voci/vociamel.htm",
@@ -604,7 +690,11 @@
           "character": "Celie Da Bambina",
           "actor": "Desreta Jackson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceamel.mp3",
+        "description": "la voce di Anna Melato nel film d'animazione \"Maison Ikkoku - Last Movie\", in cui doppia Ichinose."
+      }
     },
     {
       "source": "voci/vociamis.htm",
@@ -650,7 +740,11 @@
           "character": "Emma Goldman",
           "actor": "Maureen Stapleton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceamis.mp3",
+        "description": "la voce di Anna Miserocchi dal film \"Il laureato\", in cui doppia Anne Bancroft."
+      }
     },
     {
       "source": "voci/vociamm.htm",
@@ -670,7 +764,11 @@
           "character": "Bob Parr / Mr. Incredibile",
           "actor": "Craig T. Nelson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceamm.mp3",
+        "description": "la voce di Adalberto Maria Merli nel film \"Million Dollar Baby\", in cui doppia Clint Eastwood."
+      }
     },
     {
       "source": "voci/vocian.htm",
@@ -762,7 +860,11 @@
           "character": "Marvin Berry",
           "actor": "Harry Waters Jr."
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocean.mp3",
+        "description": "la voce di Angelo Nicotra nel film \"Sleepers\", in cui doppia Bruno Kirby."
+      }
     },
     {
       "source": "voci/vocianis.htm",
@@ -787,7 +889,11 @@
           "character": "Freddy Jones",
           "actor": "Kevin Clark"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceanis.mp3",
+        "description": "la voce di Alessio Nissolino nel film d'animazione [Gli Incredibili](movie-page.html?movieSource=film/gliincredibili.htm), in cui doppia Tony Rydinger."
+      }
     },
     {
       "source": "voci/vociap.htm",
@@ -843,7 +949,11 @@
           "character": "Anakin Skywalker",
           "actor": "Jake Lloyd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceap.mp3",
+        "description": "la voce di Alessio Puccio nel telefilm \"Traitors\", in cui doppia Edward Bluemel."
+      }
     },
     {
       "source": "voci/vociapal.htm",
@@ -863,7 +973,11 @@
           "character": "Damrod",
           "actor": "Alistair Browning"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceapal.mp3",
+        "description": "la voce di Antonio Palumbo dal film \"Omicidio in diretta\", in cui doppia Gary Sinise."
+      }
     },
     {
       "source": "voci/vociapet.htm",
@@ -883,7 +997,11 @@
           "character": "Re Di Cuori",
           "actor": "Dink Trout"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceapet.mp3",
+        "description": "la voce di Amilcare Pettinelli nel film \"I dieci comandamenti\", in cui doppia Edward Franz."
+      }
     },
     {
       "source": "voci/vociapol.htm",
@@ -903,7 +1021,11 @@
           "character": "Mike Teavee",
           "actor": "Jordan Fry"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceapol.mp3",
+        "description": "la voce di Alex Polidori nel film d'animazione \"Rio\", in cui doppia Fernando."
+      }
     },
     {
       "source": "voci/vociaq.htm",
@@ -941,7 +1063,11 @@
           "character": "Berta (Barsa)",
           "actor": "Hiroko Seki"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaq.mp3",
+        "description": "la voce di Angiolina Quinterno nel telefilm \"Alice\", in cui doppia Polly Holliday."
+      }
     },
     {
       "source": "voci/vociaqua.htm",
@@ -952,6 +1078,15 @@
         "description": "Foto di Alessandro Quarta... al lavoro!"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Frank (Il Coniglio)",
+          "actor": "James Duval"
+        },
         {
           "movie": {
             "title": "Fantasia",
@@ -970,7 +1105,11 @@
           "character": "Jacob 'Jake' Grimm",
           "actor": "Heath Ledger"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaqua.mp3",
+        "description": "la voce di Alessandro Quarta dal telefilm \"Scrubs - Medici ai primi ferri\", in cui doppia Zach Braff."
+      }
     },
     {
       "source": "voci/vociar.htm",
@@ -999,7 +1138,11 @@
           "character": "Ellen Brody",
           "actor": "Lorraine Gary"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocear.mp3",
+        "description": "la voce di Antonella Rinaldi nel cartone animato \"I Griffin\", in cui doppia Lois Griffin."
+      }
     },
     {
       "source": "voci/vociaren.htm",
@@ -1019,7 +1162,11 @@
           "character": "Rosalie Mullins",
           "actor": "Joan Cusack"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocearen.mp3",
+        "description": "la voce di Antonella Rendina nel film \"Strade perdute\", in cui doppia Patricia Arquette."
+      }
     },
     {
       "source": "voci/vociaros.htm",
@@ -1192,7 +1339,11 @@
           "character": "Gen. W.O. West",
           "actor": "Leon Rippy"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocearos.mp3",
+        "description": "la voce di Alessandro Rossi nel telefilm \"Star Trek - The next generation\", in cui doppia Patrick Stewart."
+      }
     },
     {
       "source": "voci/vociarp.htm",
@@ -1293,7 +1444,11 @@
           "character": "Norma Cassady",
           "actor": "Lesley Ann Warren"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocearp.mp3",
+        "description": "la voce di Anna Rita Pasanisi nel telefilm \"Star Trek - The next generation\", in cui doppia Marina Sirtis."
+      }
     },
     {
       "source": "voci/vocias.htm",
@@ -1358,7 +1513,11 @@
           "character": "Jamey Collins",
           "actor": "Bradley Whitford"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceas.mp3",
+        "description": "la voce di Antonio Sanna nel film \"Hachiko\", in cui doppia Cary-Hiroyuki Tagawa."
+      }
     },
     {
       "source": "voci/vociasil.htm",
@@ -1378,7 +1537,11 @@
           "character": "Capitan Libeccio (Dodo)",
           "actor": "Bill Thompson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceasil.mp3",
+        "description": "la voce di Aldo Silvani nel film \"Io ti salverò\", in cui doppia Leo G. Carroll."
+      }
     },
     {
       "source": "voci/vociaw.htm",
@@ -1398,7 +1561,11 @@
           "character": "Uli, Terrorista",
           "actor": "Al Leong"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceaw.mp3",
+        "description": "la voce di Andrea Ward dal film \"W.\", in cui doppia Josh Brolin."
+      }
     },
     {
       "source": "voci/vociba.htm",
@@ -1472,7 +1639,11 @@
           "character": "Cliegg Lars",
           "actor": "Jack Thompson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceba.mp3",
+        "description": "la voce di Bruno Alessandro nel film \"The Day After Tomorrow - L'alba del giorno dopo\", in cui doppia Kenneth Welsh."
+      }
     },
     {
       "source": "voci/vocibc.htm",
@@ -1501,7 +1672,11 @@
           "character": "Jen, Consulente Di Shreck",
           "actor": "Jan Hooks"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebc.mp3",
+        "description": "la voce di Barbara Castracane dal telefilm \"Grey's Anatomy\", in cui doppia Chandra Wilson."
+      }
     },
     {
       "source": "voci/vocibcon.htm",
@@ -1529,7 +1704,11 @@
           },
           "character": "Uruk-Hai"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebcon.mp3",
+        "description": "la voce di Bruno Conti nel telefilm \"OZ\", in cui doppia Evan Seinfeld."
+      }
     },
     {
       "source": "voci/vocibdb.htm",
@@ -1567,7 +1746,11 @@
           "character": "Carin Fisher",
           "actor": "Monica Potter"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebdb.mp3",
+        "description": "la voce di Barbara De Bortoli nel film \"The Ring\", in cui doppia Naomi Watts."
+      }
     },
     {
       "source": "voci/vocibdi.htm",
@@ -1576,6 +1759,10 @@
       "photo": {
         "name": "voci/degliinnocenti.jpg",
         "description": "Foto di Benedetta Degli Innocenti"
+      },
+      "audio": {
+        "name": "suoni/vocebdi.mp3",
+        "description": "la voce di Benedetta Degli Innocenti nel telefilm \"The Walking Dead\", in cui doppia Ashley Bell."
       }
     },
     {
@@ -1592,7 +1779,11 @@
           "character": "Olivia",
           "actor": "Olivia De Laurentis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebman.mp3",
+        "description": "la voce di Benedetta Manfredi nel film \"L'era glaciale 2 - Il disgelo\", in cui doppia Tapirina."
+      }
     },
     {
       "source": "voci/vocibmar.htm",
@@ -1612,7 +1803,11 @@
           "character": "Zia Beru",
           "actor": "Shelagh Fraser"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebmar.mp3",
+        "description": "la voce di Benita Martini nel film d'animazione \"Biancaneve e i Sette Nani\", in cui doppia la Regina."
+      }
     },
     {
       "source": "voci/vocibper.htm",
@@ -1641,7 +1836,11 @@
           "character": "Dott. Michaels",
           "actor": "Donald Pleasence"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocebper.mp3",
+        "description": "la voce di Bruno Persa nel film \"I magnifici sette\", in cui doppia Eli Wallach."
+      }
     },
     {
       "source": "voci/vocicb.htm",
@@ -1714,7 +1913,11 @@
           "character": "Diana Reiter",
           "actor": "Elina Löwensohn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecb.mp3",
+        "description": "la voce di Cristina Boraschi nel film \"Insonnia d'amore\", in cui doppia Meg Ryan."
+      }
     },
     {
       "source": "voci/vocicba.htm",
@@ -1806,7 +2009,11 @@
           "character": "Dott. Peter Ingham",
           "actor": "Max Von Sydow"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecba.mp3",
+        "description": "la voce di Cesare Barbetti nel telefilm \"Ellery Queen\", in cui doppia Jim Hutton."
+      }
     },
     {
       "source": "voci/vocicbac.htm",
@@ -1889,7 +2096,11 @@
           "character": "Gen. Cassio Tagge",
           "actor": "Don Henderson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecbac.mp3",
+        "description": "la voce di Carlo Baccarini nel film \"Il Signore degli Anelli: Le due torri\", in cui è la voce di Barbalbero."
+      }
     },
     {
       "source": "voci/vocicbal.htm",
@@ -1918,7 +2129,11 @@
           "character": "Carolyn Mcadams",
           "actor": "Sarah Jessica Parker"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecbal.mp3",
+        "description": "la voce di Claudia Balboni nel film \"Hot Shots! 2\", in cui doppia Brenda Bakke."
+      }
     },
     {
       "source": "voci/vocicc.htm",
@@ -1956,7 +2171,11 @@
           "character": "Luke Skywalker",
           "actor": "Mark Hamill"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecc.mp3",
+        "description": "la voce di Claudio Capone nel telefilm \"Settimo cielo\", in cui doppia Stephen Collins."
+      }
     },
     {
       "source": "voci/vocicco.htm",
@@ -1967,6 +2186,15 @@
         "description": "Foto di Chiara Colizzi"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Karen Pomeroy",
+          "actor": "Drew Barrymore"
+        },
         {
           "movie": {
             "title": "Existenz",
@@ -2003,7 +2231,11 @@
           "character": "Clementine Kruczynski",
           "actor": "Kate Winslet"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecco.mp3",
+        "description": "la voce di Chiara Colizzi nella miniserie \"Mildred Pierce\", in cui doppia Kate Winslet."
+      }
     },
     {
       "source": "voci/vociccon.htm",
@@ -2086,7 +2318,11 @@
           "character": "Pinocchio",
           "actor": "Cody Cameron"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceccon.mp3",
+        "description": "la voce di Corrado Conforti nel telefilm \"Scrubs\", in cui doppia la guest-star Jay Mohr."
+      }
     },
     {
       "source": "voci/vocicf.htm",
@@ -2193,7 +2429,11 @@
           "character": "Brown",
           "actor": "Derek Webster"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecf.mp3",
+        "description": "la voce di Claudio Fattoretto nel film \"JFK - Un caso ancora aperto\", in cui doppia Michael Rooker."
+      }
     },
     {
       "source": "voci/vocicg.htm",
@@ -2231,7 +2471,11 @@
           "character": "Obi-Wan Kenobi",
           "actor": "Alec Guinness"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecg.mp3",
+        "description": "la voce di Corrado Gaipa nel film \"Quella sporca dozzina\", in cui doppia Telly Savalas."
+      }
     },
     {
       "source": "voci/vocicgia.htm",
@@ -2251,7 +2495,11 @@
           "character": "Merle",
           "actor": "Sarah Polley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecgia.mp3",
+        "description": "la voce di Cristina Giachero nel film d'animazione \"Toy Story 2: Woody e Buzz alla riscossa\", in cui doppia Barbie."
+      }
     },
     {
       "source": "voci/vocicgra.htm",
@@ -2271,7 +2519,11 @@
           "character": "Jocasta Nu",
           "actor": "Alethea Mcgrath"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecgra.mp3",
+        "description": "la voce di Cristina Grado nel film \"Spider-Man 3\", in cui doppia Rosemary Harris."
+      }
     },
     {
       "source": "voci/vocici.htm",
@@ -2345,7 +2597,11 @@
           "character": "Jar Jar Binks (Voce)",
           "actor": "Ahmed Best"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceci.mp3",
+        "description": "la voce di Christian Iansante nel telefilm \"La spada della verità\", in cui doppia Craig Parker."
+      }
     },
     {
       "source": "voci/vocicl.htm",
@@ -2410,7 +2666,11 @@
           "character": "Il Gatto",
           "actor": "Tracey Ullman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecl.mp3",
+        "description": "la voce di Cristiana Lionello nel film \"Il signore degli anelli: La compagnia dell'anello\", in cui doppia Cate Blanchett."
+      }
     },
     {
       "source": "voci/vocicmar.htm",
@@ -2448,7 +2708,11 @@
           "character": "Voce Narrante",
           "actor": "(Assente Nella Versione Originale)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecmar.mp3",
+        "description": "la voce di Carlo Marini dal film \"I fratelli Grimm e l'incantevole strega\", in cui doppia Richard Ridings."
+      }
     },
     {
       "source": "voci/vocicpol.htm",
@@ -2468,7 +2732,11 @@
           "character": "Araldo",
           "actor": "Ken Beaumont"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecpol.mp3",
+        "description": "la voce di Cesare Polacco da \"Carosello\", in una delle sue celebri scenette dell'ispettore Rock che pubblicizza la brillantina Linetti."
+      }
     },
     {
       "source": "voci/vocicr.htm",
@@ -2542,7 +2810,11 @@
           "character": "V.I.N.Cent. Il Robot (Voce)",
           "actor": "Roddy Mcdowall"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecr.mp3",
+        "description": "la voce di Carlo Reali dal telefilm \"Scrubs - Medici ai primi ferri\", in cui doppia Ken Jenkins."
+      }
     },
     {
       "source": "voci/vocicraz.htm",
@@ -2589,7 +2861,11 @@
           "character": "Regina Jamillia Di Naboo",
           "actor": "Ayesha Dharker"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecraz.mp3",
+        "description": "la voce di Claudia Razzi nel film \"Kate & Leopold\", in cui doppia Meg Ryan."
+      }
     },
     {
       "source": "voci/vocicrom.htm",
@@ -2617,7 +2893,11 @@
           "character": "Cappellaio Matto",
           "actor": "Ed Wynn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecrom.mp3",
+        "description": "la voce di Carlo Romano nel film \"Il buono, il brutto e il cattivo\", in cui doppia Eli Wallach."
+      }
     },
     {
       "source": "voci/vocicsab.htm",
@@ -2673,7 +2953,11 @@
           "character": "Dott. Faraday",
           "actor": "Howard Hesseman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecsab.mp3",
+        "description": "la voce di Carlo Sabatini dal film \"Le ali della libertà\", in cui doppia Morgan Freeman."
+      }
     },
     {
       "source": "voci/vocicsant.htm",
@@ -2693,7 +2977,11 @@
           "character": "Bruce Wayne / Batman",
           "actor": "Christian Bale"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecsant.mp3",
+        "description": "la voce di Claudio Santamaria nel film \"Il Cavaliere Oscuro\", in cui doppia Christian Bale."
+      }
     },
     {
       "source": "voci/vocicsci.htm",
@@ -2722,7 +3010,11 @@
           "character": "Portiere Dell'hotel",
           "actor": "Shinpachi Tsuji"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecsci.mp3",
+        "description": "la voce di Carlo Scipioni nel film \"Terminator Genisys\", in cui doppia Jai Courtney."
+      }
     },
     {
       "source": "voci/vocicsor.htm",
@@ -2760,7 +3052,11 @@
           "character": "Kevin Flynn / Clu",
           "actor": "Jeff Bridges"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecsor.mp3",
+        "description": "la voce di Claudio Sorrentino dal film \"Codice: Swordfish\", in cui doppia John Travolta."
+      }
     },
     {
       "source": "voci/vocict.htm",
@@ -2798,7 +3094,11 @@
           "character": "Sergente",
           "actor": "Bruce M. Kerner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocect.mp3",
+        "description": "la voce di Claudio Trionfi nel film d'animazione \"Red e Toby nemiciamici\", in cui doppia Toby adulto."
+      }
     },
     {
       "source": "voci/vocicv.htm",
@@ -2872,7 +3172,11 @@
           "character": "Hunter 'Patch' Adams",
           "actor": "Robin Williams"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocecv.mp3",
+        "description": "la voce di Carlo Valli nel film \"L'attimo fuggente\", in cui doppia Robin Williams."
+      }
     },
     {
       "source": "voci/vociczac.htm",
@@ -2901,7 +3205,11 @@
           "character": "Helen Hirsch",
           "actor": "Embeth Davidtz"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceczac.mp3",
+        "description": "la voce di Carolina Zaccarini nel telefilm \"Modus\", in cui doppia Anja Lundqvist."
+      }
     },
     {
       "source": "voci/vocidb.htm",
@@ -2964,7 +3272,11 @@
           "character": "Dott. Alex Durant",
           "actor": "Anthony Perkins"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedb.mp3",
+        "description": "la voce di Dante Biagioni nel film \"Il Re Scorpione\", in cui doppia Bernard Hill."
+      }
     },
     {
       "source": "voci/vocidc.htm",
@@ -2983,7 +3295,35 @@
           },
           "character": "Recluta Di Pejitei"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedc.mp3",
+        "description": "la voce di David Chevalier nel telefilm \"Castle\", in cui doppia Charlie Hofheimer."
+      }
+    },
+    {
+      "source": "voci/vocidcar.htm",
+      "name": "Daniela Caroli",
+      "indexName": "Caroli, Daniela",
+      "photo": {
+        "name": "voci/caroli.jpg",
+        "description": "Foto di Daniela Caroli"
+      },
+      "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Kitty Farmer",
+          "actor": "Beth Grant"
+        }
+      ],
+      "audio": {
+        "name": "suoni/vocedcar.mp3",
+        "description": "la voce di Daniela Caroli nel film [Donnie Darko](movie-page.html?movieSource=film/donniedarko.htm), in cui doppia Beth Grant."
+      }
     },
     {
       "source": "voci/vocidchi.htm",
@@ -3003,7 +3343,11 @@
           "character": "Bertha",
           "actor": "Hiroko Seki"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedchi.mp3",
+        "description": "la voce di Doriana Chierici nel film \"Closing the Ring\", in cui doppia Shirley MacLaine."
+      }
     },
     {
       "source": "voci/vocidcr.htm",
@@ -3032,7 +3376,11 @@
           "character": "Ellen, La Cameriera",
           "actor": "Hermione Baddeley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedcr.mp3",
+        "description": "la voce di Dhia Cristiani dal film \"I dieci comandamenti\", in cui doppia Yvonne De Carlo."
+      }
     },
     {
       "source": "voci/vocidcre.htm",
@@ -3065,6 +3413,15 @@
       "works": [
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Elizabeth Darko",
+          "actor": "Maggie Gyllenhaal"
+        },
+        {
+          "movie": {
             "title": "Consegne A Domicilio Kiki's Delivery Service",
             "source": "film/kikisdeliveryservice.htm",
             "poster": "film/kikisdeliveryservice.jpg"
@@ -3090,7 +3447,11 @@
           "character": "May",
           "actor": "Li Li"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedda.mp3",
+        "description": "la voce di Domitilla D'Amico nel film \"What women want\", in cui doppia Ashley Johnson."
+      }
     },
     {
       "source": "voci/vociddan.htm",
@@ -3119,7 +3480,11 @@
           "character": "Fayah, Moglie Di Sallah",
           "actor": "Souad Messaoudi"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceddan.mp3",
+        "description": "la voce di Daniela D'Angelo nel film d'animazione [Gli Incredibili](movie-page.html?movieSource=film/gliincredibili.htm), in cui doppia Honey."
+      }
     },
     {
       "source": "voci/vociddg.htm",
@@ -3157,7 +3522,11 @@
           "character": "Mitch Roman",
           "actor": "Philip Seymour Hoffman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceddg.mp3",
+        "description": "la voce di Danilo De Girolamo nel film \"Harry Potter e il prigioniero di Azkaban\", in cui doppia David Thewlis."
+      }
     },
     {
       "source": "voci/vocidds.htm",
@@ -3177,7 +3546,11 @@
           "character": "Sarah Connor",
           "actor": "Linda Hamilton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedds.mp3",
+        "description": "la voce di Daniela De Silva nel film [Terminator](movie-page.html?movieSource=film/terminator1.htm), in cui doppia Linda Hamilton."
+      }
     },
     {
       "source": "voci/vocidfor.htm",
@@ -3197,7 +3570,11 @@
           "character": "Gilbert Huph",
           "actor": "Wallace Shawn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedfor.mp3",
+        "description": "la voce di Daniele Formica nel film d'animazione [Gli Incredibili](movie-page.html?movieSource=film/gliincredibili.htm), in cui doppia Gilbert Huph."
+      }
     },
     {
       "source": "voci/vocidl.htm",
@@ -3217,7 +3594,11 @@
           "character": "Zia Jack",
           "actor": "Scott Capurro"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedl.mp3",
+        "description": "la voce di Davide Lepore nel cartone animato \"I Griffin\", in cui doppia Chris Griffin."
+      }
     },
     {
       "source": "voci/vocidlio.htm",
@@ -3261,7 +3642,11 @@
           "character": "Grimbold",
           "actor": "Bruce Phillips"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedm.mp3",
+        "description": "la voce di Davide Marzi in alcuni estratti dai film \"Sunshine\", in cui doppia Mark Strong\", \"The Illusionist - L'illusionista\", in cui doppia Rufus Sewell, e \"The Guardian\", in cui doppia Neal McDonough."
+      }
     },
     {
       "source": "voci/vocidp.htm",
@@ -3272,6 +3657,15 @@
         "description": "Foto di Davide Perino"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Ronald Fisher",
+          "actor": "Stuart Stone"
+        },
         {
           "movie": {
             "title": "Il Signore Degli Anelli: La Compagnia...",
@@ -3326,7 +3720,11 @@
           "character": "Patrick",
           "actor": "Elijah Wood"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedp.mp3",
+        "description": "la voce di Davide Perino nel film \"Hairspray - Grasso è bello!\", in cui doppia Zac Efron."
+      }
     },
     {
       "source": "voci/vocidpen.htm",
@@ -3472,7 +3870,11 @@
           "character": "Ed Dillinger / Sark",
           "actor": "David Warner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedpen.mp3",
+        "description": "la voce di Dario Penne dal film \"Men in Black\", in cui doppia Tommy Lee Jones."
+      }
     },
     {
       "source": "voci/vocidr.htm",
@@ -3492,7 +3894,11 @@
           "character": "Senzatetto",
           "actor": "Rade Serbedzija"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedr.mp3",
+        "description": "la voce di Diego Reggente dal film \"People I Know\", in cui doppia Al Pacino."
+      }
     },
     {
       "source": "voci/vocidsav.htm",
@@ -3512,7 +3918,11 @@
           "character": "Fayah, Moglie Di Sallah",
           "actor": "Souad Messaoudi"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocedsav.mp3",
+        "description": "la voce di Deddi Savagnone nel film d'animazione \"A Bug's Life - Megaminimondo\", in cui doppia la Formica Regina."
+      }
     },
     {
       "source": "voci/vocieb.htm",
@@ -3528,7 +3938,11 @@
           "character": "Wendy",
           "actor": "Nada Despotovitch"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceeb.mp3",
+        "description": "la voce di Emanuela Baroni dal film \"James e la pesca gigante\", in cui doppia la Signorina Ragno."
+      }
     },
     {
       "source": "voci/vociebal.htm",
@@ -3548,7 +3962,11 @@
           "character": "Dott. Philip Hillyer",
           "actor": "Sebastian Cabot"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceebal.mp3",
+        "description": "la voce di Ennio Balbo nel film \"L'uomo che visse nel futuro\", in cui doppia Sebastian Cabot."
+      }
     },
     {
       "source": "voci/vociebia.htm",
@@ -3568,7 +3986,11 @@
           "character": "Madre Di Leonard",
           "actor": "Kim Brockington"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceebia.mp3",
+        "description": "la voce di Elena Bianca nel film \"The Score\", in cui doppia Angela Bassett."
+      }
     },
     {
       "source": "voci/vociec.htm",
@@ -3615,7 +4037,11 @@
           "character": "Salim Abu Aziz",
           "actor": "Art Malik"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceec.mp3",
+        "description": "la voce di Ennio Coltorti dal film \"Matrix\", in cui doppia Hugo Weaving."
+      }
     },
     {
       "source": "voci/vociecap.htm",
@@ -3635,7 +4061,11 @@
           "character": "Det. Banks",
           "actor": "Raymond Forchion"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceecap.mp3",
+        "description": "la voce di Emilio Cappuccio nel telefilm \"X-Files\", in cui doppia Mitch Pileggi."
+      }
     },
     {
       "source": "voci/vocieco.htm",
@@ -3655,7 +4085,11 @@
           "character": "Percy Weasley, Prefetto Del Grifondoro",
           "actor": "Chris Rankin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceeco.mp3",
+        "description": "la voce di Emiliano Coltorti nel film \"Le Cronache di Narnia - Il viaggio del veliero\", in cui doppia Ben Barnes."
+      }
     },
     {
       "source": "voci/vociecont.htm",
@@ -3693,7 +4127,11 @@
           "character": "Cappello Parlante (Voce)",
           "actor": "Leslie Phillips"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceecont.mp3",
+        "description": "la voce di Ettore Conti dal film d'animazione \"Atlantis - L'impero perduto\", in cui doppia Cookie."
+      }
     },
     {
       "source": "voci/vocieda.htm",
@@ -3749,7 +4187,11 @@
           "character": "Paula",
           "actor": "Penelope Ann Miller"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceeda.mp3",
+        "description": "la voce di Eleonora De Angelis nel film \"Io & Marley\", in cui doppia Jennifer Aniston."
+      }
     },
     {
       "source": "voci/vociedam.htm",
@@ -3769,7 +4211,11 @@
           "character": "Evanna",
           "actor": "Jessica Capshaw"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceedam.mp3",
+        "description": "la voce di Emanuela D'Amico nel telefilm \"Buffy\", in cui doppia Michelle Trachtenberg."
+      }
     },
     {
       "source": "voci/vociedt.htm",
@@ -3798,7 +4244,11 @@
           "character": "Cap. Simon Katanga",
           "actor": "George Harris"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceedt.mp3",
+        "description": "la voce di Enrico Di Troia nel telefilm \"True Blood\", in cui doppia John Fleck."
+      }
     },
     {
       "source": "voci/vocieg.htm",
@@ -3818,7 +4268,11 @@
           "character": "Tom, Oste Del Paiolo Magico",
           "actor": "Derek Deadman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceeg.mp3",
+        "description": "la voce di Enzo Garinei dal film d'animazione \"Atlantis - L'impero perduto\", in cui doppia Preston Whitmore."
+      }
     },
     {
       "source": "voci/vocielib.htm",
@@ -3838,7 +4292,11 @@
           "character": "Abitante Del Villaggio",
           "actor": "John Dennis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceelib.mp3",
+        "description": "la voce di Enzo Liberti nel film \"Audace colpo dei soliti ignoti\", in cui doppia Gastone Moschin."
+      }
     },
     {
       "source": "voci/vocieliber.htm",
@@ -3857,7 +4315,11 @@
           },
           "character": "Ragazza Sostituta"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceeliber.mp3",
+        "description": "la voce di Elena Liberati nel film \"Into the Wild - Nelle terre selvagge\", in cui doppia Kristen Stewart."
+      }
     },
     {
       "source": "voci/vocielup.htm",
@@ -3877,7 +4339,11 @@
           "character": "Cenerentola",
           "actor": "Elisa Gabrielli"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceelup.mp3",
+        "description": "la voce di Eliana Lupo nel telefilm \"Una mamma per amica\", in cui doppia Melissa McCarthy."
+      }
     },
     {
       "source": "voci/vocielv.htm",
@@ -3914,7 +4380,11 @@
           },
           "character": "Muzu"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceelv.mp3",
+        "description": "la voce di Emidio La Vella dal film \"I fratelli Grimm e l'incantevole strega\", in cui doppia Roger Ashton-Griffiths."
+      }
     },
     {
       "source": "voci/vociem.htm",
@@ -3943,7 +4413,11 @@
           "character": "Cap. Byron Hadley",
           "actor": "Clancy Brown"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceem.mp3",
+        "description": "la voce di Eugenio Marinelli nel film \"Pulp Fiction\", in cui doppia Ving Rhames."
+      }
     },
     {
       "source": "voci/vociemag.htm",
@@ -3972,7 +4446,11 @@
           "character": "Padrona Di Ciuchino",
           "actor": "Kathleen Freeman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceemag.mp3",
+        "description": "la voce di Elena Magoia dal film d'animazione \"Hercules\", in cui doppia Cloto."
+      }
     },
     {
       "source": "voci/vocienec.htm",
@@ -4015,7 +4493,11 @@
           "character": "Summer Hathaway",
           "actor": "Miranda Cosgrove"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceenec.mp3",
+        "description": "la voce di Erica Necci nel telefilm \"La vita segreta di una teenager americana\", in cui doppia Shailene Woodley."
+      }
     },
     {
       "source": "voci/vocienev.htm",
@@ -4043,7 +4525,11 @@
           },
           "character": "Voce Pubblicita' Nestle'"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceenev.mp3",
+        "description": "la voce di Edoardo Nevola nel film \"Un semplice desiderio\", in cui doppia Martin Short."
+      }
     },
     {
       "source": "voci/vociepad.htm",
@@ -4072,7 +4558,11 @@
           "character": "Rastel",
           "actor": "Mîna Tominaga"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceepad.mp3",
+        "description": "la voce di Eva Padoan nel telefilm statunitense \"Skins\", in cui doppia Sofia Black D'Elia."
+      }
     },
     {
       "source": "voci/vociepal.htm",
@@ -4128,7 +4618,11 @@
           "character": "Rob",
           "actor": "David Cross"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceepal.mp3",
+        "description": "la voce di Enrico Pallini nel film \"Sin City\", in cui doppia Tommy Flanagan."
+      }
     },
     {
       "source": "voci/vocier.htm",
@@ -4193,7 +4687,11 @@
           "character": "Jennifer Parker",
           "actor": "Claudia Wells"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceer.mp3",
+        "description": "la voce di Emanuela Rossi nel film \"Saving Mr. Banks\", in cui doppia Emma Thompson."
+      }
     },
     {
       "source": "voci/vociez.htm",
@@ -4240,7 +4738,11 @@
           "character": "Nute Gunray",
           "actor": "Silas Carson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceez.mp3",
+        "description": "la voce di Elio Zamuto dal film \"Carlito's way\", in cui doppia Frank Minucci."
+      }
     },
     {
       "source": "voci/vocifa.htm",
@@ -4277,7 +4779,11 @@
           },
           "character": "Tecnico Addetto Al Cuore"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefa.mp3",
+        "description": "la voce di Ferruccio Amendola nel film \"Rambo\", in cui doppia Sylvester Stallone."
+      }
     },
     {
       "source": "voci/vocifaq.htm",
@@ -4306,7 +4812,11 @@
           "character": "Zack",
           "actor": "Joey Gaydos Jr."
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefaq.mp3",
+        "description": "la voce di Flavio Aquilone nel film \"Le Cronache di Narnia - Il Principe Caspian\", in cui doppia William Moseley."
+      }
     },
     {
       "source": "voci/vocifb.htm",
@@ -4380,7 +4890,11 @@
           "character": "Obi-Wan Kenobi",
           "actor": "Ewan Mcgregor"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefb.mp3",
+        "description": "la voce di Francesco Bulckaen nel telefilm \"Call Me Fitz\", in cui doppia Jason Priestley."
+      }
     },
     {
       "source": "voci/vocifbet.htm",
@@ -4400,7 +4914,11 @@
           "character": "Mata Bond",
           "actor": "Joanna Pettet"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefbet.mp3",
+        "description": "la voce di Fiorella Betti dal film \"Lo spaccone\", in cui doppia Piper Laurie."
+      }
     },
     {
       "source": "voci/vocifboc.htm",
@@ -4419,6 +4937,15 @@
           },
           "character": "Matt Murdock / Devil",
           "actor": "Ben Affleck"
+        },
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Prof. Kenneth Monnitoff",
+          "actor": "Noah Wyle"
         },
         {
           "movie": {
@@ -4492,7 +5019,11 @@
           "character": "Faisil",
           "actor": "Grant Heslov"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefboc.mp3",
+        "description": "la voce di Fabio Boccanera nel film \"La maledizione della Prima Luna\", in cui doppia Johnny Depp."
+      }
     },
     {
       "source": "voci/vocifcar.htm",
@@ -4521,7 +5052,11 @@
           "character": "Gloria Chaney",
           "actor": "Polly Holliday"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefcar.mp3",
+        "description": "la voce di Flora Carosello nel cartone animato \"Mototopo e Autogatto\", in cui doppia Mototopo."
+      }
     },
     {
       "source": "voci/vocifcarn.htm",
@@ -4541,7 +5076,11 @@
           "character": "Backland",
           "actor": "Om Puri"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefcarn.mp3",
+        "description": "la voce di Francesco Carnelutti nel film \"Il Codice Da Vinci\", in cui interpreta un prelato."
+      }
     },
     {
       "source": "voci/vocifcaru.htm",
@@ -4569,7 +5108,11 @@
           "character": "Gregor",
           "actor": "Jan Unger"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefcaru.mp3",
+        "description": "la voce di Francesco Caruso dal film \"I fratelli Grimm e l'incantevole strega\", in cui doppia Jan Unger."
+      }
     },
     {
       "source": "voci/vocifchi.htm",
@@ -4612,7 +5155,11 @@
           "character": "Sio Bibble",
           "actor": "Oliver Ford Davies"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefchi.mp3",
+        "description": "la voce di Franco Chillemi nel film d'animazione \"Pocahontas\", in cui doppia il Governatore Ratcliffe."
+      }
     },
     {
       "source": "voci/vocifdb.htm",
@@ -4677,7 +5224,11 @@
           "character": "Padme Amidala",
           "actor": "Natalie Portman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefdb.mp3",
+        "description": "la voce di Federica De Bortoli nel film \"Un'ottima annata - A Good Year\", in cui doppia Abbie Cornish."
+      }
     },
     {
       "source": "voci/vocifdf.htm",
@@ -4687,6 +5238,15 @@
         "name": "voci/fadeflaviis.jpg"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Sean Smith",
+          "actor": "Gary Lundy"
+        },
         {
           "movie": {
             "title": "Harry Potter E La Pietra Filosofale",
@@ -4705,7 +5265,11 @@
           "character": "Boba Fett",
           "actor": "Daniel Logan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefdf.mp3",
+        "description": "la voce di Fabrizio de Flaviis nel film \"7 sconosciuti a El Royale\", in cui doppia Chris Hemsworth."
+      }
     },
     {
       "source": "voci/vocifdfe.htm",
@@ -4772,7 +5336,11 @@
           "character": "Victoria Everglot",
           "actor": "Emily Watson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceff.mp3",
+        "description": "la voce di Francesca Fiorentini nel film \"Sin City\", in cui doppia Rosario Dawson."
+      }
     },
     {
       "source": "voci/vocifg.htm",
@@ -4809,7 +5377,11 @@
           "character": "Sig.Ra Beauregarde",
           "actor": "Missi Pyle"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefg.mp3",
+        "description": "la voce di Francesca Guadagno nel cartone animato \"Inuyasha\", in cui doppia Kikyo."
+      }
     },
     {
       "source": "voci/vocifgiu.htm",
@@ -4849,7 +5421,11 @@
           "character": "Maharaja Zalim Singh",
           "actor": "Raj Singh"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefi.mp3",
+        "description": "la voce di Fiamma Izzo dal film \"Il fantasma dell'Opera\", in cui doppia Minnie Driver."
+      }
     },
     {
       "source": "voci/vocifj.htm",
@@ -4878,7 +5454,11 @@
           "character": "Stella Baines",
           "actor": "Frances Lee Mccain"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefj.mp3",
+        "description": "la voce di Flaminia Jandolo dal film \"Il declino dell'impero americano\", in cui doppia Dominique Michel."
+      }
     },
     {
       "source": "voci/vociflac.htm",
@@ -4916,7 +5496,11 @@
           "character": "Veneranda Anziana",
           "actor": "Hisako Kyōda"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceflum.mp3",
+        "description": "la voce di Franca Lumachi nel cartone animato \"I Simpson\", in cui doppia la maestra Edna Kaprapall."
+      }
     },
     {
       "source": "voci/vocifma.htm",
@@ -4963,7 +5547,11 @@
           "character": "Serg. Kunder",
           "actor": "Grzegorz Damiecki"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefma.mp3",
+        "description": "la voce di Fabrizio Manfredi dal cartone animato \"Futurama\", in cui doppia Phillip J. Fry."
+      }
     },
     {
       "source": "voci/vocifman.htm",
@@ -4992,7 +5580,11 @@
           "character": "Justin Gregory",
           "actor": "Martin Mull"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefman.mp3",
+        "description": "la voce di Franco Mannella nel telefilm \"Spartacus: sangue e sabbia\", in cui doppia John Hannah."
+      }
     },
     {
       "source": "voci/vocifmangi.htm",
@@ -5039,7 +5631,11 @@
           },
           "character": "Tre Porcellini"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefmaz.mp3",
+        "description": "la voce di Fabrizio Mazzotta nel cartone animato \"I Simpson\", in cui doppia Krusty il Clown."
+      }
     },
     {
       "source": "voci/vocifmeo.htm",
@@ -5077,7 +5673,11 @@
           "character": "Sig. Teavee",
           "actor": "Adam Godley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefmeo.mp3",
+        "description": "la voce di Francesco Meoni nel telefilm \"Phil dal futuro\", in cui doppia J.P. Manoux."
+      }
     },
     {
       "source": "voci/vocifnot.htm",
@@ -5113,7 +5713,11 @@
           "character": "Padre Di Conan",
           "actor": "William Smith"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefo.mp3",
+        "description": "la voce di Franco Odoardi nella serie \"La casa nella prateria\", in cui doppia Kevin Hagen."
+      }
     },
     {
       "source": "voci/vocifp.htm",
@@ -5168,7 +5772,11 @@
           "character": "Anakin Skywalker",
           "actor": "Hayden Christensen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefp.mp3",
+        "description": "la voce di Francesco Pezzulli nel telefilm \"Castle\", in cui doppia David Conrad."
+      }
     },
     {
       "source": "voci/vocifpa.htm",
@@ -5269,7 +5877,11 @@
           "character": "Col. Jack O'neil",
           "actor": "Kurt Russell"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefpa.mp3",
+        "description": "la voce di Francesco Pannofino nel film [Philadelphia](movie-page.html?movieSource=film/philadelphia.htm), in cui doppia Denzel Washington."
+      }
     },
     {
       "source": "voci/vocifpal.htm",
@@ -5298,7 +5910,11 @@
           "character": "Clara Sternberg",
           "actor": "Lidia Wyrobiec-Bank"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefpal.mp3",
+        "description": "la voce di Francesca Palopoli nel film \"Nanny McPhee - Tata Matilda\", in cui doppia Angela Lansbury."
+      }
     },
     {
       "source": "voci/vocifper.htm",
@@ -5318,7 +5934,11 @@
           "character": "Flash Parr",
           "actor": "Spencer Fox"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefper.mp3",
+        "description": "la voce di Furio Pergolani nel film \"Nanny McPhee - Tata Matilda\", in cui doppia Thomas Sangster."
+      }
     },
     {
       "source": "voci/vocifpra.htm",
@@ -5401,7 +6021,11 @@
           "character": "Luke Skywalker",
           "actor": "Mark Hamill"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefpra.mp3",
+        "description": "la voce di Francesco Prando dal film \"La giuria\", in cui doppia John Cusack."
+      }
     },
     {
       "source": "voci/vocifpu.htm",
@@ -5439,7 +6063,11 @@
           "character": "Uomo In Aereo",
           "actor": "Robert Lesser"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefpu.mp3",
+        "description": "la voce di Fabrizio Pucci dal cartone animato \"I Simpson\", in cui doppia Troy McClure."
+      }
     },
     {
       "source": "voci/vocifros.htm",
@@ -5455,7 +6083,11 @@
           "character": "Alicia",
           "actor": "Aleisha Allen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefros.mp3",
+        "description": "la voce di Flavia Rosa nel film \"School of Rock\", in cui doppia Aleisha Allen."
+      }
     },
     {
       "source": "voci/vocift.htm",
@@ -5474,7 +6106,11 @@
           "character": "Christy Brown",
           "actor": "Daniel Day-Lewis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceft.mp3",
+        "description": "la voce di Fabrizio Temperini dal telefilm \"X-Files\", in cui doppia la guest-star Chris Ellis (epis. 3.22)."
+      }
     },
     {
       "source": "voci/vocifv.htm",
@@ -5511,7 +6147,11 @@
           "character": "Dewey Finn",
           "actor": "Jack Black"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefv.mp3",
+        "description": "la voce di Fabrizio Vidale nel film \"Matrix\", in cui doppia Marcus Chong."
+      }
     },
     {
       "source": "voci/vocifvai.htm",
@@ -5602,7 +6242,11 @@
           "character": "Palpatine / Darth Sidious",
           "actor": "Ian Mcdiarmid"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefvai.mp3",
+        "description": "la voce di Francesco Vairano nel film \"Harry Potter e i Doni della Morte - Parte II\", in cui doppia Alan Rickman."
+      }
     },
     {
       "source": "voci/vocifvol.htm",
@@ -5622,7 +6266,11 @@
           "character": "Anthony Bridewell",
           "actor": "Tom Helmore"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefvol.mp3",
+        "description": "la voce di Franco Volpi nel film \"L'uomo che visse nel futuro\", in cui doppia Tom Helmore."
+      }
     },
     {
       "source": "voci/vocifz.htm",
@@ -5651,7 +6299,11 @@
           "character": "Sig. Green",
           "actor": "Lee Wilkof"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocefz.mp3",
+        "description": "la voce di Franco Zucca nel film \"Il terrore della sesta luna\", in cui doppia Donald Sutherland."
+      }
     },
     {
       "source": "voci/vociga.htm",
@@ -5716,7 +6368,11 @@
           "character": "Lupo Cattivo",
           "actor": "Aron Warner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocega.mp3",
+        "description": "la voce di Gerolamo Alchieri nel telefilm \"Il trono di spade\", in cui doppia Robert Pugh."
+      }
     },
     {
       "source": "voci/vocigalb.htm",
@@ -5736,7 +6392,11 @@
           "character": "Zio Owen Lars",
           "actor": "Phil Brown"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegalb.mp3",
+        "description": "la voce di Giampiero Albertini nella miniserie \"Space\", in cui doppia Martin Balsam."
+      }
     },
     {
       "source": "voci/vocigb.htm",
@@ -5810,7 +6470,11 @@
           "character": "Prof. Langford",
           "actor": "Erik Holland"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegb.mp3",
+        "description": "la voce di Gianfranco Bellini nella miniserie \"Ike\", in cui doppia Ian Richardson."
+      }
     },
     {
       "source": "voci/vocigbag.htm",
@@ -5830,7 +6494,11 @@
           "character": "Sig. Binnacle",
           "actor": "Don Barclay David Tomlinson (Voce)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegbag.mp3",
+        "description": "la voce di Gino Baghetti nel film \"Quattro bassotti per un danese\", in cui doppia Charlie Ruggles."
+      }
     },
     {
       "source": "voci/vocigbar.htm",
@@ -5868,7 +6536,11 @@
           "character": "Crom",
           "actor": "Peter Jurasik"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegbar.mp3",
+        "description": "la voce di Gil Baroni nel film d'animazione \"Il principe e il povero\", in cui doppia il Re."
+      }
     },
     {
       "source": "voci/vocigber.htm",
@@ -5888,7 +6560,11 @@
           "character": "Marquet",
           "actor": "Ken Hutchinson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegber.mp3",
+        "description": "la voce di Gianni Bertoncin dal film \"Passione selvaggia\", in cui doppia Gregory Peck."
+      }
     },
     {
       "source": "voci/vocigbl.htm",
@@ -5909,7 +6585,11 @@
           "character": "Harpo Johnson",
           "actor": "Willard Pugh"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegbl.mp3",
+        "description": "la voce di Gianni Bersanetti nel cartone animato \"I Simpson\", in cui doppia David Duchovny / Fox Mulder."
+      }
     },
     {
       "source": "voci/vocigbona.htm",
@@ -5956,7 +6636,11 @@
           "character": "Col. Donald Reid",
           "actor": "Arthur O'connell"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegbona.mp3",
+        "description": "la voce di Gianni Bonagura nel film \"La vera storia di Jack lo Squartatore - From Hell\", in cui doppia Ian Holm."
+      }
     },
     {
       "source": "voci/vocigcap.htm",
@@ -5985,7 +6669,11 @@
           "character": "Ammiraglio Boom",
           "actor": "Reginald Owen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegcap.mp3",
+        "description": "la voce di Giorgio Capecchi nel film \"Fronte del porto\", in cui doppia Karl Malden."
+      }
     },
     {
       "source": "voci/vocigcas.htm",
@@ -6014,7 +6702,11 @@
           "character": "Christophe 'Chris' Hillard",
           "actor": "Matthew Lawrence"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegcas.mp3",
+        "description": "la voce di George Castiglia nel cartone animato \"Spider Riders\", in cui doppia Hunter Steel."
+      }
     },
     {
       "source": "voci/vocigcomp.htm",
@@ -6054,7 +6746,11 @@
           "character": "Madre Di Rastel",
           "actor": "Akiko Tsuboi"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegcri.mp3",
+        "description": "la voce di Gilberta Crispino nel film \"8 amici da salvare\", in cui doppia Wendy Crewson."
+      }
     },
     {
       "source": "voci/vocigcrisa.htm",
@@ -6074,7 +6770,35 @@
           "character": "Telecronista",
           "actor": "Kouichi Yamadera"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegcrisa.mp3",
+        "description": "la voce di Gianluca Crisafi nel telefilm \"Modern Family\", in cui doppia Jesse Tyler Ferguson."
+      }
+    },
+    {
+      "source": "voci/vocigd.htm",
+      "name": "Gemma Donati",
+      "indexName": "Donati, Gemma",
+      "photo": {
+        "name": "voci/donati.jpg",
+        "description": "Foto di Gemma Donati"
+      },
+      "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Cherita Chen",
+          "actor": "Jolene Purdy"
+        }
+      ],
+      "audio": {
+        "name": "suoni/vocegd.mp3",
+        "description": "la voce di Gemma Donati dal telefilm \"Everwood\", in cui doppia Sarah Drew."
+      }
     },
     {
       "source": "voci/vocigdom.htm",
@@ -6094,7 +6818,11 @@
           "character": "Lady Jessica",
           "actor": "Francesca Annis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegdom.mp3",
+        "description": "la voce di Germana Dominici nel film \"Susanna\", in cui doppia Tara Birell."
+      }
     },
     {
       "source": "voci/vocigdon.htm",
@@ -6114,7 +6842,11 @@
           "character": "Frank Thomas",
           "actor": "Frank Thomas"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegdon.mp3",
+        "description": "la voce di Gino Donato dal cartone animato \"Daitarn III\", in cui doppia il sig. Garrison."
+      }
     },
     {
       "source": "voci/vocigfranc.htm",
@@ -6134,7 +6866,11 @@
           "character": "Sasha",
           "actor": "Laura Greenwood"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegfranc.mp3",
+        "description": "la voce di Giulia Franceschetti nel film \"Nanny McPhee - Tata Matilda\", in cui doppia Eliza Bennett."
+      }
     },
     {
       "source": "voci/vocigg.htm",
@@ -6163,7 +6899,11 @@
           "character": "Maria Thins",
           "actor": "Judy Parfitt"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegg.mp3",
+        "description": "la voce di Gabriella Genta nel film \"Signori, il delitto è servito\", in cui doppia Eileen Brennan."
+      }
     },
     {
       "source": "voci/vociggiu.htm",
@@ -6191,7 +6931,11 @@
           },
           "character": "Padrone Di Casa"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceggiu.mp3",
+        "description": "la voce di Gianni Giuliano nel film \"Alice in Wonderland\", in cui doppia lo Stregatto."
+      }
     },
     {
       "source": "voci/vociggr.htm",
@@ -6220,7 +6964,11 @@
           "character": "Osono",
           "actor": "Keiko Toda"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceggr.mp3",
+        "description": "la voce di Giò-Giò Rapattoni nel film d'animazione \"Alla ricerca di Nemo\", in cui doppia Deb."
+      }
     },
     {
       "source": "voci/vocigi.htm",
@@ -6249,7 +6997,11 @@
           "character": "Short Round",
           "actor": "Jonathan Ke Quan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegi.mp3",
+        "description": "la voce di Giuppy Izzo nel film \"La lettera scarlatta\", in cui doppia Lisa Joliff-Andoh."
+      }
     },
     {
       "source": "voci/vocigl.htm",
@@ -6269,7 +7021,11 @@
           "character": "Leonard Hendricks",
           "actor": "Jeffrey C. Kramer"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegl.mp3",
+        "description": "la voce di Giorgio Locuratolo nel film \"Alexander\", in cui doppia Rory McCann."
+      }
     },
     {
       "source": "voci/vociglep.htm",
@@ -6307,7 +7063,11 @@
           "character": "Dorothy Boyd Maguire",
           "actor": "Renee Zellweger"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceglep.mp3",
+        "description": "la voce di Georgia Lepore nel film \"La storia infinita\", in cui doppia Tami Stronach."
+      }
     },
     {
       "source": "voci/vocigloc.htm",
@@ -6327,7 +7087,11 @@
           "character": "Tomika",
           "actor": "Maryam Hassan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegloc.mp3",
+        "description": "la voce di Giorgia Locuratolo nel film \"School of Rock\", in cui doppia Maryam Hassan."
+      }
     },
     {
       "source": "voci/vociglon.htm",
@@ -6347,7 +7111,11 @@
           "character": "Voce Narrante",
           "actor": "Hugh Douglas (Riediz. 1982)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceglon.mp3",
+        "description": "la voce di Germano Longo dal cartone animato \"Grisù il draghetto\", in cui doppia Fumè."
+      }
     },
     {
       "source": "voci/vociglop.htm",
@@ -6493,7 +7261,11 @@
           "character": "Albert 'Gib' Gibson",
           "actor": "Tom Arnold"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceglop.mp3",
+        "description": "la voce di Giorgio Lopez dal film \"L.A. Confidential\", in cui doppia Danny DeVito."
+      }
     },
     {
       "source": "voci/vociglv.htm",
@@ -6628,7 +7400,11 @@
           "character": "Spencer Trilby",
           "actor": "Charlton Heston"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegm.mp3",
+        "description": "la voce di Gianni Musy dal film \"Il Signore degli Anelli - La compagnia dell'anello\", in cui doppia Ian McKellen."
+      }
     },
     {
       "source": "voci/vocigmac.htm",
@@ -6648,7 +7424,11 @@
           "character": "Principe Pondicherry",
           "actor": "Nitin Chandra Ganatra"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmac.mp3",
+        "description": "la voce di Gianluca Machelli nel film \"Hansel & Gretel cacciatori di streghe\", in cui doppia Rainer Bock."
+      }
     },
     {
       "source": "voci/vocigmae.htm",
@@ -6677,7 +7457,11 @@
           "character": "Daniel Dravot",
           "actor": "Sean Connery"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmae.mp3",
+        "description": "la voce di Giancarlo Maestri nel film \"Il vento e il leone\", in cui doppia Sean Connery."
+      }
     },
     {
       "source": "voci/vocigman.htm",
@@ -6697,7 +7481,11 @@
           "character": "Yupa",
           "actor": "Gorô Naya"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegman.mp3",
+        "description": "la voce di Gioacchino Maniscalco dal film \"Minuti contati\", in cui doppia Christopher Walken."
+      }
     },
     {
       "source": "voci/vocigmart.htm",
@@ -6717,7 +7505,11 @@
           "character": "Sonya",
           "actor": "Shalom Harlow"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmart.mp3",
+        "description": "la voce di Giovanna Martinuzzi nel telefilm \"Get Smart - Un detective tutto da ridere\", in cui doppia Elaine Hendrix."
+      }
     },
     {
       "source": "voci/vocigmarti.htm",
@@ -6746,7 +7538,11 @@
           "character": "Insegnante Di Ginnastica",
           "actor": "Wally Dunn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmarti.mp3",
+        "description": "la voce di Gabriele Martini nel telefilm \"Poldark\", in cui doppia Robin Ellis."
+      }
     },
     {
       "source": "voci/vocigmarz.htm",
@@ -6829,7 +7625,11 @@
           "character": "Ben Meadows",
           "actor": "Carl Gottlieb"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmarz.mp3",
+        "description": "la voce di Gianni Marzocchi nel film \"Apocalypse Now\", in cui doppia Robert Duvall."
+      }
     },
     {
       "source": "voci/vocigmat.htm",
@@ -6849,7 +7649,11 @@
           "character": "Vecchio Naquercio",
           "actor": "William Johnson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmat.mp3",
+        "description": "la voce di Goffredo Matassi nel telefilm \"Il trono di spade\", in cui doppia Peter Vaughan."
+      }
     },
     {
       "source": "voci/vocigmau.htm",
@@ -6869,7 +7673,11 @@
           "character": "Gov. Wilhuff Tarkin (Grand Moff Tarkin)",
           "actor": "Peter Cushing"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmau.mp3",
+        "description": "la voce di Glauco Mauri nel film \"Il maratoneta\", in cui doppia Laurence Olivier."
+      }
     },
     {
       "source": "voci/vocigmir.htm",
@@ -6896,7 +7704,11 @@
           },
           "character": "Marito Di Osono"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegmir.mp3",
+        "description": "la voce di Gianfranco Miranda nel film \"Il cacciatore di aquiloni\", in cui doppia Khalid Abdalla."
+      }
     },
     {
       "source": "voci/vocigo.htm",
@@ -6960,7 +7772,11 @@
           "character": "Harry Tasker",
           "actor": "Arnold Schwarzenegger"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocego.mp3",
+        "description": "la voce di Glauco Onorato nel film \"Il Gladiatore\", in cui doppia Oliver Reed."
+      }
     },
     {
       "source": "voci/vocigp.htm",
@@ -6998,7 +7814,11 @@
           "character": "Hildegarde",
           "actor": "Tracey Ullman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegp.mp3",
+        "description": "la voce di Graziella Polesinanti nel film \"Vidocq\", in cui doppia Edith Scob."
+      }
     },
     {
       "source": "voci/vocigpad.htm",
@@ -7018,7 +7838,11 @@
           "character": "Hoggle (Voce)",
           "actor": "Brian Henson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpad.mp3",
+        "description": "la voce di Giancarlo Padoan nel film \"Gli spietati\", in cui doppia Gene Hackman."
+      }
     },
     {
       "source": "voci/vocigpat.htm",
@@ -7074,7 +7898,11 @@
           "character": "Frankie",
           "actor": "Angelo Massagli"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpat.mp3",
+        "description": "la voce di Gabriele Patriarca nel film \"Harry Potter e i doni della morte - Parte II\", in cui doppia Matthew Lewis."
+      }
     },
     {
       "source": "voci/vocigper.htm",
@@ -7094,7 +7922,11 @@
           "character": "Old B.O.B. Il Robot (Voce)",
           "actor": "Slim Pickens"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegper.mp3",
+        "description": "la voce di Giuliano Persico nel film d'animazione \"Red e Toby nemici amici\", in cui doppia Vecchio Fiuto."
+      }
     },
     {
       "source": "voci/vocigpia.htm",
@@ -7141,7 +7973,11 @@
           "character": "Cavaliere Del Graal",
           "actor": "Robert Eddison"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpia.mp3",
+        "description": "la voce di Giorgio Piazza nel film \"Il miglio verde\", in cui doppia Dabbs Greer."
+      }
     },
     {
       "source": "voci/vocigpiaz.htm",
@@ -7161,7 +7997,11 @@
           "character": "Frau Blucher",
           "actor": "Cloris Leachman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpiaz.mp3",
+        "description": "la voce di Gianna Piaz nel film [Frankenstein Junior](movie-page.html?movieSource=film/frankensteinjunior.htm), in cui doppia Cloris Leachman."
+      }
     },
     {
       "source": "voci/vocigpip.htm",
@@ -7181,7 +8021,11 @@
           "character": "Cap. Dan Holland",
           "actor": "Robert Forster"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpip.mp3",
+        "description": "la voce di Giacomo Piperno nel film \"Un buco in fronte\", in cui doppia John Bryan."
+      }
     },
     {
       "source": "voci/vocigpla.htm",
@@ -7200,7 +8044,11 @@
           },
           "character": "Maggiordomo"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpla.mp3",
+        "description": "la voce di Giulio Platone nel film \"Coraggio, fatti ammazzare\", in cui doppia Bradford Dillman."
+      }
     },
     {
       "source": "voci/vocigpoggi.htm",
@@ -7236,7 +8084,11 @@
           "character": "Genio",
           "actor": "Robin Williams"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegpro.mp3",
+        "description": "la voce di Gigi Proietti nel film \"Lenny\", in cui doppia Dustin Hoffman."
+      }
     },
     {
       "source": "voci/vocigrd.htm",
@@ -7256,7 +8108,11 @@
           "character": "Lena Gogan",
           "actor": "Shelley Winters"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegrd.mp3",
+        "description": "la voce di Giusi Raspani Dandolo dal film \"Elliot il drago invisibile\", in cui doppia Shelley Winters."
+      }
     },
     {
       "source": "voci/vocigrr.htm",
@@ -7276,7 +8132,11 @@
           "character": "Ron Weasley",
           "actor": "Rupert Grint"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegrr.mp3",
+        "description": "la voce di Giulio Renzi Ricci nel film \"Harry Potter e i doni della morte - Parte I\", in cui doppia Rupert Grint."
+      }
     },
     {
       "source": "voci/vocigs.htm",
@@ -7296,7 +8156,11 @@
           "character": "Kyle Reese",
           "actor": "Michael Biehn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegs.mp3",
+        "description": "la voce di Guido Sagliocca nel film [Terminator](movie-page.html?movieSource=film/terminator1.htm), in cui doppia Michael Biehn."
+      }
     },
     {
       "source": "voci/vocigsac.htm",
@@ -7316,7 +8180,11 @@
           "character": "Biagio",
           "actor": "Larry Gray"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegsac.mp3",
+        "description": "la voce di Giovanni Saccenti nel film d'animazione \"La spada nella roccia\", in cui doppia Sir Pilade."
+      }
     },
     {
       "source": "voci/vocigsacc.htm",
@@ -7336,7 +8204,11 @@
           "character": "Max, Il Computer Di Bordo (Voce)",
           "actor": "Paul Reubens"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegsacc.mp3",
+        "description": "la voce di Gianpaolo Saccarola nel film \"La storia infinita\", in cui doppia Falkor."
+      }
     },
     {
       "source": "voci/vocigsol.htm",
@@ -7389,7 +8261,11 @@
           "character": "Leo Crow",
           "actor": "Mike Binder"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegt.mp3",
+        "description": "la voce di Gianluca Tusco dal film \"Essere John Malkovich\", in cui doppia John Cusack."
+      }
     },
     {
       "source": "voci/vocigv.htm",
@@ -7429,6 +8305,15 @@
         },
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Preside Cole",
+          "actor": "David Moreland"
+        },
+        {
+          "movie": {
             "title": "I Predatori Dell'arca Perduta",
             "source": "film/ipredatoridellarcaperduta.htm",
             "poster": "film/ipredatoridellarcaperduta.jpg"
@@ -7436,7 +8321,11 @@
           "character": "Magg. Eaton",
           "actor": "William Hootkins"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegv.mp3",
+        "description": "la voce di Gaetano Varcasia nel film \"Lock & Stock - Pazzi scatenati\", in cui doppia Dexter Fletcher."
+      }
     },
     {
       "source": "voci/vocigvag.htm",
@@ -7465,7 +8354,11 @@
           "character": "Servo Maggiordomo",
           "actor": "Rick Jones"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegvag.mp3",
+        "description": "la voce di Gianni Vagliani nel cartone animato \"I Simpson\", in cui doppia Charles Darwin (epis.7F01)."
+      }
     },
     {
       "source": "voci/vocigver.htm",
@@ -7485,7 +8378,11 @@
           "character": "Brucaliffo",
           "actor": "Richard Haydn"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegver.mp3",
+        "description": "la voce di Gaetano Verna nel film \"La costola di Adamo\", in cui doppia Spencer Tracy."
+      }
     },
     {
       "source": "voci/vocigwil.htm",
@@ -7514,7 +8411,11 @@
           "character": "Lancillotto",
           "actor": "Nicholas Clay"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocegwil.mp3",
+        "description": "la voce di Gianni Williams nel film d'animazione \"Taron e la pentola magica\", in cui doppia Sospirello."
+      }
     },
     {
       "source": "voci/vocihy.htm",
@@ -7543,7 +8444,11 @@
           "character": "Katsumoto",
           "actor": "Ken Watanabe"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocehy.mp3",
+        "description": "la voce di Haruhiko Yamanouchi nel film \"L'ultimo samurai\", in cui doppia Ken Watanabe."
+      }
     },
     {
       "source": "voci/vociidm.htm",
@@ -7572,7 +8477,11 @@
           "character": "Woody Woodpecker",
           "actor": "Cherry Davis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceidm.mp3",
+        "description": "la voce di Isa Di Marzio dal film d'animazione \"La Bella e la Bestia\", in cui doppia Mrs. Bric."
+      }
     },
     {
       "source": "voci/vociidv.htm",
@@ -7601,7 +8510,11 @@
           "character": "V.I.K.I.",
           "actor": "Fiona Hogan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceidv.mp3",
+        "description": "la voce di Irene Di Valmo nel film \"Il racconto dei racconti\", in cui doppia Salma Hayek."
+      }
     },
     {
       "source": "voci/vociigio.htm",
@@ -7621,7 +8534,11 @@
           "character": "Biancaneve",
           "actor": "Elisa Gabrielli"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceigio.mp3",
+        "description": "la voce di Ilaria Giorgino dal cartone animato \"Noein\", in cui doppia Haruka Kaminogi."
+      }
     },
     {
       "source": "voci/vociilat.htm",
@@ -7650,7 +8567,11 @@
           "character": "Titti",
           "actor": "Mel Blanc"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceilat.mp3",
+        "description": "la voce di Ilaria Latini nel telefilm \"Scrubs - Medici ai primi ferri\", in cui doppia Judy Reyes."
+      }
     },
     {
       "source": "voci/vociip.htm",
@@ -7706,7 +8627,11 @@
           "character": "Emilie Schindler",
           "actor": "Caroline Goodall"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceip.mp3",
+        "description": "la voce di Isabella Pasanisi nel film \"Jurassic Park\", in cui doppia Laura Dern."
+      }
     },
     {
       "source": "voci/vociis.htm",
@@ -7789,7 +8714,11 @@
           "character": "Orsetto",
           "actor": "Bobby Block"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceis.mp3",
+        "description": "la voce di Ilaria Stagni nel film d'animazione \"Pocahontas\", in cui doppia Pocahontas."
+      }
     },
     {
       "source": "voci/vociisan.htm",
@@ -7809,7 +8738,11 @@
           "character": "Marcee Tidwell",
           "actor": "Regina King"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceisan.mp3",
+        "description": "la voce di Ida Sansone dal film d'animazione \"La sirenetta\", in cui doppia Carlotta."
+      }
     },
     {
       "source": "voci/vocijb.htm",
@@ -7820,6 +8753,15 @@
         "description": "Foto di Jacopo Bonanni"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "David",
+          "actor": "Scotty Leavenworth"
+        },
         {
           "movie": {
             "title": "La Fabbrica Di Cioccolato",
@@ -7838,7 +8780,11 @@
           "character": "Billy",
           "actor": "Brian Falduto"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocejb.mp3",
+        "description": "la voce di Jacopo Bonanni nel film \"Le cronache di Narnia - Il leone, la strega e l'armadio\", in cui doppia Skandar Keynes."
+      }
     },
     {
       "source": "voci/vocijc.htm",
@@ -7867,7 +8813,11 @@
           "character": "Gordon",
           "actor": "Zachary Infante"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocejc.mp3",
+        "description": "la voce di Jacopo Castagna nel telefilm statunitense \"Skins\", in cui doppia Jesse Carere."
+      }
     },
     {
       "source": "voci/vocijp.htm",
@@ -7883,7 +8833,11 @@
           "character": "Claude Lacombe",
           "actor": "François Truffaut"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocejp.mp3",
+        "description": "la voce di Jacques Peyrac nel film \"Il Codice Da Vinci\", in cui doppia Jean Reno."
+      }
     },
     {
       "source": "voci/vocijs.htm",
@@ -7903,7 +8857,11 @@
           "character": "Strega Senpai Di Kiki",
           "actor": "Yuko Kobayashi"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocejs.mp3",
+        "description": "la voce di Joy Saltarelli nel telefilm \"Castle\", in cui doppia Alex Frnka."
+      }
     },
     {
       "source": "voci/vocilb.htm",
@@ -7932,7 +8890,11 @@
           "character": "Juno Skinner",
           "actor": "Tia Carrere"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelb.mp3",
+        "description": "la voce di Laura Boccanera nel film \"Il silenzio degli innocenti\", in cui doppia Jodie Foster."
+      }
     },
     {
       "source": "voci/vocilbi.htm",
@@ -8024,7 +8986,11 @@
           "character": "Li Mu Bai",
           "actor": "Chow Yun-Fat"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelbi.mp3",
+        "description": "la voce di Luca Biagini nel film \"Il Signore degli Anelli: La compagnia dell'Anello\", in cui doppia Hugo Weaving."
+      }
     },
     {
       "source": "voci/vocilbie.htm",
@@ -8053,7 +9019,11 @@
           "character": "Nell Van Dort",
           "actor": "Tracey Ullman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelbie.mp3",
+        "description": "la voce di Lorenza Biella nel film \"Pomodori verdi fritti alla fermata del treno\", in cui doppia Kathy Bates."
+      }
     },
     {
       "source": "voci/vocilc.htm",
@@ -8082,7 +9052,11 @@
           "character": "Nausicaa",
           "actor": "Sumi Shimamoto"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelc.mp3",
+        "description": "la voce di Letizia Ciampa nel film \"Harry Potter e i doni della morte - Parte I\", in cui doppia Emma Watson."
+      }
     },
     {
       "source": "voci/vocilcar.htm",
@@ -8102,7 +9076,11 @@
           "character": "La Rosa",
           "actor": "Doris Lloyd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelcar.mp3",
+        "description": "la voce di Laura Carli nel film \"Il tempo delle mele\", in cui doppia Denise Grey."
+      }
     },
     {
       "source": "voci/vocilcos.htm",
@@ -8117,7 +9095,11 @@
           },
           "character": "Bimbo"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelcos.mp3",
+        "description": "la voce di Laura Cosenza nel cartone animato \"Hunter X Hunter\", in cui doppia l'Impiegata del 200° piano."
+      }
     },
     {
       "source": "voci/vocilda.htm",
@@ -8227,7 +9209,11 @@
           "character": "Sommo Jihl",
           "actor": "Mahito Tsujimura"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelda.mp3",
+        "description": "la voce di Luciano De Ambrosis nel film \"Il primo cavaliere\", in cui doppia Sean Connery."
+      }
     },
     {
       "source": "voci/vocildan.htm",
@@ -8256,7 +9242,11 @@
           "character": "George Weasley",
           "actor": "James Phelps"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceldan.mp3",
+        "description": "la voce di Lorenzo De Angelis dal film \"King Arthur\", in cui interpreta Alessio."
+      }
     },
     {
       "source": "voci/vocildf.htm",
@@ -8294,7 +9284,11 @@
           "character": "Hidlick",
           "actor": "Mackenzie Crook"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceldf.mp3",
+        "description": "la voce di Luca Dal Fabbro nel film \"Le iene\", in cui doppia Steve Buscemi."
+      }
     },
     {
       "source": "voci/vocilem.htm",
@@ -8352,7 +9346,11 @@
           "character": "Truman Schiff",
           "actor": "Daniel London"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelfer.mp3",
+        "description": "la voce di Luigi Ferraro nel telefilm \"Hawaii Five-0\", in cui doppia Daniel Dae Kim."
+      }
     },
     {
       "source": "voci/vocilgaz.htm",
@@ -8381,7 +9379,11 @@
           "character": "Sig. Dawes Figlio",
           "actor": "Arthur Malet"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelgaz.mp3",
+        "description": "la voce di Lauro Gazzolo nel film \"Ben Hur\", in cui doppia Sam Jaffe."
+      }
     },
     {
       "source": "voci/vocilgia.htm",
@@ -8401,7 +9403,11 @@
           "character": "Dott.Ssa Kate Mccrae",
           "actor": "Yvette Mimieux"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelgia.mp3",
+        "description": "la voce di Laura Gianoli dal cartone animato \"Mazinga Z\", in cui doppia la parte femminile del Barone Ashura."
+      }
     },
     {
       "source": "voci/vocilgiam.htm",
@@ -8439,7 +9445,11 @@
           "character": "Louise Bryant",
           "actor": "Diane Keaton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelgiam.mp3",
+        "description": "la voce di Livia Giampalmo nel film \"Ghostbusters\", in cui doppia Sigourney Weaver."
+      }
     },
     {
       "source": "voci/vocilgul.htm",
@@ -8459,7 +9469,11 @@
           "character": "Numero 5 (Voce)",
           "actor": "Tim Blaney"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelgul.mp3",
+        "description": "la voce di Leo Gullotta nel film \"Mio cugino Vincenzo\", in cui doppia Joe Pesci."
+      }
     },
     {
       "source": "voci/vocill.htm",
@@ -8488,7 +9502,11 @@
           "character": "Philippe 'Topo' Gaston",
           "actor": "Matthew Broderick"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocell.mp3",
+        "description": "la voce di Loris Loddi nel film \"Houdini - L'ultimo mago\", in cui doppia Guy Pearce."
+      }
     },
     {
       "source": "voci/vocille.htm",
@@ -8517,7 +9535,11 @@
           "character": "Patty Di Marco",
           "actor": "Sarah Silverman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelle.mp3",
+        "description": "la voce di Laura Lenghi nel film \"Million Dollar Baby\", in cui doppia Hilary Swank."
+      }
     },
     {
       "source": "voci/vocillio.htm",
@@ -8537,7 +9559,11 @@
           "character": "David Scott Freeman",
           "actor": "Joey Cramer"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocellio.mp3",
+        "description": "la voce di Luca Lionello nel film \"Cyrano de Bergerac\", in cui doppia Vincent Perez."
+      }
     },
     {
       "source": "voci/vocillm.htm",
@@ -8594,7 +9620,11 @@
           "character": "Qui-Gonn Jinn (Voce)",
           "actor": "Liam Neeson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocellm.mp3",
+        "description": "la voce di Luigi La Monica nel telefilm \"Angel\", in cui doppia John Rubinstein."
+      }
     },
     {
       "source": "voci/vocilmarr.htm",
@@ -8610,7 +9640,11 @@
           "character": "Rachel Dawes A 8 Anni",
           "actor": "Emma Lockhart"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelmarr.mp3",
+        "description": "la voce di Lucrezia Marricchi dal film d'animazione \"Bambi 2\", in cui doppia Faline."
+      }
     },
     {
       "source": "voci/vocilmel.htm",
@@ -8630,7 +9664,11 @@
           "character": "Peachy Carnehan",
           "actor": "Michael Caine"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelmel.mp3",
+        "description": "la voce di Luciano Melani nel film d'animazione \"Mulan\", in cui doppia Fa-Zhou."
+      }
     },
     {
       "source": "voci/vocilmod.htm",
@@ -8650,7 +9688,11 @@
           "character": "Volpe Di Grazia",
           "actor": "Cheng Pei-Pei"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelmod.mp3",
+        "description": "la voce di Ludovica Modugno nel film \"Il castello errante di Howl\", in cui doppia la Strega delle Lande."
+      }
     },
     {
       "source": "voci/vocilmor.htm",
@@ -8670,7 +9712,11 @@
           "character": "Stalliere",
           "actor": "Herry Gilliam"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelmor.mp3",
+        "description": "la voce di Luigi Morville nel telefilm [Daredevil](movie-page.html?movieSource=film/daredevil.htm), in cui doppia Elden Henson."
+      }
     },
     {
       "source": "voci/vociln.htm",
@@ -8690,7 +9736,11 @@
           "character": "Sostenitrice Di Cobblepot",
           "actor": "Lisa Coles"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceln.mp3",
+        "description": "la voce di Loredana Nicosia nel film \"Thelma & Louise\", in cui doppia Geena Davis."
+      }
     },
     {
       "source": "voci/vocilp.htm",
@@ -8710,7 +9760,11 @@
           "character": "Manico D'ombrello",
           "actor": "David Tomlinson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelp.mp3",
+        "description": "la voce di Luigi Pavese dal film \"Ben Hur\", di cui è la voce narrante."
+      }
     },
     {
       "source": "voci/vocilpis.htm",
@@ -8768,7 +9822,11 @@
           "character": "Dottore",
           "actor": "George Shevtsov"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelr.mp3",
+        "description": "la voce di Luciano Roffi dal film \"Le ali della libertà\", in cui doppia Bob Gunton."
+      }
     },
     {
       "source": "voci/vocilrom.htm",
@@ -8788,7 +9846,11 @@
           "character": "Kshana",
           "actor": "Yoshiko Sakakibara"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelrom.mp3",
+        "description": "la voce di Laura Romano nel telefilm \"E.R. - Medici in prima linea\", in cui doppia Maura Tierney."
+      }
     },
     {
       "source": "voci/vocils.htm",
@@ -8808,7 +9870,11 @@
           "character": "Jane Banks",
           "actor": "Karen Dotrice"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocels.mp3",
+        "description": "la voce di Liliana Sorrentino nel cartone animato \"Neon Genesis Evangelion\", in cui doppia Ritsuko Akagi."
+      }
     },
     {
       "source": "voci/vocilsac.htm",
@@ -8837,7 +9903,11 @@
           "character": "Ten. Louis Ferretti",
           "actor": "French Stewart"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelsac.mp3",
+        "description": "la voce di Lucio Saccone nel film \"Schindler's List\", in cui doppia Jonathan Sagalle."
+      }
     },
     {
       "source": "voci/vocilsim.htm",
@@ -8857,7 +9927,11 @@
           "character": "Sig.Ra Brill, La Cuoca",
           "actor": "Reta Shaw"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelsim.mp3",
+        "description": "la voce di Lydia Simoneschi nel film \"Via col vento\", in cui doppia Vivien Leigh."
+      }
     },
     {
       "source": "voci/vocilstr.htm",
@@ -8877,7 +9951,11 @@
           "character": "Beatrice",
           "actor": "Siobahn Fallon"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelstr.mp3",
+        "description": "la voce di Loretta Stroppa nel film \"Cuori ribelli\", in cui doppia Barbara Babcock."
+      }
     },
     {
       "source": "voci/vocilw.htm",
@@ -8906,7 +9984,11 @@
           "character": "Drix (Voce)",
           "actor": "David Hyde Pierce"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocelw.mp3",
+        "description": "la voce di Luca Ward dal film \"Pulp Fiction\", in cui doppia Samuel L. Jackson."
+      }
     },
     {
       "source": "voci/vocima.htm",
@@ -8922,7 +10004,11 @@
           "character": "Janice 'Jan' Edgecomb",
           "actor": "Bonnie Hunt"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocema.mp3",
+        "description": "la voce di Michela Alborghetti nel film \"Harry Potter e i Doni della Morte - Parte II\", in cui doppia Geraldine Somerville."
+      }
     },
     {
       "source": "voci/vocimalt.htm",
@@ -8978,7 +10064,11 @@
           "character": "Theo",
           "actor": "Adam Pascal"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemalt.mp3",
+        "description": "la voce di Massimiliano Alto nel film \"Sin City\", in cui doppia Nick Stahl."
+      }
     },
     {
       "source": "voci/vocimame.htm",
@@ -9050,7 +10140,11 @@
           "character": "Master Control Program (Voce)",
           "actor": "David Warner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemba.mp3",
+        "description": "la voce di Mario Bardella nel film \"La lettera scarlatta\", in cui doppia Robert Prosky."
+      }
     },
     {
       "source": "voci/vocimbe.htm",
@@ -9070,7 +10164,11 @@
           "character": "Baron Tricheco",
           "actor": "J. Pat O'malley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembe.mp3",
+        "description": "la voce di Mario Besesti nel film \"I dieci comandamenti\", in cui doppia Sir Cedric Hardwicke."
+      }
     },
     {
       "source": "voci/vocimbg.htm",
@@ -9118,7 +10216,11 @@
           "character": "Dott.Ssa Catherine Langford",
           "actor": "Viveca Lindfors"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembg.mp3",
+        "description": "la voce di Miranda Bonansea nel film \"I tre moschettieri\" (1948), in cui doppia June Allyson."
+      }
     },
     {
       "source": "voci/vocimbom.htm",
@@ -9147,7 +10249,11 @@
           "character": "Corsaro Di Umbar",
           "actor": "Peter Tait"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembom.mp3",
+        "description": "la voce di Mario Bombardieri nel telefilm \"Una mamma per amica\", in cui doppia Jackson Douglas."
+      }
     },
     {
       "source": "voci/vocimbos.htm",
@@ -9167,7 +10273,11 @@
           "character": "Rasputin",
           "actor": "Christopher Lloyd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembos.mp3",
+        "description": "la voce di Mauro Bosco nel telefilm \"Alias\", in cui doppia James Handy."
+      }
     },
     {
       "source": "voci/vocimbre.htm",
@@ -9187,7 +10297,11 @@
           "character": "Iago",
           "actor": "Gilbert Gottfried"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembre.mp3",
+        "description": "la voce di Marco Bresciani nel film d'animazione [Aladdin](movie-page.html?movieSource=film/aladdin.htm), in cui doppia Iago."
+      }
     },
     {
       "source": "voci/vocimbus.htm",
@@ -9207,7 +10321,11 @@
           "character": "Gen. Carter",
           "actor": "Edmond O'brien"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocembus.mp3",
+        "description": "la voce di Manlio Busoni nel film \"Quella sporca dozzina\", in cui doppia George Kennedy."
+      }
     },
     {
       "source": "voci/vocimc.htm",
@@ -9281,7 +10399,11 @@
           "character": "Bacter (Thrax) (Voce)",
           "actor": "Laurence Fishburne"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemc.mp3",
+        "description": "la voce di Massimo Corvo nel film \"Matrix\", in cui doppia Laurence Fishburne."
+      }
     },
     {
       "source": "voci/vocimcap.htm",
@@ -9364,7 +10486,11 @@
           "character": "C-3Po",
           "actor": "Anthony Daniels"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemcap.mp3",
+        "description": "la voce di Mino Caprio nello sceneggiato radiofonico \"Dylan Dog - Jack lo squartatore\", in cui interpreta Groucho."
+      }
     },
     {
       "source": "voci/vocimcb.htm",
@@ -9384,7 +10510,11 @@
           "character": "Imperatrice Marie Dowager (Canto)",
           "actor": "Angela Lansbury"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemcb.mp3",
+        "description": "la voce di Maria Cristina Brancucci nel film d'animazione \"La principessa e il ranocchio\", in cui è la voce cantata di Mamma Odie."
+      }
     },
     {
       "source": "voci/vocimcenc.htm",
@@ -9400,7 +10530,11 @@
           "character": "Jasmine (Voce)",
           "actor": "Linda Larkin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemcenc.mp3",
+        "description": "la voce di Manuela Cenciarelli nel film d'animazione [Aladdin](movie-page.html?movieSource=film/aladdin.htm), in cui doppia Jasmine."
+      }
     },
     {
       "source": "voci/vocimco.htm",
@@ -9420,7 +10554,11 @@
           "character": "Tuan",
           "actor": "Tung Thanh Trau"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemco.mp3",
+        "description": "la voce di Massimo Corizza nel cartone animato \"La macchina del tempo\", in cui doppia Tanpei."
+      }
     },
     {
       "source": "voci/vocimcor.htm",
@@ -9458,7 +10596,11 @@
           "character": "Cap. Yorr, Pilota St321",
           "actor": "Jasper Jacob"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemcor.mp3",
+        "description": "la voce di Mario Cordova nel film \"Hachiko - Il tuo migliore amico\", in cui doppia Richard Gere."
+      }
     },
     {
       "source": "voci/vocimcuc.htm",
@@ -9498,7 +10640,11 @@
           "character": "Vecchio Mister Johnson",
           "actor": "Adolph Caesar"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemcun.mp3",
+        "description": "la voce di Mico Cundari nel film \"1997: fuga da New York\", in cui doppia Harry Dean Stanton."
+      }
     },
     {
       "source": "voci/vocimda.htm",
@@ -9626,7 +10772,11 @@
           "character": "Louis Fraina",
           "actor": "Paul Sorvino"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemda.mp3",
+        "description": "la voce di Manlio De Angelis nel film \"Quei bravi ragazzi\", in cui doppia Joe Pesci."
+      }
     },
     {
       "source": "voci/vocimdam.htm",
@@ -9718,7 +10868,11 @@
           "character": "Mitch",
           "actor": "John Storey"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemdam.mp3",
+        "description": "la voce di Massimo De Ambrosis dal film \"Fight Club\", in cui doppia Edward Norton."
+      }
     },
     {
       "source": "voci/vocimdr.htm",
@@ -9738,7 +10892,11 @@
           "character": "Padre Di Lawrence",
           "actor": "Robert Lin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemdr.mp3",
+        "description": "la voce di Marco De Risi nel film \"Junebug\", in cui doppia Bobby Tisdale."
+      }
     },
     {
       "source": "voci/vocime.htm",
@@ -9794,7 +10952,11 @@
           "character": "Mila Pfefferberg",
           "actor": "Adi Nitzan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceme.mp3",
+        "description": "la voce di Micaela Esdra nel film \"Dracula\", in cui doppia Winona Ryder."
+      }
     },
     {
       "source": "voci/vocimf.htm",
@@ -9886,7 +11048,11 @@
           "character": "Tecnico Che Consegna La Particella Atomica",
           "actor": "James Brolin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemf.mp3",
+        "description": "la voce di Massimo Foschi nel film \"Il presagio\", in cui doppia Gregory Peck."
+      }
     },
     {
       "source": "voci/vocimfe.htm",
@@ -9915,7 +11081,11 @@
           "character": "Secondo Anziano Del Villaggio",
           "actor": "Arthur Malet"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemfe.mp3",
+        "description": "la voce di Mario Feliciani nel film \"Per favore, non mordermi sul collo\", cui doppia Ferdy Mayne."
+      }
     },
     {
       "source": "voci/vocimg.htm",
@@ -10061,7 +11231,11 @@
           "character": "Dott. Howard Mierzwiak",
           "actor": "Tom Wilkinson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemg.mp3",
+        "description": "la voce di Michele Gammino nel film \"Misure straordinarie\", in cui doppia Harrison Ford."
+      }
     },
     {
       "source": "voci/vocimgd.htm",
@@ -10081,7 +11255,11 @@
           "character": "Jill Beckett",
           "actor": "Ann Dowd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgd.mp3",
+        "description": "la voce di Maria Grazia Dominici nel cartone animato \"Il grande Mazinger\", in cui doppia Jun Hono."
+      }
     },
     {
       "source": "voci/vocimgiu.htm",
@@ -10127,7 +11305,11 @@
           },
           "character": "Il Verme"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgiu.mp3",
+        "description": "la voce di Massimo Giuliani nel film \"Gli intoccabili\", in cui doppia Andy Garcia."
+      }
     },
     {
       "source": "voci/vocimgius.htm",
@@ -10147,7 +11329,11 @@
           "character": "Sig.Ra Sellner",
           "actor": "Anne Haney"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgius.mp3",
+        "description": "la voce di Micaela Giustiniani nel film \"Il gigante\", in cui doppia Elizabeth Taylor."
+      }
     },
     {
       "source": "voci/vocimgr.htm",
@@ -10176,7 +11362,11 @@
           "character": "Squeak",
           "actor": "Rae Dawn Chong"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgr.mp3",
+        "description": "la voce di Monica Gravina dal cartone animato \"Capitan Futuro\", in cui doppia Joan Landor."
+      }
     },
     {
       "source": "voci/vocimgra.htm",
@@ -10241,7 +11431,11 @@
           "character": "Papa' (Okino)",
           "actor": "Kouichi Miura"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgra.mp3",
+        "description": "la voce di Mauro Gravina nel film \"Pulp Fiction\", in cui doppia Eric Stoltz."
+      }
     },
     {
       "source": "voci/vocimgua.htm",
@@ -10270,7 +11464,11 @@
           "character": "Herman",
           "actor": "J.J. Hardy"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemgua.mp3",
+        "description": "la voce di Marco Guadagno dal film d'animazione \"Il Re Leone\", in cui doppia la iena Banzai."
+      }
     },
     {
       "source": "voci/vocimguar.htm",
@@ -10299,7 +11497,11 @@
           "character": "Giubba Rossa",
           "actor": "J. Pat O'malley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemguar.mp3",
+        "description": "la voce di Manlio Guardabassi nel film d'animazione \"La Sirenetta\", in cui doppia Grimsby."
+      }
     },
     {
       "source": "voci/vocimk.htm",
@@ -10390,7 +11592,11 @@
           "character": "Preside Walcott",
           "actor": "Bob Gunton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemk.mp3",
+        "description": "la voce di Michele Kalamera nel film \"L'ultimo dei Mohicani\", in cui doppia Maurice Roëves."
+      }
     },
     {
       "source": "voci/vociml.htm",
@@ -10419,7 +11625,11 @@
           "character": "Cavaldi",
           "actor": "Peter Stormare"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceml.mp3",
+        "description": "la voce di Massimo Lodolo nel film \"Nemico pubblico n.1 - Seconda parte - L'ora della fuga\", in cui doppia Vincent Cassel."
+      }
     },
     {
       "source": "voci/vocimm.htm",
@@ -10466,7 +11676,11 @@
           "character": "Monsieur Hood",
           "actor": "Vincent Cassel"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemm.mp3",
+        "description": "la voce di Massimiliano Manfredi nel film \"Anything Else\", in cui doppia Jason Biggs."
+      }
     },
     {
       "source": "voci/vocimmag.htm",
@@ -10495,7 +11709,11 @@
           "character": "Gorbag",
           "actor": "Stephen Ure"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmag.mp3",
+        "description": "la voce di Mauro Magliozzi nel telefilm \"Castle\", in cui doppia John Allen Nelson."
+      }
     },
     {
       "source": "voci/vocimmand.htm",
@@ -10533,7 +11751,11 @@
           "character": "Yoda (Voce)",
           "actor": "Frank Oz"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmand.mp3",
+        "description": "la voce di Marcello Mandò nel film \"La storia infinita\", in cui doppia Sydney Bromley."
+      }
     },
     {
       "source": "voci/vocimmar.htm",
@@ -10562,7 +11784,11 @@
           "character": "Mary Poppins",
           "actor": "Julie Andrews"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmar.mp3",
+        "description": "la voce di Melina Martello nel film \"Quelli della San Pablo\", in cui doppia Candice Bergen."
+      }
     },
     {
       "source": "voci/vocimmara.htm",
@@ -10591,7 +11817,11 @@
           "character": "Isp. Hans W.F. Kemp",
           "actor": "Kenneth Mars"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmara.mp3",
+        "description": "la voce di Mario Maranzana dal film \"Elliott il drago invisibile\", in cui doppia Jim Dale."
+      }
     },
     {
       "source": "voci/vocimmat.htm",
@@ -10620,7 +11850,11 @@
           "character": "Guardia Dei Magazzini Shreck",
           "actor": "Biff Yeager"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmat.mp3",
+        "description": "la voce di Maurizio Mattioli nel film d'animazione \"Il principe d'Egitto\", in cui doppia Ietro."
+      }
     },
     {
       "source": "voci/vocimme.htm",
@@ -10739,7 +11973,11 @@
           "character": "Marcel Goldberg",
           "actor": "Mark Ivanir"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemme.mp3",
+        "description": "la voce di Marco Mete nel telefilm \"Star Trek - The next generation\", in cui doppia Brent Spiner."
+      }
     },
     {
       "source": "voci/vocimmel.htm",
@@ -10767,7 +12005,11 @@
           "character": "Tombo",
           "actor": "Kappei Yamaguchi"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmel.mp3",
+        "description": "la voce di Manuel Meli nel telefilm \"Bates Motel\", in cui doppia Freddie Highmore."
+      }
     },
     {
       "source": "voci/vocimmil.htm",
@@ -10849,7 +12091,11 @@
           "character": "Dott. Walter Gibbs / Dumont",
           "actor": "Barnard Hughes"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemmil.mp3",
+        "description": "la voce di Mario Milita nel cartone animato \"I Simpson\", in cui doppia \"nonno\" Abraham Simpson."
+      }
     },
     {
       "source": "voci/vocimnis.htm",
@@ -10868,7 +12114,11 @@
           },
           "character": "Bambini"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemnis.mp3",
+        "description": "la voce di Mattia Nissolino nel telefilm statunitense \"Skins\", in cui doppia Daniel Flaherty."
+      }
     },
     {
       "source": "voci/vocimpal.htm",
@@ -10888,7 +12138,11 @@
           "character": "Gikkuri",
           "actor": "Jouji Yanami"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocempal.mp3",
+        "description": "la voce di Mimmo Palmara nel cartone animato \"I predatori del tempo\", in cui doppia Sekovitch e la voce narrante."
+      }
     },
     {
       "source": "voci/vocimpdm.htm",
@@ -10925,6 +12179,15 @@
           },
           "character": "Dolores",
           "actor": "Joanna Cassidy"
+        },
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Dott.Ssa Lilian Thurman",
+          "actor": "Katharine Ross"
         },
         {
           "movie": {
@@ -11034,7 +12297,11 @@
           "character": "Victoria Grant / Conte Victor Grezhinski",
           "actor": "Julie Andrews"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocempdm.mp3",
+        "description": "la voce di Maria Pia Di Meo nel film \"I combattenti della notte\", in cui doppia Angie Dickinson."
+      }
     },
     {
       "source": "voci/vocimpont.htm",
@@ -11064,7 +12331,11 @@
           "character": "Cap. Tarpals (Voce)",
           "actor": "Steve Speirs"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceagiar.mp3",
+        "description": "la voce di Ernesto Brancucci nel film d'animazione \"Il Re Leone\", in cui doppia Pumbaa."
+      }
     },
     {
       "source": "voci/vocimr.htm",
@@ -11102,7 +12373,11 @@
           "character": "Fode (Voce)",
           "actor": "Greg Proops"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemr.mp3",
+        "description": "la voce di Massimo Rinaldi nel film \"Scent of a woman - Profumo di donna\", in cui doppia Bradley Whitford."
+      }
     },
     {
       "source": "voci/vocimras.htm",
@@ -11118,7 +12393,11 @@
           "character": "Agente Tedesco",
           "actor": "Steve Hanson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemras.mp3",
+        "description": "la voce di Marco Rasori nel film \"United 93\", in cui doppia Erich Redman."
+      }
     },
     {
       "source": "voci/vocimret.htm",
@@ -11147,7 +12426,11 @@
           "character": "Biggs Darklighter",
           "actor": "Garrick Hagon"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemret.mp3",
+        "description": "la voce di Maurizio Reti nel cartone animato \"Le nuove avventure di Lamù (Lamù, la ragazza dello spazio)\", in cui doppia il padre di Mendo."
+      }
     },
     {
       "source": "voci/vocimros.htm",
@@ -11194,7 +12477,11 @@
           "character": "Gen. Grievous (Voce)",
           "actor": "Matthew Wood"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemros.mp3",
+        "description": "la voce di Massimo Rossi nel film \"Mystic River\", in cui doppia Sean Penn."
+      }
     },
     {
       "source": "voci/vocimsac.htm",
@@ -11214,7 +12501,11 @@
           "character": "Vecchietta Dei Piccioni",
           "actor": "Jane Darwell"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemsac.mp3",
+        "description": "la voce di Maria Saccenti nel film \"Via col vento\", in cui doppia Hattie McDaniel."
+      }
     },
     {
       "source": "voci/vocimt.htm",
@@ -11243,7 +12534,11 @@
           "character": "Anakin Skywalker (Lord Dart Fener, Senza La Maschera)",
           "actor": "Sebastian Shaw"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemt.mp3",
+        "description": "la voce di Marcello Tusco nella miniserie televisiva \"Space\", in cui doppia James Garner."
+      }
     },
     {
       "source": "voci/vocimturi.htm",
@@ -11273,7 +12568,11 @@
           "character": "Ufficiale Ss Al Castello",
           "actor": "Luke Hanson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemturi.mp3",
+        "description": "la voce di Marcello \"Max\" Turilli nel film \"La grande fuga\", in cui doppia Robert Graf."
+      }
     },
     {
       "source": "voci/vocimu.htm",
@@ -11293,7 +12592,35 @@
           "character": "Celeste Burgess",
           "actor": "Nancy Lineahan Charles"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemu.mp3",
+        "description": "la voce di Marzia Ubaldi nel telefilm \"Il tocco di un angelo\", in cui doppia Della Reese."
+      }
+    },
+    {
+      "source": "voci/vocimv.htm",
+      "name": "Marco Vivio",
+      "indexName": "Vivio, Marco",
+      "photo": {
+        "name": "voci/vivio.jpg",
+        "description": "Foto di Marco Vivio"
+      },
+      "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Seth Devlin",
+          "actor": "Alex Greenwald"
+        }
+      ],
+      "audio": {
+        "name": "suoni/vocemv.mp3",
+        "description": "la voce di Marco Vivio nel film \"Spider-Man\", in cui doppia Tobey Maguire."
+      }
     },
     {
       "source": "voci/vocimven.htm",
@@ -11322,7 +12649,11 @@
           "character": "Johannes Vermeer",
           "actor": "Colin Firth"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemven.mp3",
+        "description": "la voce di Massimo Venturiello nel film \"Harry Potter e il prigioniero di Azkaban\", in cui doppia Gary Oldman."
+      }
     },
     {
       "source": "voci/vocimvir.htm",
@@ -11342,7 +12673,11 @@
           "character": "Guardia Della Cia All'entrata",
           "actor": "Richard D. Sharp"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocemvir.mp3",
+        "description": "la voce di Massimiliano Virgilii nel film \"1981: indagine a New York\", in cui doppia Oscar Isaac."
+      }
     },
     {
       "source": "voci/vocimz.htm",
@@ -11371,7 +12706,11 @@
           "character": "Leprotto Bisestile",
           "actor": "Jerry Colonna"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceasor-mz.mp3",
+        "description": "la voce di Mauro Zambuto e Alberto Sordi dal film \"I figli del deserto\", in cui doppiano rispettivamente Stanlio e Ollio."
+      }
     },
     {
       "source": "voci/vocinac.htm",
@@ -11474,7 +12813,11 @@
           "character": "Ciuchino",
           "actor": "Eddie Murphy"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocenb.mp3",
+        "description": "la voce di Nanni Baldini nel film d'animazione [Shrek](movie-page.html?movieSource=film/shrek.htm), in cui doppia Ciuchino."
+      }
     },
     {
       "source": "voci/vocing.htm",
@@ -11502,7 +12845,11 @@
           "character": "Sig.Ra Brown",
           "actor": "Brenda Fricker"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceng.mp3",
+        "description": "la voce di Noemi Gifuni nel telefilm \"The O.C.\", in cui doppia Linda Lavin."
+      }
     },
     {
       "source": "voci/vocingaz.htm",
@@ -11522,7 +12869,11 @@
           "character": "Sir James Bond",
           "actor": "David Niven"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocengaz.mp3",
+        "description": "la voce di Nando Gazzolo dal film \"I dieci comandamenti\", in cui doppia Yul Brynner."
+      }
     },
     {
       "source": "voci/vocinm.htm",
@@ -11542,7 +12893,11 @@
           "character": "Capo Del Seminario",
           "actor": "Christopher Eccleston"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocenm.mp3",
+        "description": "la voce di Neri Marcorè nel film d'animazione \"Il principe d'Egitto\", in cui doppia Hotep."
+      }
     },
     {
       "source": "voci/vocinmoz.htm",
@@ -11570,7 +12925,11 @@
           },
           "character": "Voce Narrante"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocenmoz.mp3",
+        "description": "la voce di Norman Mozzato nel cartone animato \"Ken il guerriero\", in cui doppia Raul Hokuto."
+      }
     },
     {
       "source": "voci/vocinp.htm",
@@ -11671,7 +13030,11 @@
           "character": "Neurochirurgo",
           "actor": "Peter Stormare"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocenp.mp3",
+        "description": "la voce di Nino Prester nel telefilm \"Scrubs - Medici ai primi ferri\", in cui doppia Neil Flynn."
+      }
     },
     {
       "source": "voci/vocinriv.htm",
@@ -11711,7 +13074,11 @@
           "character": "Senzatetto",
           "actor": "Chang Cheng Don"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocens.mp3",
+        "description": "la voce di Nino Scardina nel cartone animato \"L'Uomo Tigre, il campione\", in cui doppia Mister X."
+      }
     },
     {
       "source": "voci/vocinven.htm",
@@ -11783,7 +13150,11 @@
           "character": "Conte Dooku",
           "actor": "Christopher Lee"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceoa.mp3",
+        "description": "la voce di Omero Antonutti nel film \"Il Signore degli Anelli: La Compagnia dell'Anello\", in cui doppia Christopher Lee."
+      }
     },
     {
       "source": "voci/vociob.htm",
@@ -11866,7 +13237,11 @@
           "character": "Snow",
           "actor": "Jeremy Davies"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceob.mp3",
+        "description": "la voce di Oreste Baldini nel film \"Le iene\", in cui doppia Tim Roth."
+      }
     },
     {
       "source": "voci/vociod.htm",
@@ -11895,7 +13270,11 @@
           "character": "Col. Musgrove",
           "actor": "Don Fellows"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceod.mp3",
+        "description": "la voce di Oliviero Dinelli in alcuni estratti dal cartone animato \"Monster Allergy\", in cui doppia Timothy Moth, e dal film \"Mr. Bean - L'ultima catastrofe\", in cui doppia Rowan Atkinson."
+      }
     },
     {
       "source": "voci/vociodr.htm",
@@ -11915,7 +13294,11 @@
           "character": "Leona",
           "actor": "Rosalind Chao"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceodr.mp3",
+        "description": "la voce di Orsetta De Rossi nel film \"Spider\", in cui doppia Miranda Richardson."
+      }
     },
     {
       "source": "voci/vociol.htm",
@@ -11980,7 +13363,11 @@
           "character": "Sig. Dawes Padre",
           "actor": "Dick Van Dyke"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceol.mp3",
+        "description": "la voce di Oreste Lionello nel film \"Anything Else\", in cui doppia Woody Allen."
+      }
     },
     {
       "source": "voci/vociop.htm",
@@ -12018,7 +13405,11 @@
           "character": "Leila Organa (Leia Organa)",
           "actor": "Carrie Fisher"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceop.mp3",
+        "description": "la voce di Ottavia Piccolo dal film \"Il ritorno dello Jedi\", in cui doppia Carrie Fisher."
+      }
     },
     {
       "source": "voci/vocior.htm",
@@ -12110,7 +13501,11 @@
           "character": "Lando Calrissian",
           "actor": "Billy Dee Williams"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceor.mp3",
+        "description": "la voce di Oreste Rizzini nel film \"L'uomo della pioggia\", in cui doppia Jon Voight."
+      }
     },
     {
       "source": "voci/vociorug.htm",
@@ -12130,7 +13525,11 @@
           "character": "Albert 'Mister' Johnson",
           "actor": "Danny Glover"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceorug.mp3",
+        "description": "la voce di Osvaldo Ruggieri nello sceneggiato \"Radici: le nuove generazioni\", in cui doppia Georg Stanford Brown."
+      }
     },
     {
       "source": "voci/vocipa.htm",
@@ -12186,7 +13585,11 @@
           "character": "Rudy",
           "actor": "Michael Jeter"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepa.mp3",
+        "description": "la voce di Pasquale Anselmo nel film \"The Family Man\", in cui doppia Nicolas Cage."
+      }
     },
     {
       "source": "voci/vocipam.htm",
@@ -12215,7 +13618,11 @@
           "character": "Gideon",
           "actor": "Tim Blake Nelson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepam.mp3",
+        "description": "la voce di Pino Ammendola nel film \"Hamburger Hill collina 937\", in cui doppia Michael Patrick Boatman."
+      }
     },
     {
       "source": "voci/vocipb.htm",
@@ -12307,7 +13714,11 @@
           "character": "Mace Windu",
           "actor": "Samuel L. Jackson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepb.mp3",
+        "description": "la voce di Paolo Buglioni nel film \"L'ultimo dei Mohicani\", in cui doppia Wes Studi."
+      }
     },
     {
       "source": "voci/vocipbio.htm",
@@ -12399,7 +13810,11 @@
           "character": "Amm. Firmus Piett",
           "actor": "Kenneth Colley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepbio.mp3",
+        "description": "la voce di Pietro Biondi nel film \"Pulp Fiction\", in cui doppia Harvey Keitel."
+      }
     },
     {
       "source": "voci/vocipc.htm",
@@ -12455,7 +13870,11 @@
           "character": "John Reed",
           "actor": "Warren Beatty"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepc.mp3",
+        "description": "la voce di Pino Colizzi nel film \"Apocalypse Now\", in cui doppia Martin Sheen."
+      }
     },
     {
       "source": "voci/vocipd.htm",
@@ -12510,7 +13929,11 @@
           "character": "Sig.Ra Dresner",
           "actor": "Miri Fabian"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepd.mp3",
+        "description": "la voce di Pinella Dragani nel film \"Men in Black\", in cui doppia Linda Fiorentino."
+      }
     },
     {
       "source": "voci/vocipdb.htm",
@@ -12530,7 +13953,11 @@
           "character": "Nausicaa",
           "actor": "Sumi Shimamoto"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepdb.mp3",
+        "description": "la voce di Paola Del Bosco nel cartone animato \"I predatori del tempo\", in cui doppia Nanà."
+      }
     },
     {
       "source": "voci/vocipg.htm",
@@ -12550,7 +13977,11 @@
           "character": "Madama Bumb",
           "actor": "Zoe Wanamaker"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepg.mp3",
+        "description": "la voce di Paola Giannetti nel film d'animazione \"Il Re Leone\", in cui doppia Sarabi."
+      }
     },
     {
       "source": "voci/vocipi.htm",
@@ -12624,7 +14055,11 @@
           "character": "Specchio Magico",
           "actor": "Mark Moseley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepi.mp3",
+        "description": "la voce di Pino Insegno nel film d'animazione \"L'era glaciale\", in cui doppia la tigre Diego."
+      }
     },
     {
       "source": "voci/vocipl.htm",
@@ -12707,7 +14142,11 @@
           "character": "Re Marchand",
           "actor": "James Garner"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepl.mp3",
+        "description": "la voce di Pino Locchi nel film \"Mato Grosso\", in cui doppia Sean Connery."
+      }
     },
     {
       "source": "voci/vocipler.htm",
@@ -12727,7 +14166,11 @@
           "character": "Mito",
           "actor": "Ichirô Nagai"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepler.mp3",
+        "description": "la voce di Piero Leri nel cartone animato \"I predatori del tempo\", in cui doppia il direttore Tonnan."
+      }
     },
     {
       "source": "voci/vociplib.htm",
@@ -12774,7 +14217,11 @@
           "character": "Dana Tasker",
           "actor": "Eliza Dushku"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceplib.mp3",
+        "description": "la voce di Perla Liberatori nel telefilm \"Sabrina, vita da strega\", in cui doppia Melissa Joan Hart."
+      }
     },
     {
       "source": "voci/vociplom.htm",
@@ -12839,7 +14286,11 @@
           "character": "Dott. Ambruster",
           "actor": "Bill Rowe"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceplom.mp3",
+        "description": "la voce di Paolo Lombardi nel film \"Vidocq\", in cui doppia André Dussollier."
+      }
     },
     {
       "source": "voci/vocipman.htm",
@@ -12868,7 +14319,11 @@
           "character": "Prof.Ssa Minerva Mcgranitt",
           "actor": "Maggie Smith"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepman.mp3",
+        "description": "la voce di Paola Mannoni nel film \"Harry Potter e i doni della morte - Parte II\", in cui doppia Maggie Smith."
+      }
     },
     {
       "source": "voci/vocipmar.htm",
@@ -12896,7 +14351,11 @@
           "character": "Sindaco Di Pejitei",
           "actor": "Mugihito Terada"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepmar.mp3",
+        "description": "la voce di Paolo Marchese nel cartone animato \"I Simpson\", in cui doppia Troy McClure."
+      }
     },
     {
       "source": "voci/vocipms.htm",
@@ -12916,7 +14375,11 @@
           "character": "Tom Baxter / Gil Shepherd",
           "actor": "Jeff Daniels"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepms.mp3",
+        "description": "la voce di Paolo M. Scalondro dal film \"The Day After Tomorrow - L'alba del giorno dopo\", in cui doppia Nestor Serrano."
+      }
     },
     {
       "source": "voci/vocipp.htm",
@@ -12936,7 +14399,11 @@
           "character": "Weena",
           "actor": "Yvette Mimieux"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepp.mp3",
+        "description": "la voce di Paola Piccinato nel film \"Momenti di gloria\", in cui doppia Cheryl Campbell."
+      }
     },
     {
       "source": "voci/vocippav.htm",
@@ -12983,7 +14450,11 @@
           "character": "Marion Ravenwood",
           "actor": "Karen Allen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceppav.mp3",
+        "description": "la voce di Paila Pavese nel film \"American Gangster\", in cui doppia Ruby Dee."
+      }
     },
     {
       "source": "voci/vocippoi.htm",
@@ -13030,7 +14501,11 @@
           "character": "Col. Herman Dietrich",
           "actor": "Wolf Kahler"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceppoi.mp3",
+        "description": "la voce di Paolo Poiret nel film \"Angel Heart - Ascensore per l'inferno\", in cui doppia Robert De Niro."
+      }
     },
     {
       "source": "voci/vocipr.htm",
@@ -13069,7 +14544,11 @@
           "character": "George Banks",
           "actor": "David Tomlinson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepr.mp3",
+        "description": "la voce di Giuseppe Rinaldi dal film \"Lo spaccone\", in cui doppia Paul Newman."
+      }
     },
     {
       "source": "voci/vocipti.htm",
@@ -13098,7 +14577,11 @@
           "character": "Elwood Blues",
           "actor": "Dan Aykroyd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepti.mp3",
+        "description": "la voce di Piero Tiberi nel film \"Hamburger Hill collina 937\", in cui doppia Courtney B. Vance."
+      }
     },
     {
       "source": "voci/vocipvi.htm",
@@ -13109,6 +14592,15 @@
         "description": "Foto di Paolo Vivio"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Ricky Danforth",
+          "actor": "Seth Rogen"
+        },
         {
           "movie": {
             "title": "Il Signore Degli Anelli: La Compagnia...",
@@ -13136,7 +14628,11 @@
           "character": "Merry",
           "actor": "Dominic Monaghan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocepvi.mp3",
+        "description": "la voce di Paolo Vivio nel telefilm \"Will & Grace\", in cui doppia la guest-star Macaulay Culkin."
+      }
     },
     {
       "source": "voci/vocira.htm",
@@ -13165,7 +14661,11 @@
           "character": "Bobbi Fallon",
           "actor": "Alexandra Wentworth"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocera.mp3",
+        "description": "la voce di Rossella Acerbo nel film \"FBI Protezione testimoni\", in cui doppia Amanda Peet."
+      }
     },
     {
       "source": "voci/vocirb.htm",
@@ -13221,7 +14721,11 @@
           "character": "Lord Dart Fener (Darth Vader)",
           "actor": "David Prowse James Earl Jones (Voce)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerb.mp3",
+        "description": "la voce di Rodolfo Bianchi nel film \"I vestiti nuovi dell'imperatore\", in cui doppia Ian Holm."
+      }
     },
     {
       "source": "voci/vocirbert.htm",
@@ -13250,7 +14754,11 @@
           "character": "Abitante Del Villaggio",
           "actor": "Rolfe Sedan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerbert.mp3",
+        "description": "la voce di Roberto Bertea nel film d'animazione \"Biancaneve e i Sette Nani\", in cui doppia Dotto."
+      }
     },
     {
       "source": "voci/vocirbi.htm",
@@ -13270,7 +14778,11 @@
           "character": "Falsa Anastasia",
           "actor": "Charity James"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerbi.mp3",
+        "description": "la voce di Renata Biserni nel cartone animato \"SuperLamù\", in cui doppia Sakura."
+      }
     },
     {
       "source": "voci/vocirbol.htm",
@@ -13290,7 +14802,11 @@
           "character": "Roy Disney",
           "actor": "Roy Edward Disney"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerbol.mp3",
+        "description": "la voce di Rino Bolognesi dal telefilm \"Megaloman\", in cui è la voce narrante."
+      }
     },
     {
       "source": "voci/vocirc.htm",
@@ -13400,7 +14916,11 @@
           "character": "Dave Mcfly",
           "actor": "Marc Mcclure"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerc.mp3",
+        "description": "la voce di Roberto Chevalier nel film [Philadelphia](movie-page.html?movieSource=film/philadelphia.htm), in cui doppia Tom Hanks."
+      }
     },
     {
       "source": "voci/vocircal.htm",
@@ -13420,7 +14940,11 @@
           "character": "Winifred Banks",
           "actor": "Glynis Johns"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocercal.mp3",
+        "description": "la voce di Rosetta Calavetta nel film \"A qualcuno piace caldo\", in cui doppia Marylin Monroe."
+      }
     },
     {
       "source": "voci/vocircas.htm",
@@ -13440,7 +14964,11 @@
           "character": "Sig.Ra Haynish",
           "actor": "Amy Sedaris"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocercas.mp3",
+        "description": "la voce di Raffaella Castelli dal film \"The Day After Tomorrow - L'alba del giorno dopo\", in cui doppia Caroline Keenan."
+      }
     },
     {
       "source": "voci/vocircec.htm",
@@ -13460,7 +14988,11 @@
           "character": "Shrek",
           "actor": "Mike Myers"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocercec.mp3",
+        "description": "la voce di Renato Cecchetto dal film d'animazione \"Fantasia 2000\", in cui doppia James Levine."
+      }
     },
     {
       "source": "voci/vocirciu.htm",
@@ -13581,7 +15113,11 @@
           "character": "Amm. Firmus Piett",
           "actor": "Kenneth Colley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocercor.mp3",
+        "description": "la voce di Renato Cortesi nel film \"Il Gladiatore\", in cui doppia Derek Jacobi."
+      }
     },
     {
       "source": "voci/vocird.htm",
@@ -13600,6 +15136,15 @@
           },
           "character": "Avv. Franklin Nelson",
           "actor": "Jon Favreau"
+        },
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Dott. Fisher",
+          "actor": "Arthur Taxier"
         },
         {
           "movie": {
@@ -13646,7 +15191,11 @@
           "character": "Guardia Del Palazzo",
           "actor": "Dominic West"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerd.mp3",
+        "description": "la voce di Roberto Draghetti nel film \"Sin City\", in cui doppia Mickey Rourke."
+      }
     },
     {
       "source": "voci/vocirdc.htm",
@@ -13666,7 +15215,11 @@
           "character": "George Wells",
           "actor": "Rod Taylor"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerdc.mp3",
+        "description": "la voce di Renato De Carmine nel film \"L'uomo che visse nel futuro\", in cui doppia Rod Taylor."
+      }
     },
     {
       "source": "voci/vocirdg.htm",
@@ -13686,7 +15239,11 @@
           "character": "Benny Il Taxi",
           "actor": "Charles Fleischer"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerdg.mp3",
+        "description": "la voce di Roberto Del Giudice nel cartone animato \"I Griffin\", in cui doppia la Morte."
+      }
     },
     {
       "source": "voci/vocirfio.htm",
@@ -13706,7 +15263,11 @@
           "character": "Dimitri",
           "actor": "John Cusack"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerfio.mp3",
+        "description": "la voce di Rosario Fiorello nel film documentario \"La marcia dei pinguini\", in cui è la voce narrante."
+      }
     },
     {
       "source": "voci/vocirg.htm",
@@ -13744,7 +15305,11 @@
           "character": "Helen Tasker",
           "actor": "Jamie Lee Curtis"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerg.mp3",
+        "description": "la voce di Roberta Greganti nel telefilm \"Scrubs - Medici ai primi ferri\", in cui doppia la guest-star Molly Shannon."
+      }
     },
     {
       "source": "voci/vocirga.htm",
@@ -13782,7 +15347,11 @@
           "character": "Chad, La \"Tata\"",
           "actor": "Todd Louiso"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerga.mp3",
+        "description": "la voce di Roberto Gammino nel film \"I Puffi\", in cui doppia Neil Patrick Harris."
+      }
     },
     {
       "source": "voci/vocirghi.htm",
@@ -13820,7 +15389,11 @@
           "character": "Jonathan Lundy",
           "actor": "Robert Prosky"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerghi.mp3",
+        "description": "la voce di Romano Ghini nel film \"Star Trek II: L'ira di Khan\", in cui doppia William Shatner."
+      }
     },
     {
       "source": "voci/vociri.htm",
@@ -13858,7 +15431,11 @@
           "character": "Willie Scott",
           "actor": "Kate Capshaw"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceri.mp3",
+        "description": "la voce di Rossella Izzo nel film \"Brivido caldo\", in cui doppia Kathleen Turner."
+      }
     },
     {
       "source": "voci/vocirizz.htm",
@@ -13887,7 +15464,11 @@
           "character": "Claude Lacombe",
           "actor": "François Truffaut"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerizz.mp3",
+        "description": "la voce di Renato Izzo nel film \"Era mio padre\", in cui doppia Paul Newman."
+      }
     },
     {
       "source": "voci/vocirm.htm",
@@ -14050,7 +15631,11 @@
           "character": "Sam Baines",
           "actor": "George Dicenzo"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerm.mp3",
+        "description": "la voce di Renato Mori nel film \"Rambo\", in cui doppia Brian Dennehy."
+      }
     },
     {
       "source": "voci/vocirmal.htm",
@@ -14088,7 +15673,11 @@
           "character": "Sig. Salt",
           "actor": "James Fox"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocermal.mp3",
+        "description": "la voce di Romano Malaspina nel telefilm \"Willy, principe di Bel Air\", in cui doppia la guest-star Dave Florek."
+      }
     },
     {
       "source": "voci/vocirman.htm",
@@ -14108,7 +15697,11 @@
           "character": "Dott. Peter Duval",
           "actor": "Arthur Kennedy"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerman.mp3",
+        "description": "la voce di Riccardo Mantoni nel film \"La grande fuga\", in cui doppia James Donald."
+      }
     },
     {
       "source": "voci/vocirmar.htm",
@@ -14128,7 +15721,11 @@
           "character": "Tata Ketty",
           "actor": "Elsa Lanchester"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocermar.mp3",
+        "description": "la voce di Renata Marini nel film \"Assalto alla Terra\", in cui doppia Joan Weldon."
+      }
     },
     {
       "source": "voci/vociro.htm",
@@ -14158,7 +15755,11 @@
           "character": "Ted Pikul",
           "actor": "Jude Law"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocero.mp3",
+        "description": "la voce di Niseem Onorato nel film \"Sleuth - Gli insospettabili\", in cui doppia Jude Law."
+      }
     },
     {
       "source": "voci/vocirp.htm",
@@ -14195,6 +15796,15 @@
           },
           "character": "John Mcclane",
           "actor": "Bruce Willis"
+        },
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Jim Cunningham",
+          "actor": "Patrick Swayze"
         },
         {
           "movie": {
@@ -14313,7 +15923,11 @@
           "character": "Cloni",
           "actor": "Temuera Morrison"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerp.mp3",
+        "description": "la voce di Roberto Pedicini nel telefilm \"House of Cards - Gli intrighi del potere\", in cui doppia Kevin Spacey."
+      }
     },
     {
       "source": "voci/vocirpao.htm",
@@ -14333,7 +15947,11 @@
           "character": "Rosie",
           "actor": "Sarah Mcleod"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerpao.mp3",
+        "description": "la voce di Rachele Paolelli nel telefilm \"The Bridge - La serie originale\", in cui doppia Sofia Helin."
+      }
     },
     {
       "source": "voci/vocirpel.htm",
@@ -14371,7 +15989,11 @@
           "character": "Shmi Skywalker",
           "actor": "Pernilla August"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerpel.mp3",
+        "description": "la voce di Roberta Pellini nel film \"Elizabeth: The Golden Age\", in cui doppia Cate Blanchett."
+      }
     },
     {
       "source": "voci/vocirr.htm",
@@ -14454,7 +16076,11 @@
           "character": "Stan",
           "actor": "Mark Ruffalo"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocerr.mp3",
+        "description": "la voce di Riccardo Rossi nel film \"Il mistero di Sleepy Hollow\", in cui doppia Johnny Depp."
+      }
     },
     {
       "source": "voci/vocirs.htm",
@@ -14519,7 +16145,11 @@
           "character": "Cora Peterson",
           "actor": "Raquel Welch"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocers.mp3",
+        "description": "la voce di Rita Savagnone dal film \"What women want\", in cui doppia Bette Midler."
+      }
     },
     {
       "source": "voci/vocirsalab.htm",
@@ -14535,7 +16165,11 @@
           "character": "Lawrence",
           "actor": "Robert Tsai"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocersalab.mp3",
+        "description": "la voce di Riccardo Salabè nel film \"School of Rock\", in cui doppia Robert Tsai."
+      }
     },
     {
       "source": "voci/vocirsta.htm",
@@ -14555,7 +16189,11 @@
           "character": "Attrice",
           "actor": "Debra Mooney"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocersta.mp3",
+        "description": "la voce di Renzo Stacchi dal film \"North Country - Storia di Josey\", in cui doppia Richard Jenkins."
+      }
     },
     {
       "source": "voci/vocirsto.htm",
@@ -14593,7 +16231,11 @@
           "character": "Shagrat",
           "actor": "Peter Tait"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocersto.mp3",
+        "description": "la voce di Roberto Stocchi nel film d'animazione \"A Bug's Life - Megaminimondo\", in cui doppia Heimlich."
+      }
     },
     {
       "source": "voci/vocirtra.htm",
@@ -14631,7 +16273,11 @@
           "character": "D-3Bo (C-3Po)",
           "actor": "Anthony Daniels"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocertra.mp3",
+        "description": "la voce di Rodolfo Traversa nello sceneggiato \"Radici - Le nuove generazioni\", in cui doppia Al Freeman Jr."
+      }
     },
     {
       "source": "voci/vociru.htm",
@@ -14651,7 +16297,11 @@
           "character": "Stilgar",
           "actor": "Everett Mcgill"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceru.mp3",
+        "description": "la voce di Raffaele Uzzi nel film d'animazione \"Estremamente Pippo\", in cui doppia il cronista Chuck."
+      }
     },
     {
       "source": "voci/vocirvalli.htm",
@@ -14670,7 +16320,11 @@
           },
           "character": "Rusty"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocervalli.mp3",
+        "description": "la voce di Ruggero Valli nel telefilm \"Once Upon a Time - C'era una volta\", in cui doppia Robbie Kay, e nel telefilm \"The Middle\", in cui doppia Atticus Shaffer."
+      }
     },
     {
       "source": "voci/vocirvil.htm",
@@ -14708,7 +16362,11 @@
           "character": "Imperatore Palpatine",
           "actor": "Marjorie Eaton Clive Revill (Voce)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocervil.mp3",
+        "description": "la voce di Roberto Villa nel film \"La battaglia delle Midway\", in cui doppia Toshiro Mifune."
+      }
     },
     {
       "source": "voci/vocisa.htm",
@@ -14800,7 +16458,11 @@
           "character": "Dott. Daniel Jackson",
           "actor": "James Spader"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesa.mp3",
+        "description": "la voce di Sandro Acerbo nel film \"MIB - Men in Black\", in cui doppia Will Smith."
+      }
     },
     {
       "source": "voci/vocisans.htm",
@@ -14838,7 +16500,11 @@
           "character": "Det. Hal Vukovich",
           "actor": "Lance Henriksen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesans.mp3",
+        "description": "la voce di Silvio Anselmo nel telefilm \"Gli eroi di Hogan\", in cui doppia Bob Crane."
+      }
     },
     {
       "source": "voci/vocisb.htm",
@@ -14867,7 +16533,11 @@
           "character": "Andy Dufresne",
           "actor": "Tim Robbins"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesb.mp3",
+        "description": "la voce di Stefano Benassi nel film \"La lettera scarlatta\", in cui doppia Gary Oldman."
+      }
     },
     {
       "source": "voci/vocisc.htm",
@@ -14880,6 +16550,15 @@
       "works": [
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Donnie Darko",
+          "actor": "Jake Gyllenhaal"
+        },
+        {
+          "movie": {
             "title": "Harry Potter E La Pietra Filosofale",
             "source": "film/harrypotter1.htm",
             "poster": "film/harrypotter1.jpg"
@@ -14887,7 +16566,11 @@
           "character": "Oliver Baston",
           "actor": "Sean Biggerstaff"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesc.mp3",
+        "description": "la voce di Stefano Crescentini nel film \"Zodiac\", in cui doppia Jake Gyllenhaal."
+      }
     },
     {
       "source": "voci/vociscic.htm",
@@ -14903,7 +16586,11 @@
           "character": "Michelle",
           "actor": "Jordan Claire-Green"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocescic.mp3",
+        "description": "la voce di Sofia Ciccarone nel film \"School of Rock\", in cui doppia Jordan-Claire Green."
+      }
     },
     {
       "source": "voci/vociscri.htm",
@@ -14923,7 +16610,11 @@
           "character": "Marcus Flitt",
           "actor": "Jamie Yeates"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocescri.mp3",
+        "description": "la voce di Simone Crisari nel film \"Harry Potter e il prigioniero di Azkaban\", in cui doppia Lee Ingleby."
+      }
     },
     {
       "source": "voci/vocisd.htm",
@@ -14943,7 +16634,11 @@
           "character": "Martha Wayne",
           "actor": "Sara Stewart"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesd.mp3",
+        "description": "la voce di Sabrina Duranti dal telefilm \"Scrubs\", in cui doppia Christa Miller Lawrence."
+      }
     },
     {
       "source": "voci/vocisda.htm",
@@ -14963,7 +16658,11 @@
           "character": "Sofia",
           "actor": "Oprah Winfrey"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesda.mp3",
+        "description": "la voce di Solvejg D'Assunta nel telefilm \"Alice\", in cui doppia Linda Lavin."
+      }
     },
     {
       "source": "voci/vocisdan.htm",
@@ -14992,7 +16691,11 @@
           "character": "Ned Schneebly",
           "actor": "Mike White"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesdan.mp3",
+        "description": "la voce di Simone D'Andrea nel film \"Alexander\", in cui doppia Colin Farrell."
+      }
     },
     {
       "source": "voci/vocisdes.htm",
@@ -15032,6 +16735,15 @@
         },
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Sig. Eddie Darko",
+          "actor": "Holmes Osborne"
+        },
+        {
+          "movie": {
             "title": "Il Signore Degli Anelli: Le Due Torri",
             "source": "film/ilsignoredeglianelli2.htm",
             "poster": "film/ilsignoredeglianelli2.jpg"
@@ -15066,7 +16778,11 @@
           "character": "Ric Olie'",
           "actor": "Ralph Brown"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesdes.mp3",
+        "description": "la voce di Stefano De Sando nel film \"I soliti sospetti\", in cui doppia Chazz Palminteri."
+      }
     },
     {
       "source": "voci/vocisdf.htm",
@@ -15086,7 +16802,11 @@
           "character": "Tyson Tidwell",
           "actor": "Jeremy Suarez"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesdf.mp3",
+        "description": "la voce di Stefano De Filippis nel film \"Mysterious Skin\", in cui doppia Brady Corbet."
+      }
     },
     {
       "source": "voci/vocisdg.htm",
@@ -15133,7 +16853,11 @@
           "character": "Dak",
           "actor": "John Morton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesdg.mp3",
+        "description": "la voce di Sergio Di Giulio nel film \"L.A. Confidential\", in cui doppia James Cromwell."
+      }
     },
     {
       "source": "voci/vocisds.htm",
@@ -15216,7 +16940,11 @@
           "character": "Lord Barkis Bittern",
           "actor": "Richard E. Grant"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesds.mp3",
+        "description": "la voce di Sergio Di Stefano nel telefilm \"Star Trek - The next generation\", in cui doppia Jonathan Frakes."
+      }
     },
     {
       "source": "voci/vocisfio.htm",
@@ -15316,7 +17044,11 @@
           "character": "Carroll 'Toddy' Todd",
           "actor": "Robert Preston"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesfio.mp3",
+        "description": "la voce di Sergio Fiorentini nel film \"La giuria\", in cui doppia Gene Hackman."
+      }
     },
     {
       "source": "voci/vocisg.htm",
@@ -15332,7 +17064,11 @@
           "character": "Lora / Yori",
           "actor": "Cindy Morgan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesg.mp3",
+        "description": "la voce di Stefania Giacarelli dal film d'animazione \"Mucche alla riscossa\", in cui doppia Annie."
+      }
     },
     {
       "source": "voci/vocisgib.htm",
@@ -15352,7 +17088,11 @@
           "character": "Dax",
           "actor": "Bruce Macewen"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesgib.mp3",
+        "description": "la voce di Sergio Gibello nel cartone animato \"L'Uomo Tigre\", in cui doppia il telecronista."
+      }
     },
     {
       "source": "voci/vocisgr.htm",
@@ -15390,7 +17130,11 @@
           "character": "Gentile Rosenberg",
           "actor": "Mike Nussbaum"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesgr.mp3",
+        "description": "la voce di Sergio Graziani nel film \"JFK - Un caso ancora aperto\", in cui doppia Donald Sutherland."
+      }
     },
     {
       "source": "voci/vocisi.htm",
@@ -15437,7 +17181,11 @@
           "character": "Sen. Bail Organa",
           "actor": "Jimmy Smits"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesi.mp3",
+        "description": "la voce di Saverio Indrio dal telefilm \"24\", in cui doppia Xander Berkeley."
+      }
     },
     {
       "source": "voci/vocisiov.htm",
@@ -15529,7 +17277,11 @@
           "character": "Com. Nahdonnis Praji",
           "actor": "George Roubicek"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesiov.mp3",
+        "description": "la voce di Sandro Iovino dal film [Blade Runner](movie-page.html?movieSource=film/bladerunner.htm), in cui doppia Rutger Hauer."
+      }
     },
     {
       "source": "voci/vocisiz.htm",
@@ -15549,7 +17301,11 @@
           "character": "Igrayne",
           "actor": "Katrine Boorman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesiz.mp3",
+        "description": "la voce di Simona Izzo dal film d'animazione \"Il lago dei cigni\", in cui doppia Rossana."
+      }
     },
     {
       "source": "voci/vocisj.htm",
@@ -15569,7 +17325,11 @@
           "character": "Holly Gennero Mcclane",
           "actor": "Bonnie Bedelia"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesj.mp3",
+        "description": "la voce di Susanna Javicoli nel film \"Die Hard - Trappola di cristallo\", in cui doppia Bonnie Bedelia."
+      }
     },
     {
       "source": "voci/vocislab.htm",
@@ -15588,7 +17348,11 @@
           },
           "character": "Bambini"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceslab.mp3",
+        "description": "la voce di Sara Labidi nel film \"Cambio di gioco\", in cui doppia Madison Pettis."
+      }
     },
     {
       "source": "voci/vocisluc.htm",
@@ -15601,6 +17365,15 @@
       "works": [
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Michael Dukakis",
+          "actor": "Michael Dukakis (Repertorio)"
+        },
+        {
+          "movie": {
             "title": "I Predatori Dell'arca Perduta",
             "source": "film/ipredatoridellarcaperduta.htm",
             "poster": "film/ipredatoridellarcaperduta.jpg"
@@ -15608,7 +17381,11 @@
           "character": "Col. Herman Dietrich",
           "actor": "Wolf Kahler"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesluc.mp3",
+        "description": "la voce di Sergio Lucchetti nel film \"King Kong\", in cui doppia Lobo Chan."
+      }
     },
     {
       "source": "voci/vocism.htm",
@@ -15646,7 +17423,11 @@
           "character": "Bill Freeman",
           "actor": "Cliff De Young"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesm.mp3",
+        "description": "la voce di Saverio Moriones nel film \"Americani\", in cui doppia Alec Baldwin."
+      }
     },
     {
       "source": "voci/vocisma.htm",
@@ -15684,7 +17465,11 @@
           "character": "Rheya Kelvin",
           "actor": "Natasha Mcelhone"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesma.mp3",
+        "description": "la voce di Stefanella Marrama nel film \"Hannibal\", in cui doppia Julianne Moore."
+      }
     },
     {
       "source": "voci/vocismat.htm",
@@ -15721,7 +17506,11 @@
           "character": "Frank Barnes",
           "actor": "Dale Dye"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmat.mp3",
+        "description": "la voce di Sergio Matteucci nel cartone animato \"Holly e Benji, due fuoriclasse\", in cui doppia il telecronista delle partite di calcio."
+      }
     },
     {
       "source": "voci/vocismic.htm",
@@ -15741,7 +17530,11 @@
           "character": "Strega",
           "actor": "Fero Velecky"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmic.mp3",
+        "description": "la voce di Serena Michelotti dal film \"I fratelli Grimm e l'incantevole strega\", in cui doppia Fero Velecky."
+      }
     },
     {
       "source": "voci/vocismice.htm",
@@ -15761,7 +17554,11 @@
           "character": "Poliziotto",
           "actor": "Barry Shurchin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmice.mp3",
+        "description": "la voce di Stefano Miceli nel telefilm \"Psych\", in cui doppia Camyar Chai."
+      }
     },
     {
       "source": "voci/vocismo.htm",
@@ -15816,7 +17613,11 @@
           "character": "Taylor, Caposquadra A Giza",
           "actor": "Nick Wilder"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmo.mp3",
+        "description": "la voce di Simone Mori dal cartone animato \"Futurama\", in cui doppia Hermes Conrad."
+      }
     },
     {
       "source": "voci/vocismon.htm",
@@ -15854,7 +17655,11 @@
           "character": "Dott. Gary Meyers",
           "actor": "Richard Kind"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmon.mp3",
+        "description": "la voce di Stefano Mondini nel cartone animato \"I Simpson\", in cui doppia il direttore Seymour Skinner."
+      }
     },
     {
       "source": "voci/vocismu.htm",
@@ -15901,7 +17706,11 @@
           "character": "Lucy Harmon",
           "actor": "Liv Tyler"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesmu.mp3",
+        "description": "la voce di Stella Musy dal film \"The Family Man\", in cui doppia Tea Leoni."
+      }
     },
     {
       "source": "voci/vocisopp.htm",
@@ -15921,7 +17730,11 @@
           "character": "Preside",
           "actor": "Wayne Canney"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesopp.mp3",
+        "description": "la voce di Stefano Oppedisano nel telefilm \"Castle\", in cui doppia Joe Regalbuto."
+      }
     },
     {
       "source": "voci/vocisp.htm",
@@ -15968,7 +17781,11 @@
           "character": "Rae Ingram",
           "actor": "Nicole Kidman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesp.mp3",
+        "description": "la voce di Silvia Pepitoni dal film d'animazione \"Koda, fratello orso 2\", in cui doppia zia Taqqiq."
+      }
     },
     {
       "source": "voci/vocispel.htm",
@@ -16015,7 +17832,11 @@
           "character": "Yoda (Voce)",
           "actor": "Frank Oz"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocespel.mp3",
+        "description": "la voce di Sandro Pellegrini nel film \"Harry Potter e il prigioniero di Azkaban\", in cui doppia Robert Hardy."
+      }
     },
     {
       "source": "voci/vocisq.htm",
@@ -16035,7 +17856,11 @@
           "character": "Principessa Fiona",
           "actor": "Cameron Diaz"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesq.mp3",
+        "description": "la voce di Selvaggia Quattrini nel film \"Windtalkers\", in cui doppia Frances O'Connor."
+      }
     },
     {
       "source": "voci/vocisr.htm",
@@ -16073,7 +17898,11 @@
           "character": "Sindaco Larry Vaughn",
           "actor": "Murray Hamilton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesr.mp3",
+        "description": "la voce di Sergio Rossi nel film \"Hot Shots! 2\", in cui doppia Richard Crenna."
+      }
     },
     {
       "source": "voci/vocisrom.htm",
@@ -16089,7 +17918,11 @@
           "character": "Sig.Ra Lemmons",
           "actor": "Kate Mcgregor-Stewart"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesrom.mp3",
+        "description": "la voce di Stefania Romagnoli nel film \"School of Rock\", in cui doppia Kate McGregor-Stewart."
+      }
     },
     {
       "source": "voci/vocissa.htm",
@@ -16163,7 +17996,11 @@
           "character": "Juda Dresner",
           "actor": "Michael Schneider"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocessa.mp3",
+        "description": "la voce di Sandro Sardone nel film \"JFK - Un caso ancora aperto\", in cui doppia Tommy Lee Jones."
+      }
     },
     {
       "source": "voci/vocissf.htm",
@@ -16201,7 +18038,11 @@
           "character": "Ian Solo (Han Solo)",
           "actor": "Harrison Ford"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocessf.mp3",
+        "description": "la voce di Stefano Satta Flores dal film \"Il ritorno dello Jedi\", in cui doppia Harrison Ford."
+      }
     },
     {
       "source": "voci/vocissib.htm",
@@ -16230,7 +18071,11 @@
           "character": "David Filby / James Filby",
           "actor": "Alan Young"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocessib.mp3",
+        "description": "la voce di Stefano Sibaldi nel film \"Lord Brummel\", in cui doppia Peter Ustinov."
+      }
     },
     {
       "source": "voci/vocisspa.htm",
@@ -16286,7 +18131,11 @@
           "character": "Ten. Ed Traxler",
           "actor": "Paul Winfield"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesspa.mp3",
+        "description": "la voce di Silvio Spaccesi nel film d'animazione \"Le avventure di Bianca e Bernie\", in cui doppia Orville."
+      }
     },
     {
       "source": "voci/vocisted.htm",
@@ -16324,7 +18173,11 @@
           "character": "Cap. Bill Owens",
           "actor": "William Redfield"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocested.mp3",
+        "description": "la voce di Sergio Tedesco nel film \"Quella sporca dozzina\", in cui doppia Richard Jaeckel."
+      }
     },
     {
       "source": "voci/vocisv.htm",
@@ -16361,7 +18214,11 @@
           "character": "Anthea Burton",
           "actor": "Anna Deavere Smith"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocesv.mp3",
+        "description": "la voce di Serena Verdirosi nel cartone animato \"Futurama\", in cui doppia Mamma."
+      }
     },
     {
       "source": "voci/vocita.htm",
@@ -16417,7 +18274,11 @@
           "character": "Lee Holloway",
           "actor": "Maggie Gyllenhaal"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceta.mp3",
+        "description": "la voce di Tiziana Avarista nel film \"What women want\", in cui doppia Marisa Tomei."
+      }
     },
     {
       "source": "voci/vocitac.htm",
@@ -16491,7 +18352,11 @@
           "character": "Simon",
           "actor": "Bill Paxton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetac.mp3",
+        "description": "la voce di Tonino Accolla nel film \"Una settimana da Dio\", in cui doppia Jim Carrey."
+      }
     },
     {
       "source": "voci/vocitb.htm",
@@ -16528,7 +18393,11 @@
           "character": "Marty Mcfly",
           "actor": "Michael J. Fox"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetb.mp3",
+        "description": "la voce di Teo Bellia nel cartone animato \"I Griffin\", in cui doppia il giornalista Tom Tucker."
+      }
     },
     {
       "source": "voci/vocitcen.htm",
@@ -16557,7 +18426,11 @@
           "character": "Usignolo",
           "actor": "Julie Andrews"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetcen.mp3",
+        "description": "la voce di Tina Centi dal film [Mary Poppins](movie-page.html?movieSource=film/marypoppins.htm), in cui doppia Julie Andrews."
+      }
     },
     {
       "source": "voci/vocitd.htm",
@@ -16586,7 +18459,11 @@
           "character": "Ragazzo",
           "actor": "Chika Sakamoto"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetd.mp3",
+        "description": "la voce di Tatiana Dessi in alcuni estratti dai film \"Boys don't cry\" (in cui doppia Hilary Swank) e \"S.W.A.T. - Squadra speciale anticrimine\" (in cui doppia Michelle Rodriguez), e dal cartone animato \"B-Daman\" (in cui doppia Terry McScotty)."
+      }
     },
     {
       "source": "voci/vocitl.htm",
@@ -16606,7 +18483,11 @@
           "character": "Regina Di Cuori",
           "actor": "Verna Felton"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetl.mp3",
+        "description": "la voce di Tina Lattanzi dal film \"I dieci comandamenti\", in cui doppia Judith Anderson."
+      }
     },
     {
       "source": "voci/vocitpas.htm",
@@ -16626,7 +18507,11 @@
           "character": "Kari",
           "actor": "Bret Parker"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocetpas.mp3",
+        "description": "la voce di Teresa Pascarelli nel film d'animazione [Gli Incredibili](movie-page.html?movieSource=film/gliincredibili.htm), in cui doppia Kari."
+      }
     },
     {
       "source": "voci/vociumm.htm",
@@ -16691,7 +18576,11 @@
           "character": "Serg. Zebulah Grant",
           "actor": "Billy Connolly"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceumm.mp3",
+        "description": "la voce di Ugo Maria Morosi nel film \"L'ultimo samurai\", in cui doppia Billy Connolly."
+      }
     },
     {
       "source": "voci/vociva.htm",
@@ -16738,7 +18627,11 @@
           "character": "Maggot Il Fattore",
           "actor": "Cameron Rhodes Mike Hopkins (Voce)"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/voceva.mp3",
+        "description": "la voce di Vittorio Amandola nel cartone animato \"I Simpson\", in cui doppia Waylon Smithers."
+      }
     },
     {
       "source": "voci/vocivbar.htm",
@@ -16777,7 +18670,11 @@
           "character": "Katie",
           "actor": "Rebecca Brown"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevbru.mp3",
+        "description": "la voce di Virginia Brunetti nel film \"Sin City\", in cui doppia Makenzie Vega."
+      }
     },
     {
       "source": "voci/vocivc.htm",
@@ -16832,7 +18729,11 @@
           "character": "Davish Krail (Oro Cinque)",
           "actor": "Graham Ashley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevc.mp3",
+        "description": "la voce di Vittorio Congia nel film \"Il Signore degli Anelli: La compagnia dell'Anello\", in cui doppia Ian Holm."
+      }
     },
     {
       "source": "voci/vocivcon.htm",
@@ -16845,6 +18746,15 @@
       "works": [
         {
           "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Bob Garland",
+          "actor": "David St. James"
+        },
+        {
+          "movie": {
             "title": "Io, Robot",
             "source": "film/iorobot.htm",
             "poster": "film/iorobot.jpg"
@@ -16852,7 +18762,11 @@
           "character": "Baldez",
           "actor": "Jerry Wasserman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevcon.mp3",
+        "description": "la voce di Vladimiro Conti nel cartone animato \"I Simpson\", in cui doppia l'istruttore del corso di bodyguard Leavelle (epis. \"Sindacato con la mafia\" - cod:AABF05)."
+      }
     },
     {
       "source": "voci/vocivda.htm",
@@ -16971,7 +18885,11 @@
           "character": "Ten. Johnson",
           "actor": "David Pressman"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevda.mp3",
+        "description": "la voce di Vittorio De Angelis nel film [Big Fish](movie-page.html?movieSource=film/bigfish.htm), in cui doppia Billy Crudup."
+      }
     },
     {
       "source": "voci/vocivdp.htm",
@@ -17027,7 +18945,11 @@
           "character": "'Squash' Bernstein",
           "actor": "Alex Karras"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevdp.mp3",
+        "description": "la voce di Vittorio Di Prima nel telefilm \"The Guardian\", in cui doppia Dabney Coleman."
+      }
     },
     {
       "source": "voci/vocivf.htm",
@@ -17073,7 +18995,11 @@
           },
           "character": "Infermiera"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevf.mp3",
+        "description": "la voce di Vittoria Febbi nel film \"La conquista del west\", in cui doppia Carrol Baker."
+      }
     },
     {
       "source": "voci/vocivfer.htm",
@@ -17102,7 +19028,11 @@
           "character": "Guardiano",
           "actor": "Rudolf Pellai"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevfer.mp3",
+        "description": "la voce di Vincenzo Ferro dal film \"I fratelli Grimm e l'incantevole strega\" in cui doppia Rudolf Pellani."
+      }
     },
     {
       "source": "voci/vocivg.htm",
@@ -17122,7 +19052,11 @@
           "character": "Carl Finch",
           "actor": "Larry Holden"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevg.mp3",
+        "description": "la voce di Vittorio Guerrieri nel film \"Io & Marley\", in cui doppia Owen Wilson."
+      }
     },
     {
       "source": "voci/vocivm.htm",
@@ -17177,7 +19111,11 @@
           "character": "Lydia Hillard",
           "actor": "Lisa Jakub"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevm.mp3",
+        "description": "la voce di Valentina Mari nel film \"Memorie di una Geisha\", in cui doppia Zhang Ziyi."
+      }
     },
     {
       "source": "voci/vocivpu.htm",
@@ -17188,6 +19126,15 @@
         "description": "Foto di Veronica Puccio"
       },
       "works": [
+        {
+          "movie": {
+            "title": "Donnie Darko",
+            "source": "film/donniedarko.htm",
+            "poster": "film/donniedarko.jpg"
+          },
+          "character": "Samantha Darko",
+          "actor": "Daveigh Chase"
+        },
         {
           "movie": {
             "title": "La Fabbrica Di Cioccolato",
@@ -17215,7 +19162,11 @@
           "character": "Marta",
           "actor": "Caitlin Hale"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevpu.mp3",
+        "description": "la voce di Veronica Puccio nel telefilm statunitense \"Skins\", in cui doppia Britne Oldford."
+      }
     },
     {
       "source": "voci/vocivrug.htm",
@@ -17271,7 +19222,11 @@
           "character": "Vescovo",
           "actor": "Val Bettin"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevrug.mp3",
+        "description": "la voce di Valerio Ruggeri nel film d'animazione \"La sposa cadavere\" in cui doppia il Saggio Kutknecht."
+      }
     },
     {
       "source": "voci/vocivs.htm",
@@ -17413,7 +19368,11 @@
           "character": "Goldie Wilson",
           "actor": "Donald Fullilove"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevs.mp3",
+        "description": "la voce di Vittorio Stagni nel film \"Balle spaziali\", in cui doppia Rick Moranis."
+      }
     },
     {
       "source": "voci/vocivsac.htm",
@@ -17451,7 +19410,11 @@
           "character": "Cap. Typho",
           "actor": "Jay Laga'aia"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevsac.mp3",
+        "description": "la voce di Valerio Sacco nel film \"Star Wars - Episodio 2 - L'attacco dei Cloni\", in cui doppia Jay Laga' aia."
+      }
     },
     {
       "source": "voci/vocivsof.htm",
@@ -17480,7 +19443,11 @@
           "character": "Maestro Carpentiere",
           "actor": "J. Pat O'malley"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevsof.mp3",
+        "description": "la voce di Vinicio Sofia nel film \"Bastogne\", in cui doppia James Whitmore."
+      }
     },
     {
       "source": "voci/vocivv.htm",
@@ -17508,7 +19475,11 @@
           },
           "character": "Toeto"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocevv.mp3",
+        "description": "la voce di Valeria Vidali dal cartone animato \"Ufo Baby\", in cui doppia Bau-Miao."
+      }
     },
     {
       "source": "voci/vociwcap.htm",
@@ -17528,7 +19499,11 @@
           "character": "Sig.Ra Watchett",
           "actor": "Doris Lloyd"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewcap.mp3",
+        "description": "la voce di Wanda Capodaglio nel film \"L'uomo che visse nel futuro\", in cui doppia Doris Lloyd."
+      }
     },
     {
       "source": "voci/vociwdd.htm",
@@ -17548,7 +19523,11 @@
           "character": "Ollie Johnston",
           "actor": "Ollie Johnston"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewdd.mp3",
+        "description": "la voce di Werner Di Donato dal film d'animazione \"A Bug's Life - Megaminimondo\", in cui doppia Cornelius."
+      }
     },
     {
       "source": "voci/vociwg.htm",
@@ -17577,7 +19556,11 @@
           "character": "Lama Su (Voce)",
           "actor": "Anthony Phelan"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewg.mp3",
+        "description": "la voce di Wladimiro Grana nel film \"Star Wars: Episodio 2 - L'attacco dei cloni\", in cui doppia Anthony Phelan."
+      }
     },
     {
       "source": "voci/vociwm.htm",
@@ -17606,7 +19589,11 @@
           "character": "Gatto Silvestro",
           "actor": "Mel Blanc"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewm.mp3",
+        "description": "la voce di Willy Moser nel cartone animato \"Jacky, l'orso del monte Tallac\", in cui doppia Dimas."
+      }
     },
     {
       "source": "voci/vociwmae.htm",
@@ -17626,7 +19613,11 @@
           "character": "Conte Dooku",
           "actor": "Christopher Lee"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewmae.mp3",
+        "description": "la voce di Walter Maestosi nel cartone animato \"Papà Castoro\", in cui doppia Papà Castoro."
+      }
     },
     {
       "source": "voci/vociwt.htm",
@@ -17673,7 +19664,11 @@
           "character": "Sig.Ra Lowe",
           "actor": "Ruth Nelson"
         }
-      ]
+      ],
+      "audio": {
+        "name": "suoni/vocewt.mp3",
+        "description": "la voce di Wanda Tettoni dal film \"Titanic\", in cui doppia Gloria Stuart."
+      }
     }
   ],
   "movies": [
@@ -20723,6 +22718,225 @@
             "name": "Paolo Lombardi",
             "source": "voci/vociplom.htm",
             "photo": "voci/lombardi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "source": "film/donniedarko.htm",
+      "originalTitle": "Donnie Darko",
+      "italianTitle": "Donnie Darko",
+      "indexTitle": "Donnie Darko",
+      "director": "Richard Kelly",
+      "year": "2001",
+      "country": "Usa",
+      "poster": {
+        "name": "film/donniedarko.jpg",
+        "description": "Manifesto originale del film"
+      },
+      "gallery": [
+        {
+          "name": "film/donniedarko1.jpg",
+          "description": "Manifesto italiano del film"
+        }
+      ],
+      "cast": [
+        {
+          "character": "Donnie Darko",
+          "actor": "Jake Gyllenhaal",
+          "dubber": {
+            "name": "Stefano Crescentini",
+            "source": "voci/vocisc.htm",
+            "photo": "voci/crescentini.jpg"
+          }
+        },
+        {
+          "character": "Gretchen Ross",
+          "actor": "Jena Malone",
+          "dubber": {
+            "name": "Alessia Amendola",
+            "source": "voci/vociaam.htm",
+            "photo": "voci/aamendola.jpg"
+          }
+        },
+        {
+          "character": "Sig. Eddie Darko",
+          "actor": "Holmes Osborne",
+          "dubber": {
+            "name": "Stefano De Sando",
+            "source": "voci/vocisdes.htm",
+            "photo": "voci/desando.jpg"
+          }
+        },
+        {
+          "character": "Sig.Ra Rose Darko",
+          "actor": "Mary Mcdonnell",
+          "dubber": {
+            "name": "Angiola Baggi",
+            "source": "voci/vociabag.htm",
+            "photo": "voci/baggi.jpg"
+          }
+        },
+        {
+          "character": "Elizabeth Darko",
+          "actor": "Maggie Gyllenhaal",
+          "dubber": {
+            "name": "Domitilla D'amico",
+            "source": "voci/vocidda.htm",
+            "photo": "voci/ddamico.jpg"
+          }
+        },
+        {
+          "character": "Samantha Darko",
+          "actor": "Daveigh Chase",
+          "dubber": {
+            "name": "Veronica Puccio",
+            "source": "voci/vocivpu.htm",
+            "photo": "voci/vpuccio.jpg"
+          }
+        },
+        {
+          "character": "Dott.Ssa Lilian Thurman",
+          "actor": "Katharine Ross",
+          "dubber": {
+            "name": "Maria Pia Di Meo",
+            "source": "voci/vocimpdm.htm",
+            "photo": "voci/dimeo1.jpg"
+          }
+        },
+        {
+          "character": "Karen Pomeroy",
+          "actor": "Drew Barrymore",
+          "dubber": {
+            "name": "Chiara Colizzi",
+            "source": "voci/vocicco.htm",
+            "photo": "voci/ccolizzi.jpg"
+          }
+        },
+        {
+          "character": "Prof. Kenneth Monnitoff",
+          "actor": "Noah Wyle",
+          "dubber": {
+            "name": "Fabio Boccanera",
+            "source": "voci/vocifboc.htm",
+            "photo": "voci/fboccanera1.jpg"
+          }
+        },
+        {
+          "character": "Kitty Farmer",
+          "actor": "Beth Grant",
+          "dubber": {
+            "name": "Daniela Caroli",
+            "source": "voci/vocidcar.htm",
+            "photo": "voci/caroli.jpg"
+          }
+        },
+        {
+          "character": "Jim Cunningham",
+          "actor": "Patrick Swayze",
+          "dubber": {
+            "name": "Roberto Pedicini",
+            "source": "voci/vocirp.htm",
+            "photo": "voci/pedicini.jpg"
+          }
+        },
+        {
+          "character": "Frank (Il Coniglio)",
+          "actor": "James Duval",
+          "dubber": {
+            "name": "Alessandro Quarta",
+            "source": "voci/vociaqua.htm",
+            "photo": "voci/quarta.jpg"
+          }
+        },
+        {
+          "character": "Seth Devlin",
+          "actor": "Alex Greenwald",
+          "dubber": {
+            "name": "Marco Vivio",
+            "source": "voci/vocimv.htm",
+            "photo": "voci/vivio.jpg"
+          }
+        },
+        {
+          "character": "Cherita Chen",
+          "actor": "Jolene Purdy",
+          "dubber": {
+            "name": "Gemma Donati",
+            "source": "voci/vocigd.htm",
+            "photo": "voci/donati.jpg"
+          }
+        },
+        {
+          "character": "Ricky Danforth",
+          "actor": "Seth Rogen",
+          "dubber": {
+            "name": "Paolo Vivio",
+            "source": "voci/vocipvi.htm",
+            "photo": "voci/pvivio.jpg"
+          }
+        },
+        {
+          "character": "Preside Cole",
+          "actor": "David Moreland",
+          "dubber": {
+            "name": "Gaetano Varcasia",
+            "source": "voci/vocigv.htm",
+            "photo": "voci/varcasia.jpg"
+          }
+        },
+        {
+          "character": "Dott. Fisher",
+          "actor": "Arthur Taxier",
+          "dubber": {
+            "name": "Roberto Draghetti",
+            "source": "voci/vocird.htm",
+            "photo": "voci/rdraghetti.jpg"
+          }
+        },
+        {
+          "character": "Bob Garland",
+          "actor": "David St. James",
+          "dubber": {
+            "name": "Vladimiro Conti",
+            "source": "voci/vocivcon.htm",
+            "photo": "voci/vconti.jpg"
+          }
+        },
+        {
+          "character": "Sean Smith",
+          "actor": "Gary Lundy",
+          "dubber": {
+            "name": "Fabrizio De Flaviis",
+            "source": "voci/vocifdf.htm",
+            "photo": "voci/fadeflaviis.jpg"
+          }
+        },
+        {
+          "character": "Ronald Fisher",
+          "actor": "Stuart Stone",
+          "dubber": {
+            "name": "Davide Perino",
+            "source": "voci/vocidp.htm",
+            "photo": "voci/perino.jpg"
+          }
+        },
+        {
+          "character": "David",
+          "actor": "Scotty Leavenworth",
+          "dubber": {
+            "name": "Jacopo Bonanni",
+            "source": "voci/vocijb.htm",
+            "photo": "voci/jbonanni.jpg"
+          }
+        },
+        {
+          "character": "Michael Dukakis",
+          "actor": "Michael Dukakis (Repertorio)",
+          "dubber": {
+            "name": "Sergio Lucchetti",
+            "source": "voci/vocisluc.htm",
+            "photo": "voci/slucchetti.jpg"
           }
         }
       ]

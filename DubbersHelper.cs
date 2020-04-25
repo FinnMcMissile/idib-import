@@ -40,6 +40,7 @@ namespace idib_import
 
                 ExtractDubberName(dubberRef, ref dubber);
                 ExtractDubberPhoto(dubberRef, ref dubber);
+                ExtractDubberAudio(document.QuerySelectorAll("table"), ref dubber);
 
                 idibData.dubbers.Add(dubber);
             }            
@@ -88,6 +89,15 @@ namespace idib_import
             dubber.photo = new ImageRef();
             dubber.photo.name = Utils.CombineURL(parentPath, photo[1].Attributes.GetNamedItem("src").Value);
             dubber.photo.description = photo[1].Attributes.GetNamedItem("alt") != null ? photo[1].Attributes.GetNamedItem("alt").Value : null;
+        }
+
+        private void ExtractDubberAudio(IHtmlCollection<IElement> tablesRef, ref Dubber dubber)
+        {
+            if (tablesRef.Length < 3 || tablesRef[2].QuerySelector("a") == null)
+                return;
+            dubber.audio = new AudioRef();
+            dubber.audio.description = Utils.Cleanup(tablesRef[2].TextContent.Replace("File audio:", null), false);
+            dubber.audio.name = tablesRef[2].QuerySelector("a").Attributes.GetNamedItem("href").Value.Replace("../", null);
         }
 
     }

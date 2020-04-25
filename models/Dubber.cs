@@ -9,5 +9,6 @@ namespace idib_import
         public string altname {get;set;}
         public ImageRef photo {get; set;}
         public Works works {get; set;}
+        public AudioRef audio {get;set;}
     }
 }
