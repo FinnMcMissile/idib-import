@@ -97,6 +97,7 @@ namespace idib_import
                 return;
             dubber.audio = new AudioRef();
             dubber.audio.description = Utils.Cleanup(tablesRef[2].TextContent.Replace("File audio:", null), false);
+            dubber.audio.description = char.ToUpper(dubber.audio.description[0]) + dubber.audio.description.Substring(1);
             dubber.audio.name = tablesRef[2].QuerySelector("a").Attributes.GetNamedItem("href").Value.Replace("../", null);
         }
 

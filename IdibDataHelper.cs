@@ -1,3 +1,5 @@
+using System;
+
 namespace idib_import
 {
     public class IdibDataHelper
@@ -133,7 +135,15 @@ namespace idib_import
                     if (start != -1 && stop != -1)
                     {
                         var movieTitle = dubber.audio.description.Substring(start + 1, stop - start - 1);
-                        var movie = idibData.movies.Find( m => m.indexTitle == movieTitle);
+                        var movie = idibData.movies.Find( m => {
+                            if (m.indexTitle != null && m.indexTitle.Equals(movieTitle, StringComparison.InvariantCultureIgnoreCase))
+                                return true;
+                            if (m.italianTitle != null && m.italianTitle.Equals(movieTitle, StringComparison.InvariantCultureIgnoreCase))
+                                return true;
+                            if (m.originalTitle != null && m.originalTitle.Equals(movieTitle, StringComparison.InvariantCultureIgnoreCase)) 
+                                return true;
+                            return false;
+                        });
                         if (movie != null) 
                         {
                             dubber.audio.description = dubber.audio.description.
