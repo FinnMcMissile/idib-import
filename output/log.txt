@@ -1,0 +1,120 @@
+samples/doppiaggio/indice\film-14.htm: multiple movies found: film1/memoriesofmurder.htm - (new)Memories Of Murder - (old)Memorie Di Un Assassino - Memories Of Murder
+samples/doppiaggio/indice\film-14.htm: multiple movies found: film/modsquad.htm - (new)Mod Squad - (old)Infiltrati (Gli)
+samples/doppiaggio/indice\film-14.htm: multiple movies found: film/jurassicpark2.htm - (new)Mondo Perduto - Jurassic Park (Il) - (old)Jurassic Park - Il Mondo Perduto
+samples/doppiaggio/indice\film-14.htm: multiple movies found: film/mammanatale.htm - (new)Mrs. Santa Claus - (old)Mamma Natale
+samples/doppiaggio/indice\film-15.htm: multiple movies found: film/itsaverymerrymuppetchr.htm - (new)Natale Con I Muppet - (old)It's A Very Merry Muppet Christmas Movie
+samples/doppiaggio/indice\film-15.htm: multiple movies found: film1/inuovieroi.htm - (new)Nuovi Eroi (I) - (old)Nouvelle-France
+samples/doppiaggio/indice\film-16.htm: multiple movies found: film1/oltreiconfinidelmale.htm - (new)Oltre I Confini Del Male - Insidious 2 - (old)Insidious 2 - Oltre I Confini Del Male
+samples/doppiaggio/indice\film-16.htm: multiple movies found: film1/ossessioneomicida.htm - (new)Ossessione Omicida - (old)No Good Deed - Ossessione Omicida
+samples/doppiaggio/indice\film-17.htm: multiple movies found: film/ilpacificatore.htm - (new)Peacekeeper - Il Pacificatore (The) - (old)Pacificatore (Il)
+samples/doppiaggio/indice\film-17.htm: multiple movies found: film/lamaledizionedellaprimaluna.htm - (new)Pirati Dei Caraibi - La Maledizione Della Prima.. - (old)Maledizione Della Prima Luna (La)
+samples/doppiaggio/indice\film-17.htm: multiple movies found: film1/lostcityraiders.htm - (new)Predatori Della CittÖ Perduta (I) - (old)Lost City Raiders - I Predatori Della CittÖ...
+samples/doppiaggio/indice\film-18.htm: multiple movies found: film1/007-quantumofsolace.htm - (new)Quantum Of Solace - (old)007 - Quantum Of Solace
+samples/doppiaggio/indice\film-18.htm: multiple movies found: film1/quattrobassottiperundanese.htm - (new)Quattro Bassotti Per Un Danese - (old)4 Bassotti Per 1 Danese
+samples/doppiaggio/indice\film-18.htm: multiple movies found: film1/4inmedicina.htm - (new)Quattro In Medicina - (old)4 In Medicina
+samples/doppiaggio/indice\film-18.htm: multiple movies found: film1/mysassygirl.htm - (new)Quella Svitata Della Mia Ragazza - (old)My Sassy Girl
+samples/doppiaggio/indice\film-19.htm: multiple movies found: film1/ilregnoproibito.htm - (new)Regno Proibito (Il) - (old)Impero Proibito (L')
+samples/doppiaggio/indice\film-19.htm: multiple movies found: film/rivelazioni.htm - (new)Rivelazioni - (old)Rivelazioni - Sesso ‘ Potere
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film/alcatraz.htm - (new)Alcatraz - L'isola Dell'ingiustizia - (old)Isola Dell'ingiustizia - Alcatraz (L')
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film1/alladeriva.htm - (new)Alla Deriva - Adrift - (old)Open Water 2 - Alla Deriva
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film1/jumpingthebroom.htm - (new)Amore E Altri Guai - (old)Jumping The Broom - Amore E Altri Guai
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film1/lamoreealtriluoghiimpossibili.htm - (new)Amore E Altri Luoghi Impossibili (L') - (old)Other Woman (The)
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film/angeli.htm - (new)Angels (1994) - (old)Angeli
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film1/lartedivincere.htm - (new)Arte Di Vincere (L') - (old)Moneyball - L'arte Di Vincere
+samples/doppiaggio/indice\film-2.htm: multiple movies found: film1/amoretralenuvole.htm - (new)Aviator - Amore Tra Le Nuvole - (old)Amore Tra Le Nuvole
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/seimoglieunpapa.htm - (new)Sei Mogli E Un PapÖ - (old)6 Mogli E Un PapÖ
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/il7oviaggiodisinbad.htm - (new)Settimo Viaggio Di Sinbad (Il) - (old)7¯ Viaggio Di Sinbad (Il)
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/007-skyfall.htm - (new)Skyfall - (old)007 - Skyfall
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/007-spectre.htm - (new)Spectre - (old)007 - Spectre
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/intodarkness-startrek.htm - (new)Star Trek - Into Darkness - (old)Into Darkness - Star Trek
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/startrek4.htm - (new)Star Trek Iv: Rotta Verso La Terra - (old)Rotta Verso La Terra
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/startrek6.htm - (new)Star Trek Vi: Rotta Verso L'ignoto - (old)Rotta Verso L'ignoto
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/startrek8.htm - (new)Star Trek Viii: Primo Contatto - (old)Primo Contatto
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/starwars5.htm - (new)Star Wars: Episodio 5 - L'impero Colpisce... - (old)Impero Colpisce Ancora (L')
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/starwars6.htm - (new)Star Wars: Episodio 6 - Il Ritorno Dello Jedi - (old)Ritorno Dello Jedi (Il)
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/stormcatcher.htm - (new)Storm Catcher - Nell'occhio Del Ciclone - (old)Nell'occhio Del Ciclone (1999)
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/statidiallucinazione.htm - (new)Stati Di Allucinazione - (old)Stati Di Allucinazione
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film1/amorealprimotuffo.htm - (new)Summertime - Sole, Cuore... Amore - (old)Amore Al Primo Tuffo
+samples/doppiaggio/indice\film-20.htm: multiple movies found: film/itsaverymerrymuppetchr.htm - (new)Super Buon Natale Dei Muppet (Il) - (old)It's A Very Merry Muppet Christmas Movie
+samples/doppiaggio/indice\film-21.htm: multiple movies found: film1/sepropriolovuoilasc.htm - (new)Tutte Le Cose Che Non Sai Di Lui - (old)Se Proprio Lo Vuoi, Lascialo Andare
+samples/doppiaggio/indice\film-21.htm: multiple movies found: film1/newmoon.htm - (new)Twilight Saga: New Moon (The) - (old)New Moon
+samples/doppiaggio/indice\film-22.htm: multiple movies found: film1/the11thhour.htm - (new)Undicesima Ora - The 11Th Hour (L') - (old)11Th Hour - L'undicesima Ora (The)
+samples/doppiaggio/indice\film-22.htm: multiple movies found: film/gliintoccabili.htm - (new)Untouchables - Gli Intoccabili (The) - (old)Intoccabili - The Untouchables (Gli)
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film1/ilvendicatore1989.htm - (new)Vendicatore (Il) (1989) - (old)Punisher (The) (1989)
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film/jasonx.htm - (new)Venerdç 13 Parte 10: Jason X - (old)Jason X - Morte Violenta
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film1/ilviaggiodifelicia.htm - (new)Viaggio Di Felicia (Il) - (old)Viaggio Di Felicia (Il)
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film1/nelpaesedellemeraviglie.htm - (new)Villaggio Incantato (Il) - (old)Nel Paese Delle Meraviglie
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film/vipresentodordand.htm - (new)Vi Presento Dorothy Dandridge - (old)Rising Star - Nascita Di Una Stella
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film1/voices.htm - (new)Voices - (old)Pitch Perfect (Voices)
+samples/doppiaggio/indice\film-23.htm: multiple movies found: film1/volokal007.htm - (new)Volo Kal 007 - Alla Ricerca Della VeritÖ - (old)Shootdown - Abbattuto
+samples/doppiaggio/indice\film-24.htm: multiple movies found: film/venerdi13parte3.htm - (new)Week-End Di Terrore (Venerdç 13) - (old)Venerdç 13 Parte 3: Week-End Di Terrore
+samples/doppiaggio/indice\film-24.htm: multiple movies found: film/thewiz.htm - (new)Wiz (The) - (old)I'm Magic
+samples/doppiaggio/indice\film-24.htm: multiple movies found: film1/wontbackdown.htm - (new)Won't Back Down - Una Scuola Per Malia - (old)Scuola Per Malia - Won't Back Down (Una)
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film1/ilbanditocorso.htm - (new)Bandito Corso (Il) - (old)In Fuga Con Il Bandito
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film1/bolgen.htm - (new)Bõlgen - The Wave - (old)Wave - Bõlgen (The)
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film1/infugacolcretino.htm - (new)Boulet - Fuga Nel Deserto (Le) - (old)In Fuga Col Cretino - Le Boulet
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film/avventureneimaridelnord.htm - (new)Brave & Commander - Sfida Ai Confini Del... - (old)Avventure Nei Mari Del Nord
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film1/breakingdawn1.htm - (new)Breaking Dawn - Parte 1 - (old)Twilight Saga: Breaking Dawn - Parte 1 (The)
+samples/doppiaggio/indice\film-3.htm: multiple movies found: film1/breakingdawn2.htm - (new)Breaking Dawn - Parte 2 - (old)Twilight Saga: Breaking Dawn - Parte 2 (The)
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film1/strawdogs.htm - (new)Cani Di Paglia - (old)Straw Dogs
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film/carmen.htm - (new)Carmen (2003) - (old)Per Amare Carmen
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film1/007-casinoroyale.htm - (new)Casino Royale - (old)007 - Casino Royale (2006)
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film1/charlievieneprimadi.htm - (new)Charlie Viene Prima Di Tuo Marito - (old)Tutte Pazze Per Charlie
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film/lacittaperduta.htm - (new)CittÖ Perduta (La) - (old)CittÖ Dei Bambini Perduti (La)
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film1/justlikeawoman.htm - (new)Come Una Donna - (old)Just Like A Woman
+samples/doppiaggio/indice\film-4.htm: multiple movies found: film1/waroneveryone.htm - (new)Crazy Dirty Cops - (old)War On Everyone - Sbirri Senza Regole
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film1/sinistreossessioni.htm - (new)Darkly Noon - Sinistre Ossessioni - (old)Sinistre Ossessioni
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film/diehard1.htm - (new)Die Hard - Trappola Di Cristallo - (old)Trappola Di Cristallo
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film/diehard2.htm - (new)Die Hard 2 - 58 Minuti Per Morire - (old)58 Minuti Per Morire - Die Harder
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film/behindenemylines.htm - (new)Dietro Le Linee Nemiche - (old)Behind Enemy Lines - Dietro Le Linee Nemiche
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film1/dirtyteacher.htm - (new)Dirty Teacher - (old)Bella E Letale
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film1/driventokill.htm - (new)Driven To Kill - Guidato Per Uccidere - (old)Ruslan
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film/iduepara.htm - (new)Due ParÖ (I) - (old)2 ParÖ (I)
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film1/bladesofglory.htm - (new)Due Pattinatori Per La Gloria - (old)Blades Of Glory
+samples/doppiaggio/indice\film-5.htm: multiple movies found: film/iduesuperpiediquasipiatti.htm - (new)Due Superpiedi Quasi Piatti (I) - (old)2 Superpiedi Quasi Piatti (I)
+samples/doppiaggio/indice\film-6.htm: multiple movies found: film1/eclipse.htm - (new)Eclipse - (old)Twilight Saga: Eclipse (The)
+samples/doppiaggio/indice\film-6.htm: multiple movies found: film/12mileroad.htm - (new)Estate Della Nostra Vita (L') - (old)12 Mile Road
+samples/doppiaggio/indice\film-6.htm: multiple movies found: film/semilasciticancello.htm - (new)Eternal Sunshine Of The Spotless Mind - (old)Se Mi Lasci Ti Cancello
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/unfantafilm.htm - (new)Fantafilm - Devi Crescere, Timmy Turner! (Un) - (old)Devi Crescere, Timmy Turner! - Un Fantafilm
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film/ilfantasmadifrankenstein.htm - (new)Fantasma Di Frankenstein (Il) - (old)Terrore Di Frankenstein (Il)
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/perfume.htm - (new)Fashion Crimes - (old)Perfume
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/warmsprings.htm - (new)F.D. Roosevelt: Un Uomo, Un Presidente - (old)Warm Springs
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film/toendallwars.htm - (new)Fight For Freedom - (old)To End All Wars
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/thefiveyearengagement.htm - (new)Five-Year Engagement (The) - (old)5 Anni Di Fidanzamento
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/fled.htm - (new)Fled - Inseguiti - (old)Inseguiti
+samples/doppiaggio/indice\film-7.htm: multiple movies found: film1/frammentidiunomicidio.htm - (new)Frammenti Di Un Omicidio - (old)Faces In The Crowd - Frammenti Di Un Omicidio
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film1/testamentofyouth.htm - (new)Generazione Perduta - Testament Of Youth - (old)Testament Of Youth - Generazione Perduta
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film/startrek7.htm - (new)Generazioni - (old)Star Trek Vii: Generazioni
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film1/ungiornodigloriapermisspettigrew.htm - (new)Giorno Di Gloria Per Miss Pettigrew (Un) - (old)Miss Pettigrew
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film1/grace.htm - (new)Grace - Posseduta - (old)Grace - Ispirazione Cercasi
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film1/peeweesbigadventure.htm - (new)Grande Avventura Di Pee-Wee (La) - (old)Pee-Wee's Big Adventure
+samples/doppiaggio/indice\film-8.htm: multiple movies found: film/starwars4.htm - (new)Guerre Stellari - (old)Star Wars: Episodio 4 - Una Nuova Speranza
+samples/doppiaggio/indice\film-9.htm: multiple movies found: film1/happydays.htm - (new)Happy Days - La Banda Dei Fiori Di Pesco - (old)Brooklyn Graffiti
+samples/doppiaggio/indice\film-9.htm: multiple movies found: film/hellonheels.htm - (new)Hell On Heels: The Battle Of Mary Kay - (old)Battaglia Di Mary Kay (La)
+samples/doppiaggio/indice\film-9.htm: multiple movies found: film/inhell.htm - (new)Hell - Scatena L'inferno - (old)In Hell - Nell'inferno
+samples/doppiaggio/indice\film-9.htm: multiple movies found: film1/hates.htm - (new)House At The End Of The Street - (old)Hates - House At The End Of The Street
+samples/doppiaggio/indice\film-corti.htm: multiple movies found: film1/hotelartemis.htm - (new)Hotel Artemis - (old)Hotel Artemis
+samples/doppiaggio/indice\film-mini.htm: multiple movies found: film/ilragazzodalkimonodoro.htm - (new)Ragazzo Dal Kimono D'oro (Il) - (old)Ragazzo Dal Kimono D'oro (Il)
+samples/doppiaggio/indice\voci-13.htm: multiple dubbers found: voci/vociaatt.htm - (new)Mendace, Ernesto - (old)Attendoli, Angelo
+samples/doppiaggio/indice\voci-16.htm: multiple dubbers found: voci/vocilillo.htm - (new)Petrolo, Pasquale (Lillo) - (old)Lillo (Pasquale Petrolo)
+samples/doppiaggio/indice\voci-2.htm: multiple dubbers found: voci/vocigbl.htm - (new)Bersanetti (Ludovisi), Gianni - (old)Ludovisi (Bersanetti), Gianni
+samples/doppiaggio/indice\voci-2.htm: multiple dubbers found: voci/vocimpont.htm - (new)Brancucci, Ernesto - (old)Pontrelli, Mirko
+samples/doppiaggio/indice\voci-20.htm: multiple dubbers found: voci/vocipt.htm - (new)Torrisi, Paolo - (old)Torresan, Maurizio
+samples/doppiaggio/indice\voci-20.htm: multiple dubbers found: voci/vociptov.htm - (new)Tovaglia, Paola - (old)Maralli, Paola
+samples/doppiaggio/indice\voci-22.htm: multiple dubbers found: voci/vocispv.htm - (new)Valli, Stefano - (old)Pietrosanto-Valli, Stefano
+samples/doppiaggio/indice\voci-22.htm: multiple dubbers found: voci/vocivven.htm - (new)Ventura "Shade", Vito - (old)Paparella, Vito
+samples/doppiaggio/indice\voci-22.htm: multiple dubbers found: voci/vocimpont.htm - (new)Viri, Daniele - (old)Pontrelli, Mirko
+samples/doppiaggio/indice\voci-24.htm: multiple dubbers found: voci/vociazan.htm - (new)Zanoletti, Antonio - (old)Zanoletti, Antonio
+samples/doppiaggio/indice\voci-3.htm: multiple dubbers found: voci/vociacam.htm - (new)Campaiola, Alessandro - (old)Ward, Alessandro
+samples/doppiaggio/indice\voci-3.htm: multiple dubbers found: voci/vocifcam.htm - (new)Campaiola, Federico - (old)Ward, Federico
+samples/doppiaggio/indice\voci-3.htm: multiple dubbers found: voci/vociscar.htm - (new)Carraro, Stefano - (old)Libralesso, Natalino "Ennio"
+samples/doppiaggio/indice\voci-3.htm: multiple dubbers found: voci/vocigciu.htm - (new)Ciurluini, Giorgia - (old)Baruffi, Giorgia
+samples/doppiaggio/indice\voci-4.htm: multiple dubbers found: voci/vocimmargin.htm - (new)D'assunta, Massimiliano - (old)Margine, Massimiliano
+samples/doppiaggio/indice\voci-4.htm: multiple dubbers found: voci/vociddc.htm - (new)De Carolis, Daniele - (old)Martino, Daniele
+samples/doppiaggio/indice\voci-4.htm: multiple dubbers found: voci/vocilmor.htm - (new)De Paolis, Luigi - (old)Morville, Luigi
+samples/doppiaggio/indice\voci-5.htm: multiple dubbers found: voci/vocisbel.htm - (new)Elio (Stefano Belisari) - (old)Belisari, Stefano
+samples/doppiaggio/indice\voci-7.htm: multiple dubbers found: voci/vocivcg.htm - (new)Galvani, Velia Cruicchi - (old)Cruicchi Galvani, Velia
+samples/doppiaggio/indice\voci-7.htm: multiple dubbers found: voci/vocirgl.htm - (new)Gallina Laurenti, Roberta - (old)Laurenti, Jasmine
+samples/doppiaggio/indice\voci-7.htm: multiple dubbers found: voci/vocirghi.htm - (new)Ghini, Romano - (old)Borghesi, Stefano
+samples/doppiaggio/indice\voci-7.htm: multiple dubbers found: voci/vocimpont.htm - (new)Giardino, Augusto - (old)Pontrelli, Mirko
+samples/doppiaggio/indice\voci-9.htm: multiple dubbers found: voci/vocimj.htm - (new)Ioannucci, Marco - (old)Joannucci, Marco

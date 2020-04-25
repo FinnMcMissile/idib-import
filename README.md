@@ -1,1 +1,1 @@
-"# idib-import" 
+dotnet run -movies samples\doppiaggio\film -dubbers samples\doppiaggio\voci -dictionary -index samples\doppiaggio\indice -output output\idib-data.json -log
