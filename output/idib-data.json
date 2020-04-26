@@ -167,7 +167,7 @@
       ],
       "audio": {
         "name": "suoni/voceabat.mp3",
-        "description": "La voce di Alvise Battain nel documentario \"Fantasia - La creazione di un capolavoro\", in cui doppia Carl Falberg."
+        "description": "La voce di Alvise Battain nel documentario [Fantasia - La creazione di un capolavoro](movie-page.html?movieSource=film/fantasia.htm), in cui doppia Carl Falberg."
       }
     },
     {
@@ -19680,6 +19680,12 @@
       "director": "John Huston, Ken Hughes, Val Guest, Robert Parrish, Joe Mcgrath",
       "year": "1967",
       "country": "G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        }
+      ],
       "poster": {
         "name": "film/007-casinoroyale.jpg",
         "description": "Manifesto francese del film"
@@ -19800,6 +19806,60 @@
       "director": "Ron Clements, John Musker",
       "year": "1992",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Angriservices Edizioni"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Elettra Caporello"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renzo Stacchi](dubber-page.html?dubberSource=voci/vocirsta.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Donatella Fantini"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Battista Mariani"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Romano Pampaloni"
+        },
+        {
+          "description": "Direzione Musicale",
+          "content": "Pietro Carapellucci"
+        },
+        {
+          "description": "Testi Italiani Delle Canzoni",
+          "content": "[Ernesto Brancucci](dubber-page.html?dubberSource=voci/vocimpont.htm)"
+        },
+        {
+          "description": "Incisione Canzoni",
+          "content": "Cam Recording Studios"
+        },
+        {
+          "description": "Fonico Delle Canzoni",
+          "content": "Marco Streccioni"
+        },
+        {
+          "description": "Consulente Audio Per La Versione Italiana",
+          "content": "Gaetano Ria"
+        },
+        {
+          "description": "Sincronizzazione",
+          "content": "Sincro Sound Ï¿½86 Di Renzo Curi"
+        }
+      ],
       "poster": {
         "name": "film/aladdin.jpg",
         "description": "Manifesto originale del film"
@@ -19931,6 +19991,20 @@
       "director": "Vincent Ward",
       "year": "1998",
       "country": "Usa / Nuova Zelanda",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm), [Luca Dal Fabbro](dubber-page.html?dubberSource=voci/vocildf.htm)"
+        }
+      ],
       "poster": {
         "name": "film/aldiladeisogni.jpg",
         "description": "Manifesto originale del film"
@@ -20015,6 +20089,16 @@
       "director": "Clyde Geronimi, Wilfred Jackson",
       "year": "1951",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Musicale",
+          "content": "Alberto Brandi"
+        }
+      ],
       "poster": {
         "name": "film/alicenelpaesedellemeraviglie.jpg",
         "description": "Manifesto italiano del film"
@@ -20210,6 +20294,24 @@
       "director": "Don Bluth, Gary Goldman",
       "year": "1997",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Royfilm"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Andrea De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renzo Stacchi](dubber-page.html?dubberSource=voci/vocirsta.htm)"
+        },
+        {
+          "description": "Testi Italiani Delle Canzoni E Direzione Musicale",
+          "content": "[Ernesto Brancucci](dubber-page.html?dubberSource=voci/vocimpont.htm)"
+        }
+      ],
       "poster": {
         "name": "film/anastasia.jpg",
         "description": "Copertina originale del DVD del film"
@@ -20401,6 +20503,16 @@
       "director": "Tim Burton",
       "year": "1992",
       "country": "Usa / G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Gruppo Trenta"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        }
+      ],
       "poster": {
         "name": "film/batman-ilritorno.jpg",
         "description": "Manifesto originale del film"
@@ -20607,6 +20719,36 @@
       "director": "Christopher Nolan",
       "year": "2005",
       "country": "Usa / G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Technicolor Sound Services"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Ruggero Busetti"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Ivana Fedele"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Antonello Giorgiucci"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Gianni Pallotto"
+        }
+      ],
       "poster": {
         "name": "film/batmanbegins.jpg",
         "description": "Manifesto originale del film"
@@ -20862,6 +21004,28 @@
       "director": "Tim Burton",
       "year": "2003",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Dante Biagioni](dubber-page.html?dubberSource=voci/vocidb.htm), [Simone Mori](dubber-page.html?dubberSource=voci/vocismo.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Filippo Ottoni"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Filippo Ottoni"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Daniela Losavio"
+        }
+      ],
       "poster": {
         "name": "film/bigfish.jpg",
         "description": "Manifesto originale del film"
@@ -21000,6 +21164,7 @@
       "director": "Ridley Scott",
       "year": "1982",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/bladerunner.jpg",
         "description": "Manifesto originale del film"
@@ -21151,6 +21316,20 @@
       "director": "John Landis",
       "year": "1980",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Rita Savagnone](dubber-page.html?dubberSource=voci/vocirs.htm)"
+        }
+      ],
       "poster": {
         "name": "film/bluesbrothers.jpg",
         "description": "Manifesto originale del film"
@@ -21344,6 +21523,24 @@
       "director": "John Mctiernan",
       "year": "1990",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Mario Paolinelli"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Daniela Losavio"
+        }
+      ],
       "poster": {
         "name": "film/cacciaaottobrerosso.jpg",
         "description": "Manifesto originale del film"
@@ -21469,6 +21666,24 @@
       "director": "Mcg",
       "year": "2000",
       "country": "Usa / Germania",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Elettra Caporello"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/charliesangels.jpg",
         "description": "Manifesto originale del film"
@@ -21566,6 +21781,7 @@
       "director": "Robert Zemeckis",
       "year": "1988",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/chihaincastratorogerrabbit.jpg",
         "description": "Manifesto originale del film"
@@ -21867,6 +22083,36 @@
       "director": "Michael Witterbottom",
       "year": "2003",
       "country": "G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Roberto Moroni"
+        }
+      ],
       "poster": {
         "name": "film/codice46.jpg",
         "description": "Manifesto italiano del film"
@@ -21943,6 +22189,20 @@
       "director": "Harold Becker",
       "year": "1998",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        }
+      ],
       "poster": {
         "name": "film/codicemercury.jpg",
         "description": "Manifesto originale del film"
@@ -22018,6 +22278,20 @@
       "director": "John Milius",
       "year": "1982",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        }
+      ],
       "poster": {
         "name": "film/conanilbarbaro.jpg",
         "description": "Copertina originale del DVD del film"
@@ -22129,6 +22403,24 @@
       "director": "John Badham",
       "year": "1986",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Fede Arnaud"
+        },
+        {
+          "description": "Assistenti Al Doppiaggio",
+          "content": "Ivana Fedele,  Luisa Padovani"
+        }
+      ],
       "poster": {
         "name": "film/cortocircuito.jpg",
         "description": "Manifesto originale del film"
@@ -22207,6 +22499,16 @@
       "director": "Wim Wenders",
       "year": "1993",
       "country": "Germania",
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Richard Reitinger,  Wim Wenders"
+        },
+        {
+          "description": "Durata",
+          "content": "144 Minuti"
+        }
+      ],
       "poster": {
         "name": "film/cosilontanocosivicino.jpg",
         "description": "Manifesto americano del film"
@@ -22279,6 +22581,32 @@
       "director": "James A. Contner",
       "year": "1998",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Donatella Saltarelli (Raiuno)"
+        },
+        {
+          "description": "Casa cinematografica",
+          "content": "Post- Dante Pendenza"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Royfilm"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Fiamma Maglione"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Leslie La Penna"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Olivia Lopez"
+        }
+      ],
       "cast": [
         {
           "character": "Julie Ellis",
@@ -22314,6 +22642,36 @@
       "director": "Mark Steven Johnson",
       "year": "2003",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cis Comunicazione Immagine Suono"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma Film Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Mauro Trentini"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Claudio Sorrentino](dubber-page.html?dubberSource=voci/vocicsor.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Sabina Razzi"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Franco Coratella"
+        }
+      ],
       "poster": {
         "name": "film/daredevil.jpg",
         "description": "Manifesto originale del film"
@@ -22488,6 +22846,12 @@
       "director": "John Mctiernan",
       "year": "1988",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Equipaggiamento Utilizzato",
+          "content": "I Terroristi Sono Armati Di Lanciarazzi Anticarro E Carrettate Di Esplosivo C4 Mitragliette Heckler & Koch Mp5 (Cal. 9X19 Mm); Si Vede Anche Un Fucile D'assalto Steyr Aug (Cal. 5, 56X45 Mm) Usato Per Cecchinaggio Ed Una Pistola Heckler & Koch P7 (Sempre 9X19) In Mano A Gruber.Mclane Per Un Po' Adopera La Beretta 92,  I Poliziotti Dei Fucili D'assalto M16 (5, 56X45). Ad Un Certo Punto I Poliziotti Danno L'assalto Al Grattacielo Con Un Levriere (Un Blindato Della Ii G.M. Senza Torretta)."
+        }
+      ],
       "poster": {
         "name": "film/diehard1.jpg",
         "description": "Manifesto originale del film"
@@ -22730,6 +23094,40 @@
       "director": "Richard Kelly",
       "year": "2001",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Franca Lumachi](dubber-page.html?dubberSource=voci/vociflum.htm), [Davide Marzi](dubber-page.html?dubberSource=voci/vocidm.htm), [Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm),  Daniele Valenti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D. Cine Doppiaggi (2004)"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Ruggero Busetti"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Carla Mete"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Franco Coratella"
+        }
+      ],
       "poster": {
         "name": "film/donniedarko.jpg",
         "description": "Manifesto originale del film"
@@ -22949,6 +23347,24 @@
       "director": "David Lynch",
       "year": "1984",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Gruppo Trenta"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi,  Elettra Caporello"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        }
+      ],
       "poster": {
         "name": "film/dune.jpg",
         "description": "Manifesto originale del film"
@@ -23123,6 +23539,7 @@
       "director": "Don Chaffey",
       "year": "1977",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/elliottildragoinvisibile.jpg",
         "description": "Manifesto originale del film"
@@ -23220,6 +23637,20 @@
       "director": "John Boorman",
       "year": "1981",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Vittorio Stagni](dubber-page.html?dubberSource=voci/vocivs.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D."
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        }
+      ],
       "poster": {
         "name": "film/excalibur.jpg",
         "description": "Manifesto originale del film"
@@ -23407,6 +23838,24 @@
       "director": "David Cronenberg",
       "year": "1999",
       "country": "Canada / Regno Unito / Francia",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Carlo Cosolo"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Carlo Cosolo"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Sandro Galluzzo"
+        }
+      ],
       "poster": {
         "name": "film/existenz.jpg",
         "description": "Manifesto originale del film"
@@ -23488,12 +23937,13 @@
     },
     {
       "source": "film/fantasia.htm",
-      "originalTitle": "Fantasia",
-      "italianTitle": "Fantasia",
+      "originalTitle": "Fantasia: The Creation Of A Disney Classic",
+      "italianTitle": "Fantasia - La Creazione Di Un Capolavoro",
       "indexTitle": "Fantasia",
-      "director": "James Algar, Samuel Armstrong",
-      "year": "1940",
+      "director": "Robert Heath",
+      "year": "1991",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/fantasia.jpg",
         "description": "Manifesto originale del film"
@@ -23736,6 +24186,24 @@
       "director": "Mel Brooks",
       "year": "1974",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis E Mario Maldesi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        }
+      ],
       "poster": {
         "name": "film/frankensteinjunior.jpg",
         "description": "Manifesto originale del film"
@@ -23940,6 +24408,7 @@
       "director": "Brad Bird",
       "year": "2004",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/gliincredibili.jpg",
         "description": "Manifesto originale del film"
@@ -24146,6 +24615,24 @@
       "director": "Barry Levinson",
       "year": "1987",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Omega Srl,  Eseguito Presso La N.I.S."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Letizia Miller"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Fede Arnaud"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Miki Barbera"
+        }
+      ],
       "poster": {
         "name": "film/goodmorningvietnam.jpg",
         "description": "Manifesto originale del film"
@@ -24284,6 +24771,12 @@
       "director": "Hugh Hudson",
       "year": "1984",
       "country": "Regno Unito",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        }
+      ],
       "poster": {
         "name": "film/greystoke.jpg",
         "description": "Manifesto originale del film"
@@ -24393,7 +24886,30 @@
       "italianTitle": "Harry Potter E La Pietra Filosofale",
       "indexTitle": "Harry Potter E La Pietra Filosofale",
       "director": "Chris Columbus",
-      "country": "Warner Bros. Pictures/Heyday Films/1492 Pictures",
+      "year": "2001",
+      "country": "Usa / Regno Unito",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direttore Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        }
+      ],
       "poster": {
         "name": "film/harrypotter1.jpg",
         "description": "Manifesto originale inglese del film"
@@ -24693,6 +25209,12 @@
       "director": "Russell Mulcahy",
       "year": "1986",
       "country": "Usa / G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        }
+      ],
       "poster": {
         "name": "film/highlander1.jpg",
         "description": "Manifesto originale del film"
@@ -24888,6 +25410,40 @@
       "director": "Terry Gilliam",
       "year": "2005",
       "country": "Rep. Ceca / Usa",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Roberto Morville"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Technicolor Sound Services"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Pino Colizzi](dubber-page.html?dubberSource=voci/vocipc.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Pino Colizzi](dubber-page.html?dubberSource=voci/vocipc.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Viviana Barbetta"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Giovan Battista Mariani"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Roberto Moroni"
+        }
+      ],
       "poster": {
         "name": "film/ifratelligrimm.jpg",
         "description": "Manifesto originale del film"
@@ -25106,6 +25662,20 @@
       "director": "Richard Donner",
       "year": "1985",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "N.I.S."
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        }
+      ],
       "poster": {
         "name": "film/igoonies.jpg",
         "description": "Manifesto originale del film"
@@ -25255,6 +25825,20 @@
       "director": "Steven Spielberg",
       "year": "1985",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S. Società Attori Sincronizzatori"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Fede Arnaud"
+        }
+      ],
       "poster": {
         "name": "film/ilcoloreviola.jpg",
         "description": "Manifesto originale del film"
@@ -25395,7 +25979,14 @@
       "italianTitle": "Il Gigante Di Ferro",
       "indexTitle": "Il Gigante Di Ferro",
       "director": "Brad Bird",
-      "country": "Warner Bros",
+      "year": "1999",
+      "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        }
+      ],
       "poster": {
         "name": "film/ilgigantediferro.jpg",
         "description": "Copertina inglese del DVD del film"
@@ -25472,6 +26063,7 @@
       "director": "Frank Coraci",
       "year": "2004",
       "country": "Usa / Germania / Irlanda / Regno Unito",
+      "additionalInfos": [],
       "poster": {
         "name": "film/ilgirodelmondoin80giorni2004.jpg",
         "description": "Manifesto originale del film"
@@ -25656,6 +26248,28 @@
       "director": "Frank Darabont",
       "year": "1999",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Anna Rita Pasanisi](dubber-page.html?dubberSource=voci/vociarp.htm),  Mario Mastria, [Eleonora De Angelis](dubber-page.html?dubberSource=voci/vocieda.htm), [Bruno Conti](dubber-page.html?dubberSource=voci/vocibcon.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/ilmiglioverde.jpg",
         "description": "Copertina del DVD americano del film"
@@ -25863,6 +26477,12 @@
       "director": "Jim Sheridan",
       "year": "1989",
       "country": "G.B. / Irlanda",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S. Società Attori Sincronizzatori"
+        }
+      ],
       "poster": {
         "name": "film/ilmiopiedesinistro.jpg",
         "description": "Manifesto originale del film"
@@ -25926,6 +26546,24 @@
       "director": "Jerry Zucker",
       "year": "1995",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/ilprimocavaliere.jpg",
         "description": "Copertina originale del DVD del film"
@@ -26028,6 +26666,48 @@
       "director": "Luc Besson",
       "year": "1997",
       "country": "Francia",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Enzo Ocone"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Art Collage"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Ruggero Busetti"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Claudia Corazza"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Lucchi"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Danilo Moroni"
+        },
+        {
+          "description": "Assitenza Tecnica Dolby",
+          "content": "Massimo Puccio"
+        },
+        {
+          "description": "Collaborazione All’Edizione",
+          "content": "Stefano Locchi"
+        }
+      ],
       "poster": {
         "name": "film/ilquintoelemento.jpg",
         "description": "Manifesto originale del film"
@@ -26221,6 +26901,32 @@
       "director": "Peter Jackson",
       "year": "2001",
       "country": "Usa / Nuova Zelanda",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        }
+      ],
       "poster": {
         "name": "film/ilsignoredeglianelli1.jpg",
         "description": "Manifesto originale del film"
@@ -26476,6 +27182,32 @@
       "director": "Peter Jackson",
       "year": "2002",
       "country": "Usa / Nuova Zelanda",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        }
+      ],
       "poster": {
         "name": "film/ilsignoredeglianelli2.jpg",
         "description": "Manifesto originale del film"
@@ -26782,6 +27514,32 @@
       "director": "Peter Jackson",
       "year": "2003",
       "country": "Usa / Nuova Zelanda",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        }
+      ],
       "poster": {
         "name": "film/ilsignoredeglianelli3.jpg",
         "description": "Manifesto originale del film"
@@ -27147,6 +27905,32 @@
       "director": "Frank Oz",
       "year": "1997",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Elvira De Majo"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Danilo Moroni"
+        }
+      ],
       "poster": {
         "name": "film/in&out.jpg",
         "description": "Manifesto originale del film"
@@ -27382,6 +28166,24 @@
       "director": "Steven Spielberg",
       "year": "1977",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Daniela Papa"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/incontriravvicinatidelterzotipo.jpg",
         "description": "Manifesto originale del film"
@@ -27556,6 +28358,24 @@
       "director": "Steven Spielberg",
       "year": "1984",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "International Recording,  Con La Partecipazione Del Gruppo Trenta"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi E Elettra Caporello"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        },
+        {
+          "description": "Supervisione Doppiaggio",
+          "content": "Bill Stern"
+        }
+      ],
       "poster": {
         "name": "film/indianajones2.jpg",
         "description": "Manifesto originale del film"
@@ -27694,6 +28514,36 @@
       "director": "Steven Spielberg",
       "year": "1989",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Vittorio De Angelis](dubber-page.html?dubberSource=voci/vocivda.htm), [Claudio Fattoretto](dubber-page.html?dubberSource=voci/vocicf.htm)"
+        },
+        {
+          "description": "Supervisione All'edizione Italiana",
+          "content": "Claudia Gvirtzman Dichter"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto Rizzi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Maria Rita Amari"
+        }
+      ],
       "poster": {
         "name": "film/indianajones3.jpg",
         "description": "Manifesto originale del film"
@@ -27894,6 +28744,20 @@
       "director": "Bernardo Bertolucci",
       "year": "1996",
       "country": "Italia / Francia / G.B.",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S. Società Attori Sincronizzatori"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Filippo Ottoni"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Filippo Ottoni"
+        }
+      ],
       "poster": {
         "name": "film/ioballodasola.jpg",
         "description": "Manifesto internazionale del film"
@@ -27977,6 +28841,24 @@
       "director": "Alex Proyas",
       "year": "2004",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Carla Mete"
+        }
+      ],
       "poster": {
         "name": "film/iorobot.jpg",
         "description": "Manifesto originale del film"
@@ -28088,6 +28970,24 @@
       "director": "Steven Spielberg",
       "year": "1981",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "Riccardo Scarafoni, [Mauro Magliozzi](dubber-page.html?dubberSource=voci/vocimmag.htm),  Massimo Gentile"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Massimiliano Alto](dubber-page.html?dubberSource=voci/vocimalt.htm)"
+        }
+      ],
       "poster": {
         "name": "film/ipredatoridellarcaperduta.jpg",
         "description": "Manifesto originale del film"
@@ -28446,6 +29346,24 @@
       "director": "Cameron Crowe",
       "year": "1996",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/jerrymaguire.jpg",
         "description": "Copertina del DVD americano del film"
@@ -28622,6 +29540,28 @@
       "director": "Robert Longo",
       "year": "1995",
       "country": "Usa / Canada",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Consulenza Scientifica",
+          "content": "Corrado Giustozzi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Silvia Menozzi"
+        }
+      ],
       "poster": {
         "name": "film/johnnymnemonic.jpg",
         "description": "Manifesto originale del film"
@@ -28736,6 +29676,40 @@
       "director": "Hayao Miyazaki",
       "year": "1989",
       "country": "Giappone / Usa",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Romina Franzini"
+        },
+        {
+          "description": "Doppiaggio Italiano E Sonorizzazione",
+          "content": "Technicolor Spa"
+        },
+        {
+          "description": "Traduzione",
+          "content": "Elisa Nardoni"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Gualtiero Cannarsi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Gualtiero Cannarsi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Daniela Inserra"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Massimo Viterbini"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Francesco Tumminello"
+        }
+      ],
       "poster": {
         "name": "film/kikisdeliveryservice.jpg",
         "description": "Manifesto originale del film"
@@ -29008,6 +29982,12 @@
       "director": "Jim Henson",
       "year": "1986",
       "country": "G.B. / Usa",
+      "additionalInfos": [
+        {
+          "description": "Il Regista James Maury Henson È Nato A Greenville, Nel Mississippi, Il 24 Settembre 1936. La Sua Abilità Nell'animare Pupazzi È Evidente Fin Dalla Prima Infanzia, Ed È Proprio L'animazione La Sua Principale Attività. I Suoi Esordi Ufficiali Sono Nel \"Jimmy Dean Show\" Del '63, In Cui Anima E Presta Voce Al Cane Rowlf. Nel '65 Gira Il Cortometraggio \"Time Piece\" E Nel '69 Esce \"Hey Cinderella\", In Cui Fanno Una Delle Loro Prime Apparizioni I \"Muppets\". Progettati Insieme A Frank Oz E Alla Moglie Jane Anne Nebel, I \"Muppets\" Sono La Creazione Della Vita Per Henson, Che Mai Abbandonerà. Arrivano Al Successo Nel Programma Televisivo \"Sesame Street\" (Che Parte Nel '69) E Hanno Un Loro Personale Show A Partire Dal 1976, Dopo Un Paio Di Uscite Sperimentali Al Cinema (\"The Frog Prince\" E \"The Muppets Musicians Of Bremen\", Entrambi Del '72) E Ospitate Varie Perfino Nel Mitico \"Saturday Night Live\" (1975). I Muppets Sono Un'allegra Brigata Di Marionette, Tra Cui Le Più Famose Sono La Rana Kermit, La Porcellina Miss Piggy E Gonzo (Qualcosa Di Simile Ad Una Zanzara). Protagonisti Di Storie A Metà Tra La Commedia Sofisticata Degli Anni '30, La Fantascienza Anni '50 E La Comicità Surreale Dei Fratelli Marx, Hanno Un Loro Singolare Successo Cinematografico (Soprattutto In America) Anche Grazie Al \"Muppet Movie\" (Prodotto Dal Grande Produttore Britannico Sir Lew Grade E Che Henson Lascia Dirigere A James Frawley Nel 1979) In Cui Interagiscono Con Alcuni Grandi Di Hollywood Tra Cui James Coburn, Elliot Gould E Perfino Orson Welles (Che Rimarrà Entusiasta Di Henson E Dei Muppets Tanto Da Volerli, Poco Dopo, Nell'\"Orson Welles Show\"). Nel 1980 George Lucas, Amico Di Sempre, Lo Vuole Per Animare Yoda Ne \"L'impero Colpisce Ancora\" (Il Secondo Capitolo Della Saga \"Guerre Stellari\"), Ma Henson Deve Rifiutare Proprio A Causa Degli Impegni Televisivi E Cinematografici Dei Muppets (Che Continuano Con \"Muppets Go To The Movies\" E \"The Great Muppet Caper\", Usciti Entrambi Nel 1981), Lasciando Yoda Al Fidatissimo Frank Oz. Nel 1982 Henson E Oz Realizzano Un Ambiziosissimo Film Fatto Solo E Soltanto Di Marionette",
+          "content": "\"The Dark Crystal\". Girato In Inghilterra Con Un'estetica Assai Dark (Inedita E Sorprendente Per L'inventore Dei Muppets),  \"The Dark Crystal\" Lascia Ancora Stupefatti Per L'eccellenza Tecnica Davvero Mirabile,  Ma Ha Il Suo Punto Debole Nella Narrazione Della Vicenda,  Che Va Avanti Molto Tortuosamente,  Con La Noia Sempre In Agguato,  Soprattutto Perché La Sceneggiatura Di David Odell Non È Che Sia Prorpio Perfetta. Dopo \"The Dark Crystal\",  Henson Si Ributta Nei Suoi Muppets,  Che Divengono Protagonisti Di \"Fraggle Rock\" (Serie Televisiva Che Comincia Nel 1983) E Del Cartone Animato \"Muppet Babies\" (Inaugurato Nel 1984) Che Henson Produce Solamente,  Ma Che Rappresenta,  Forse,  L'unico Vero Prodotto Dei Muppets Che Abbiamo Potuto Vedere Anche In Italia."
+        }
+      ],
       "poster": {
         "name": "film/labyrinth.jpg",
         "description": "Manifesto originale del film"
@@ -29143,6 +30123,16 @@
       "director": "Richard Donner",
       "year": "1985",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        }
+      ],
       "poster": {
         "name": "film/ladyhawke.jpg",
         "description": "Manifesto originale del film"
@@ -29247,6 +30237,48 @@
       "director": "Tim Burton",
       "year": "2005",
       "country": "Usa / Regno Unito",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Technicolor Sound Services"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Sabina Montanarella"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Gianni Pallotto"
+        },
+        {
+          "description": "Adattamento Testi Delle Canzoni E Voce",
+          "content": "Fabrizio Emigli"
+        },
+        {
+          "description": "Registrazione E Mix Canzoni",
+          "content": "Studio Suoni"
+        }
+      ],
       "poster": {
         "name": "film/lafabbricadicioccolato.jpg",
         "description": "Manifesto originale del film"
@@ -29450,6 +30482,20 @@
       "director": "Peter Webber",
       "year": "2003",
       "country": "G.B. / Lussemburgo",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cdl"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Elisabetta Bucciarelli"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Elisabetta Bucciarelli"
+        }
+      ],
       "poster": {
         "name": "film/laragazzaconlorecchdiperla.jpg",
         "description": "Manifesto originale del film"
@@ -29533,6 +30579,16 @@
       "director": "Woody Allen",
       "year": "1985",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "Carlo Valli (Un Giornalista), [Emilio Cappuccio](dubber-page.html?dubberSource=voci/vociecap.htm),  Saverio Moriones (Collaboratori Di Hirsch)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S. Società Attori Sincronizzatori"
+        }
+      ],
       "poster": {
         "name": "film/larosapurpureadelcairo.jpg",
         "description": "Manifesto originale del film"
@@ -29625,6 +30681,44 @@
       "director": "Tim Burton, Mike Johnson",
       "year": "2005",
       "country": "Regno Unito",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D. Cine Doppiaggi"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Technicolor Sound Services"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Carla Mete"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Carlo Ricotta"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Francesco Cucinelli"
+        },
+        {
+          "description": "Adattamento Testi Delle Canzoni",
+          "content": "Fabrizio Emigli"
+        },
+        {
+          "description": "Registrazione E Mix Canzoni",
+          "content": "Studio Suoni"
+        }
+      ],
       "poster": {
         "name": "film/lasposacadavere.jpg",
         "description": "Manifesto originale del film"
@@ -29778,6 +30872,32 @@
       "director": "Ang Lee",
       "year": "2000",
       "country": "Usa / Hong Kong / Cina / Taiwan",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Gianni Bonagura](dubber-page.html?dubberSource=voci/vocigbona.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Valentina Cidda"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Tonino Anastasi"
+        }
+      ],
       "poster": {
         "name": "film/latigreeildragone.jpg",
         "description": "Manifesto originale del film"
@@ -29897,6 +31017,24 @@
       "director": "Frank Darabont",
       "year": "1994",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Romano Ghini](dubber-page.html?dubberSource=voci/vocirghi.htm), [Sergio Matteucci](dubber-page.html?dubberSource=voci/vocismat.htm), [Maurizio Mattioli](dubber-page.html?dubberSource=voci/vocimmat.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Gruppo Trenta"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Fiamma Izzo](dubber-page.html?dubberSource=voci/vocifi.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Rossella Izzo](dubber-page.html?dubberSource=voci/vociri.htm)"
+        }
+      ],
       "poster": {
         "name": "film/lealidellaliberta.jpg",
         "description": "Copertina originale del DVD del film"
@@ -30024,6 +31162,20 @@
       "director": "Steven Spielberg",
       "year": "1975",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Roberto Draghetti](dubber-page.html?dubberSource=voci/vocird.htm), [Saverio Indrio](dubber-page.html?dubberSource=voci/vocisi.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Dubbing Brothers Int. Italia"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Teo Bellia](dubber-page.html?dubberSource=voci/vocitb.htm)"
+        }
+      ],
       "poster": {
         "name": "film/losqualo.jpg",
         "description": "Manifesto originale del film"
@@ -30225,6 +31377,32 @@
       "director": "Edward Zwick",
       "year": "2003",
       "country": "Usa / Nuova Zelanda / Giappone",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Supervisione Della Versione Italiana",
+          "content": "Claudia Gvirtzman"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Ivana Fedele"
+        }
+      ],
       "poster": {
         "name": "film/lultimosamurai.jpg",
         "description": "Manifesto originale del film"
@@ -30341,6 +31519,12 @@
       "director": "George Pal",
       "year": "1960",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "A.R.S."
+        }
+      ],
       "poster": {
         "name": "film/luomochevissenelfuturo.jpg",
         "description": "Manifesto originale del film"
@@ -30434,6 +31618,12 @@
       "director": "John Huston",
       "year": "1975",
       "country": "G.B. / Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        }
+      ],
       "poster": {
         "name": "film/luomochevollefarsire.jpg",
         "description": "Manifesto originale del film"
@@ -30511,6 +31701,7 @@
       "director": "Robert Stevenson",
       "year": "1964",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/marypoppins.jpg",
         "description": "Copertina americana del DVD del film"
@@ -30820,6 +32011,28 @@
       "director": "Barry Sonnenfeld",
       "year": "1997",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Riccardo Rossi](dubber-page.html?dubberSource=voci/vocirr.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/meninblack.jpg",
         "description": "Copertina del DVD americano del film"
@@ -30943,6 +32156,36 @@
       "director": "Steven Spielberg",
       "year": "2002",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Edizione Italiana",
+          "content": "Claudia Gvirtzman Dichter"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Traduzione Dialoghi",
+          "content": "Elena Di Carlo"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Ivana Fedele"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Sandro Galluzzo"
+        }
+      ],
       "poster": {
         "name": "film/minorityreport.jpg",
         "description": "Manifesto originale del film"
@@ -31146,6 +32389,28 @@
       "director": "Brian De Palma",
       "year": "1996",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Mission",
+          "content": "Impossible - 2\" (2000),  Diretto Da John Woo;"
+        },
+        {
+          "description": "\"Mission",
+          "content": "Impossible - Iii\" (2006),  Diretto Da J.J. Abrams;"
+        },
+        {
+          "description": "\"Mission",
+          "content": "Impossible - Protocollo Fantasma\" (2011),  Diretto Da Brad Bird;"
+        },
+        {
+          "description": "\"Mission",
+          "content": "Impossible - Rogue Nation\" (2015),  Diretto Da Christopher Mcquarrie;"
+        },
+        {
+          "description": "\"Mission",
+          "content": "Impossible - Fallout\" (2018),  Anch'esso Diretto Da Christopher Mcquarrie."
+        }
+      ],
       "poster": {
         "name": "film/missionimpossible1.jpg",
         "description": "Copertina del DVD americano del film"
@@ -31286,6 +32551,20 @@
       "director": "Chris Columbus",
       "year": "1993",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Sergio Jacquier"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Tiziana Lattuca"
+        }
+      ],
       "poster": {
         "name": "film/mrsdoubtfire.jpg",
         "description": "Manifesto originale del film"
@@ -31431,7 +32710,46 @@
       "italianTitle": "Nausicaä Della Valle Del Vento",
       "indexTitle": "Nausicaä Della Valle Del Vento",
       "director": "Hayao Miyazaki",
-      "country": "Toei Animation",
+      "year": "1984",
+      "country": "Giappone",
+      "additionalInfos": [
+        {
+          "description": "Voci Aggiunte",
+          "content": "Antonio Angrisano,  Massimo Aresu,  Alessandro Ballico,  Alessandro Budroni,  Fabiola Bittarello,  Francesco Capanna,  Raffaele Carpentieri,  Sacha De Toni, [Maria Grazia Dominici](dubber-page.html?dubberSource=voci/vocimgd.htm), [Gianluca Machelli](dubber-page.html?dubberSource=voci/vocigmac.htm), [Goffredo Matassi](dubber-page.html?dubberSource=voci/vocigmat.htm),  Alessandro Pala,  Cristina Piras, [Guido Sagliocca](dubber-page.html?dubberSource=voci/vocigs.htm),  Luigi Scribani,  Francesco Sechi,  Serena Sigismondo,  Stefano Thermes,  Luciano Turi,  Dodo Versino"
+        },
+        {
+          "description": "Edizione Italiana",
+          "content": "Romina Franzini"
+        },
+        {
+          "description": "Doppiaggio Italiano E Sonorizzazione",
+          "content": "Cdc Sefit Group"
+        },
+        {
+          "description": "Traduzione",
+          "content": "Elisa Sato Nardoni"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Gualtiero Cannarsi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Gualtiero Cannarsi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Fabio Benedetti"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Fabio Tosti"
+        }
+      ],
       "poster": {
         "name": "film/nausicaa.jpg",
         "description": "Manifesto originale del film"
@@ -31723,6 +33041,16 @@
       "director": "Randal Kleiser",
       "year": "1986",
       "country": "Usa / Norvegia",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Paolo Lombardi](dubber-page.html?dubberSource=voci/vociplom.htm), [Lorenza Biella](dubber-page.html?dubberSource=voci/vocilbie.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "S.A.S. Società Attori Sincronizzatori"
+        }
+      ],
       "poster": {
         "name": "film/navigator.jpg",
         "description": "Manifesto originale del film"
@@ -31816,6 +33144,24 @@
       "director": "Gabriele Salvatores",
       "year": "1997",
       "country": "Italia / Francia / G.B.",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Angiola Baggi](dubber-page.html?dubberSource=voci/vociabag.htm), [Franco Zucca](dubber-page.html?dubberSource=voci/vocifz.htm), [Saverio Moriones](dubber-page.html?dubberSource=voci/vocism.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cdl"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Elisabetta Bucciarelli"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Elisabetta Bucciarelli"
+        }
+      ],
       "poster": {
         "name": "film/nirvana.jpg",
         "description": "Manifesto originale del film"
@@ -31885,6 +33231,20 @@
       "director": "Phillip Noyce",
       "year": "1989",
       "country": "Usa / Australia",
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Terry Hayes"
+        },
+        {
+          "description": "Musiche",
+          "content": "Graeme Revell"
+        },
+        {
+          "description": "Durata",
+          "content": "95 Minuti"
+        }
+      ],
       "poster": {
         "name": "film/ore10calmapiatta.jpg",
         "description": "Manifesto originale del film"
@@ -31952,6 +33312,24 @@
       "director": "Bobby Farrelly, Peter Farrelly",
       "year": "2001",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D. Cine Doppiaggi"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Vittorio Amandola](dubber-page.html?dubberSource=voci/vociva.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Sonia Scotti"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Alessandro Di Giacomo"
+        }
+      ],
       "poster": {
         "name": "film/osmosisjones.jpg",
         "description": "Manifesto originale del film"
@@ -32026,6 +33404,20 @@
       "director": "Tom Shadyac",
       "year": "1998",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Carlo Cosolo"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Luca Dal Fabbro](dubber-page.html?dubberSource=voci/vocildf.htm)"
+        }
+      ],
       "poster": {
         "name": "film/patchadams.jpg",
         "description": "Manifesto originale del film"
@@ -32154,6 +33546,28 @@
       "director": "Jonathan Demme",
       "year": "1993",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Eleonora De Angelis](dubber-page.html?dubberSource=voci/vocieda.htm), [Fabrizio Manfredi](dubber-page.html?dubberSource=voci/vocifma.htm), [Isabella Pasanisi](dubber-page.html?dubberSource=voci/vociip.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Giorgio Piazza](dubber-page.html?dubberSource=voci/vocigpia.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Daniela Losavio"
+        }
+      ],
       "poster": {
         "name": "film/philadelphia.jpg",
         "description": "Manifesto originale del film"
@@ -32382,6 +33796,12 @@
       "director": "Warren Beatty",
       "year": "1981",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D."
+        }
+      ],
       "poster": {
         "name": "film/reds.jpg",
         "description": "Manifesto originale del film"
@@ -32479,6 +33899,28 @@
       "director": "Penny Marshall",
       "year": "1990",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Simone Mori](dubber-page.html?dubberSource=voci/vocismo.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm), [Alessandro Rossi](dubber-page.html?dubberSource=voci/vociaros.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Alessandro Di Giacomo"
+        }
+      ],
       "poster": {
         "name": "film/risvegli.jpg",
         "description": "Manifesto originale del film"
@@ -32611,6 +34053,28 @@
       "director": "Robert Zemeckis",
       "year": "1985",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Isabella Pasanisi](dubber-page.html?dubberSource=voci/vociip.htm),  Federico Neri"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "International Recording,  Con La Partecipazione Della C.D.C."
+        },
+        {
+          "description": "Supervisione Doppiaggio",
+          "content": "Bill Stern"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Franco Rossi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Franco Rossi"
+        }
+      ],
       "poster": {
         "name": "film/ritornoalfuturo1.jpg",
         "description": "Manifesto originale del film"
@@ -32781,6 +34245,7 @@
       "director": "Steven Spielberg",
       "year": "1993",
       "country": "Usa",
+      "additionalInfos": [],
       "poster": {
         "name": "film/schindlerslist.jpg",
         "description": "Manifesto originale del film"
@@ -32982,6 +34447,32 @@
       "director": "Richard Linklater",
       "year": "2003",
       "country": "Usa / Germania",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio,  Eseguito Presso Sefit - Via Margutta"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Carlo Cosolo"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Carlo Cosolo"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Andreina D'andreis"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Fabrizio Salustri"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Alessandro Checcacci"
+        }
+      ],
       "poster": {
         "name": "film/schoolofrock.jpg",
         "description": "Manifesto originale del film"
@@ -33272,6 +34763,24 @@
       "director": "Steven Shainberg",
       "year": "2002",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Nino Prester](dubber-page.html?dubberSource=voci/vocinp.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Nino Prester](dubber-page.html?dubberSource=voci/vocinp.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Caterina Piferi"
+        }
+      ],
       "poster": {
         "name": "film/secretary.jpg",
         "description": "Manifesto originale del film"
@@ -33344,6 +34853,24 @@
       "director": "Michel Gondry",
       "year": "2004",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Alessandro Rossi](dubber-page.html?dubberSource=voci/vociaros.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Alessandro Rossi](dubber-page.html?dubberSource=voci/vociaros.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Elena Masini"
+        }
+      ],
       "poster": {
         "name": "film/semilasciticancello.jpg",
         "description": "Manifesto originale del film"
@@ -33448,6 +34975,40 @@
       "director": "Andrew Adamson, Vicky Jenson",
       "year": "2001",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Voci Aggiunte",
+          "content": "Fabrizio Apolloni,  Giovanni Argante,  Aide Aste, [Carlo Baccarini](dubber-page.html?dubberSource=voci/vocicbac.htm),  Antonio Bonanotte,  Michele Carli,  Riccardo Polizzy Carbonelli, [Raffaella Castelli](dubber-page.html?dubberSource=voci/vocircas.htm), [Marco De Risi](dubber-page.html?dubberSource=voci/vocimdr.htm),  Monica Ferri, [Sergio Gibello](dubber-page.html?dubberSource=voci/vocisgib.htm), [Emidio La Vella](dubber-page.html?dubberSource=voci/vocielv.htm), [Sergio Lucchetti](dubber-page.html?dubberSource=voci/vocisluc.htm), [Franco Mannella](dubber-page.html?dubberSource=voci/vocifman.htm),  Riccardo Montanaro,  Leonardo Petrillo,  Matteo Reggiani,  Gabriele Sabatini,  Olivia Testi,  Enzo Turrin,  Daniele Valenti"
+        },
+        {
+          "description": "Coro",
+          "content": "Pierluca Buonfrate,  Marco Manusso,  Desiree Petrocchi,  Susanna Stivali,  Fabiola Torresi, [Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Roberta Schiavon"
+        },
+        {
+          "description": "Testi Italiani Delle Canzoni E Direzione Artistica",
+          "content": "Marco Manusso"
+        }
+      ],
       "poster": {
         "name": "film/shrek.jpg",
         "description": "Manifesto italiano del film"
@@ -33594,7 +35155,38 @@
       "italianTitle": "Solaris",
       "indexTitle": "Solaris",
       "director": "Steven Soderbergh",
-      "country": "20Th Century Fox / Lightstorm Entertainment",
+      "year": "2002",
+      "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Silvia Menozzi"
+        },
+        {
+          "description": "Fonico Doppiaggio",
+          "content": "Mario Frezza"
+        },
+        {
+          "description": "Fonico Mix",
+          "content": "Francesco Cucinelli"
+        }
+      ],
       "poster": {
         "name": "film/solaris.jpg",
         "description": "Manifesto originale del film"
@@ -33660,6 +35252,36 @@
       "director": "Roland Emmerich",
       "year": "1994",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Altre Voci",
+          "content": "[Roberto Gammino](dubber-page.html?dubberSource=voci/vocirga.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "S.E.Fi.T"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Maria Grazia Belmonti"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Giorgio Piazza](dubber-page.html?dubberSource=voci/vocigpia.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Daniela Losavio"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Danilo Moroni"
+        }
+      ],
       "poster": {
         "name": "film/stargate.jpg",
         "description": "Manifesto originale del film"
@@ -33837,6 +35459,28 @@
       "director": "George Lucas",
       "year": "1999",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 2 - L'attacco Dei Cloni\" (2002)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 3 - La Vendetta Dei Sith\" (2005)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 4 - Una Nuova Speranza\" (1977)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 6 - Il Ritorno Dello Jedi\" (1983)"
+        }
+      ],
       "poster": {
         "name": "film/starwars1.jpg",
         "description": "Manifesto originale del film"
@@ -34087,6 +35731,28 @@
       "director": "George Lucas",
       "year": "2002",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 3 - La Vendetta Dei Sith\" (2005)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 4 - Una Nuova Speranza\" (1977)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 6 - Il Ritorno Dello Jedi\" (1983)"
+        }
+      ],
       "poster": {
         "name": "film/starwars2.jpg",
         "description": "Manifesto originale del film"
@@ -34361,6 +36027,16 @@
       "director": "George Lucas",
       "year": "2005",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 6 - Il Ritorno Dello Jedi\" (1983)"
+        }
+      ],
       "poster": {
         "name": "film/starwars3.jpg",
         "description": "Manifesto originale del film"
@@ -34589,6 +36265,28 @@
       "director": "George Lucas",
       "year": "1977",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 2 - L'attacco Dei Cloni\" (2002)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 3 - La Vendetta Dei Sith\" (2005)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 6 - Il Ritorno Dello Jedi\" (1983)"
+        }
+      ],
       "poster": {
         "name": "film/starwars4.jpg",
         "description": "Manifesto originale del film"
@@ -34806,6 +36504,28 @@
       "director": "Irvin Kershner",
       "year": "1980",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 2 - L'attacco Dei Cloni\" (2002)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 3 - La Vendetta Dei Sith\" (2005)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 4 - Una Nuova Speranza\" (1977)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 6 - Il Ritorno Dello Jedi\" (1983)"
+        }
+      ],
       "poster": {
         "name": "film/starwars5.jpg",
         "description": "Manifesto originale del film"
@@ -35015,6 +36735,28 @@
       "director": "Richard Marquand",
       "year": "1983",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 2 - L'attacco Dei Cloni\" (2002)"
+        },
+        {
+          "description": "\"Star Wars",
+          "content": "Episodio 3 - La Vendetta Dei Sith\" (2005)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 4 - Una Nuova Speranza\" (1977)"
+        },
+        {
+          "description": "\"Guerre Stellari",
+          "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
+        }
+      ],
       "poster": {
         "name": "film/starwars6.jpg",
         "description": "Manifesto originale del film"
@@ -35226,6 +36968,20 @@
       "director": "James Cameron",
       "year": "1984",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "\"Terminator 2",
+          "content": "Il Giorno Del Giudizio\" (1991)"
+        },
+        {
+          "description": "\"Terminator 3",
+          "content": "Le Macchine Ribelli\" (2003)"
+        },
+        {
+          "description": "\"Terminator",
+          "content": "Destino Oscuro\" (2019),  Sequel Diretto Dei Primi Due Film."
+        }
+      ],
       "poster": {
         "name": "film/terminator1.jpg",
         "description": "Manifesto originale del film"
@@ -35360,7 +37116,22 @@
       "italianTitle": "The Black Hole - Il Buco Nero",
       "indexTitle": "The Black Hole - Il Buco Nero",
       "director": "Gary Nelson",
-      "country": "Walt Disney",
+      "year": "1979",
+      "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Defis (1980),  Eseguito Presso L'international Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Giorgio Bonora"
+        }
+      ],
       "poster": {
         "name": "film/theblackhole.jpg",
         "description": "Copertina americana del DVD del film"
@@ -35446,7 +37217,22 @@
       "italianTitle": "Tron",
       "indexTitle": "Tron",
       "director": "Steven Lisberger",
-      "country": "Walt Disney",
+      "year": "1982",
+      "country": "Usa / Taiwan",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Defis (1980),  Eseguito Presso La International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Andrea E Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Giorgio Bonora"
+        }
+      ],
       "poster": {
         "name": "film/tron.jpg",
         "description": "Manifesto originale del film"
@@ -35524,6 +37310,16 @@
       "director": "James Cameron",
       "year": "1994",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Yuri Bedini"
+        }
+      ],
       "poster": {
         "name": "film/truelies.jpg",
         "description": "Copertina del VHS italiano del film"
@@ -35620,6 +37416,12 @@
       "director": "Richard Fleischer",
       "year": "1966",
       "country": "Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        }
+      ],
       "poster": {
         "name": "film/viaggioallucinante.jpg",
         "description": "Manifesto originale del film"
@@ -35731,6 +37533,16 @@
       "director": "Blake Edwards",
       "year": "1982",
       "country": "G.B. / Usa",
+      "additionalInfos": [
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        }
+      ],
       "poster": {
         "name": "film/victorvictoria.jpg",
         "description": "Manifesto originale del film"

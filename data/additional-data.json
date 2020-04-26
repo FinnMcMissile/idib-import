@@ -1,0 +1,10 @@
+{
+    "movies": [
+        {
+            "source": "film/codicemercury.htm",
+            "poster": {
+                "objectFitUnset": true
+            }
+        }
+    ]
+}

@@ -12,6 +12,7 @@ namespace idib_import
         public string moviesPathname = string.Empty; 
         public string outputPathname = string.Empty;
         public string indexPathname = string.Empty;
+        public bool verbose = false;
     }
 
     class Program
@@ -40,7 +41,7 @@ namespace idib_import
             }
         }
         
-        static void moviesScan(string pathName)
+        static void moviesScan(string pathName, bool verbose)
         {
             if (pathName == "")
                 return;
@@ -51,12 +52,12 @@ namespace idib_import
             {
                 foreach (var file in Directory.GetFiles(pathName,"*.htm"))
                 {
-                    movies.Add(file);
+                    movies.Add(file, verbose);
                 }
             }
             else
             {
-                movies.Add(pathName);
+                movies.Add(pathName, verbose);
             }
         }
 
@@ -102,6 +103,8 @@ namespace idib_import
                     options.writeLog = true;
                 else if (args[a] == "-dictionary")
                     options.buildDictionary = true;
+                else if (args[a] == "-verbose")
+                    options.verbose = true;
                 else if (args[a] == "-output")
                     options.outputPathname = args[++a];
                 else if (args[a] == "-dubbers")
@@ -127,7 +130,7 @@ namespace idib_import
             if (options.indexPathname != string.Empty) indexScan(options.indexPathname);
 
             if (options.dubbersPathname != string.Empty) dubbersScan(options.dubbersPathname);
-            if (options.moviesPathname != string.Empty) moviesScan(options.moviesPathname);
+            if (options.moviesPathname != string.Empty) moviesScan(options.moviesPathname, options.verbose);
 
             if (options.buildDictionary) IdibDataHelper.BuildDictionary(idibData);
 

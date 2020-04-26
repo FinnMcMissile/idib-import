@@ -39,23 +39,23 @@
             "stopAtEntry": false
         },
         {
-            "name": "movies single (i predatori dell'arca perduta)",
+            "name": "movies single (nausicaa)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film/ipredatoridellarcaperduta.htm"],
+            "args": ["-movies", "samples/doppiaggio/film/nausicaa.htm"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
         },
         {
-            "name": "movies single (il quinto elemento)",
+            "name": "movies single (al di la dei sogni)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/film/ilquintoelemento.htm"],
+            "args": ["-movies", "samples/doppiaggio/film/aldiladeisogni.htm", "-verbose", "-dubbers", "samples/doppiaggio/voci", "-dictionary"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false

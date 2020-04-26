@@ -6,6 +6,7 @@ using System.Text.RegularExpressions;
 using AngleSharp;
 using AngleSharp.Dom;
 using AngleSharp.Html.Parser;
+using Newtonsoft.Json;
 
 namespace idib_import
 {
@@ -22,7 +23,7 @@ namespace idib_import
             htmlParser = browsingContext.GetService<IHtmlParser>();
         }
 
-        public void Add(string filename)
+        public void Add(string filename, bool verbose)
         {
             using (var streamReader = new StreamReader(filename, Encoding.GetEncoding(1252)))
             {
@@ -36,13 +37,32 @@ namespace idib_import
                 var movie = new Movie() {source = source};
 
                 ExtractMoviePosters(document.QuerySelector("body"), ref movie);
-                ExtractMovieInfo(document.QuerySelector("ul"), ref movie);
+                foreach (var movieInfoRef in document.QuerySelectorAll("ul"))
+                {
+                    if  (
+                            movieInfoRef.PreviousElementSibling != null &&
+                            movieInfoRef.PreviousElementSibling.TextContent.Contains("ALCUNE NOTE SUL FILM", StringComparison.InvariantCultureIgnoreCase)
+                        )
+                        continue;
+                    ExtractMovieInfo(movieInfoRef, ref movie);
+                }
                 foreach (var movieCastRef in document.QuerySelectorAll("div[align=center]"))
                 {
                     ExtractMovieCast(movieCastRef, ref movie);
                 }
 
                 idibData.movies.Add(movie);
+
+                if (verbose) {
+                    Console.WriteLine(
+                        JsonConvert.SerializeObject(
+                        movie, 
+                        Formatting.Indented,
+                        new JsonSerializerSettings {
+                            NullValueHandling = NullValueHandling.Ignore
+                        })
+                    );                  
+                }
             }            
         }
 
@@ -80,16 +100,13 @@ namespace idib_import
             }
         }
 
-        private bool ExtractInfo(IHtmlCollection<IElement> infos, string pattern, ref string result)
+        private bool ExtractInfo(IElement elem, string pattern, ref string result)
         {
-            foreach (var elem in infos)
+            if (Regex.Match(elem.TextContent, pattern).Success)
             {
-                if (Regex.Match(elem.TextContent, pattern).Success)
-                {
-                    var info =  Regex.Replace(elem.TextContent,pattern,"");
-                    result = Utils.Unquote(Utils.Cleanup(info));
-                    return true;
-                }
+                var info =  Regex.Replace(elem.TextContent,pattern,"");
+                result = Utils.Unquote(Utils.Cleanup(info));
+                return true;
             }
             return false;
         }
@@ -98,20 +115,41 @@ namespace idib_import
         {
             var infos = movieInfoRef.QuerySelectorAll("li");
             var result = string.Empty;
-            if (ExtractInfo(infos, "TITOLO.*ITALIANO*.:", ref result))     movie.italianTitle = result;
-            if (ExtractInfo(infos, "TITOLO.*ORIGINALE*.:", ref result))    movie.originalTitle = result;
-            if (ExtractInfo(infos, "REGIA*.:", ref result))                movie.director = result;
-            if (ExtractInfo(infos, "PRODUZIONE*.:", ref result))
+            movie.additionalInfos = new AdditionalInfos();
+            foreach (var elem in infos)
             {
-                var regex = new Regex("^[0-9]+$");
-                if (regex.IsMatch(result.Substring(result.Length - 4)))
+                if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))          movie.italianTitle = result;
+                else if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))     movie.italianTitle = result;
+                else if (ExtractInfo(elem, "TITOLO.*ORIGINALE*.:", ref result))    movie.originalTitle = result;
+                else if (ExtractInfo(elem, "REGIA*.:", ref result))                movie.director = result;
+                else if (ExtractInfo(elem, "PRODUZIONE*.:", ref result))
                 {
-                    movie.year = result.Substring(result.Length - 4);
-                    movie.country = result.Substring(0, result.Length - 4).Trim();
+                    var regex = new Regex("^[0-9]+$");
+                    if (regex.IsMatch(result.Substring(result.Length - 4)))
+                    {
+                        movie.year = result.Substring(result.Length - 4);
+                        movie.country = result.Substring(0, result.Length - 4).Trim();
+                    }
+                    else
+                    {
+                        movie.additionalInfos.Add(new AdditionalInfo()
+                        {
+                            description = "Casa cinematografica",
+                            content = result
+                        });
+                    }
                 }
                 else
                 {
-                    movie.country = result;
+                    var info = elem.TextContent.Split(":");
+                    if (info.Length == 2)
+                    {
+                        movie.additionalInfos.Add(new AdditionalInfo()
+                        {
+                            description = Utils.Cleanup(info[0]),
+                            content = Utils.Cleanup(info[1])
+                        });
+                    }
                 }
             }
         }

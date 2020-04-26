@@ -59,6 +59,31 @@ namespace idib_import
             }
         }
 
+        private static Dubber FindDubberByName(IdibData idibData, string name)
+        {
+            // try to find with the exact name
+            var dubber = idibData.dubbers.Find(dub => dub.name == name);
+            if (dubber != null)
+                return dubber;
+
+            // find by some nickname or alternative
+
+            return idibData.dubbers.Find(dub => 
+                {
+                    // e.g Stefano Satta Flores vs Stefano Satta-Flores
+                    if (dub.name.Replace("-"," ") == name.Replace("-"," "))
+                        return true;
+                    if (dub.altname != null && dub.altname == name)
+                        return true; 
+                    if  (
+                            dub.nickname != null &&
+                            dub.nickname.Replace("'","").Replace("\"","") == name.Replace("'","").Replace("\"","")
+                        )
+                        return true;
+                    return false;
+                });
+        } 
+
         // set the movies each dubber worked on
         private static void SetDubbersWorks(IdibData idibData)
         {
@@ -69,54 +94,33 @@ namespace idib_import
                     if (member.dubber == null || member.dubber.name == null)
                         continue;
 
-                    // try to find with the exact name
-                    var dubber = idibData.dubbers.Find(dub => dub.name == member.dubber.name);
+                    var dubber = FindDubberByName(idibData, member.dubber.name);
+
+                    if (dubber != null && dubber.name != member.dubber.name)
+                    {
+                        member.dubber.creditedAs = member.dubber.name;
+                        member.dubber.name = dubber.name;
+                    }
+
                     if (dubber == null)
+                        continue;
+
+                    member.dubber.photo = dubber.photo != null ? dubber.photo.name : null;
+                    member.dubber.source = dubber.source;
+                    if (dubber.works == null)
+                        dubber.works = new Works();
+                    dubber.works.Add(new Work()
                     {
-                        // find by some nickname or alternative
-
-                        dubber = idibData.dubbers.Find(dub => 
-                        {
-                            // e.g Stefano Satta Flores vs Stefano Satta-Flores
-                            if (dub.name.Replace("-"," ") == member.dubber.name.Replace("-"," "))
-                                return true;
-                            if (dub.altname != null && dub.altname == member.dubber.name)
-                                return true; 
-                            if  (
-                                    dub.nickname != null &&
-                                    dub.nickname.Replace("'","").Replace("\"","") == member.dubber.name.Replace("'","").Replace("\"","")
-                                )
-                                return true;
-                            return false;
-                        });
-
-                        if (dubber != null)
-                        {
-                            member.dubber.creditedAs = member.dubber.name;
-                            member.dubber.name = dubber.name;
-                        }
-                    }
-
-                    if (dubber != null)
-                    {
-                        member.dubber.photo = dubber.photo != null ? dubber.photo.name : null;
-                        member.dubber.source = dubber.source;
-                        if (dubber.works == null)
-                            dubber.works = new Works();
-                        dubber.works.Add(new Work()
-                        {
-                            movie = new MovieRef() {
-                                title = !string.IsNullOrEmpty(movie.indexTitle) ? movie.indexTitle : 
-                                        !string.IsNullOrEmpty(movie.italianTitle) ? movie.italianTitle :
-                                        movie.originalTitle,
-                                source = movie.source,
-                                poster = movie.poster != null ? movie.poster.name : null
-                            },
-                            character = member.character,
-                            actor = member.actor
-                        });
-                    }
-
+                        movie = new MovieRef() {
+                            title = !string.IsNullOrEmpty(movie.indexTitle) ? movie.indexTitle : 
+                                    !string.IsNullOrEmpty(movie.italianTitle) ? movie.italianTitle :
+                                    movie.originalTitle,
+                            source = movie.source,
+                            poster = movie.poster != null ? movie.poster.name : null
+                        },
+                        character = member.character,
+                        actor = member.actor
+                    });
                 }
             }
         }
@@ -156,12 +160,44 @@ namespace idib_import
             }
         }
 
+        public static void FindDubbersInAdditionalInfos(IdibData idibData)
+        {
+            foreach (var movie in idibData.movies)
+            {
+                foreach (var info in movie.additionalInfos)
+                {
+                    var dubber = FindDubberByName(idibData, info.content);
+                    if (dubber != null)
+                        info.content = $"[{dubber.name}](dubber-page.html?dubberSource={dubber.source})";
+                    if (info.content.Contains(","))
+                    {
+                        var parts = info.content.Split(",");
+                        info.content = string.Empty;
+                        foreach (var part in parts)
+                        {
+                            if (info.content != string.Empty)   info.content += ", ";
+                            var dub = FindDubberByName(idibData, Utils.Cleanup(part));
+                            if (dub != null)
+                            {
+                                info.content += $"[{dub.name}](dubber-page.html?dubberSource={dub.source})";
+                            }
+                            else
+                            {
+                                info.content += part;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
         public static void BuildDictionary(IdibData idibData)
         {
             DubbersIndexedName(idibData);
             MoviesIndexedName(idibData);
             SetDubbersWorks(idibData);
             InsertDubbersHref(idibData);
+            FindDubbersInAdditionalInfos(idibData);
 
         }
     }
