@@ -21,7 +21,12 @@ namespace idib_import
                     (input.StartsWith("\"") && input.EndsWith("\"")) ||
                     (input.StartsWith("'") && input.EndsWith("'"))
                 )
-            return input.Substring(1, input.Length - 2);
+            {
+               if (input.Length > 1)
+                    return input.Substring(1, input.Length - 2);
+                else
+                    return string.Empty;
+            }
 
             return input;
         }

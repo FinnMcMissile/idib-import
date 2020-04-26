@@ -9,6 +9,7 @@ namespace idib_import
     }
 
     public class AdditionalInfos : List<AdditionalInfo> {}
+    public class Notes : List<string> {}
 
     public class Movie
     {
@@ -23,5 +24,6 @@ namespace idib_import
         public ImageRef poster {get; set;}
         public Gallery gallery {get; set;}
         public Cast cast {get; set;}
+        public Notes notes {get; set;}
     }
 }

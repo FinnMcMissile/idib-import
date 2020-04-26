@@ -35,6 +35,7 @@ namespace idib_import
                     source = source.Substring(source.IndexOf("doppiaggio") + "doppiaggio".Length + 1);
                 }
                 var movie = new Movie() {source = source};
+                var sourcePath = Utils.ParentURL(source);
 
                 ExtractMoviePosters(document.QuerySelector("body"), ref movie);
                 foreach (var movieInfoRef in document.QuerySelectorAll("ul"))
@@ -43,8 +44,13 @@ namespace idib_import
                             movieInfoRef.PreviousElementSibling != null &&
                             movieInfoRef.PreviousElementSibling.TextContent.Contains("ALCUNE NOTE SUL FILM", StringComparison.InvariantCultureIgnoreCase)
                         )
-                        continue;
-                    ExtractMovieInfo(movieInfoRef, ref movie);
+                    {
+                        ExtractMovieNotes(movieInfoRef, ref movie, sourcePath);
+                    }
+                    else
+                    {
+                        ExtractMovieInfo(movieInfoRef, ref movie);
+                    }
                 }
                 foreach (var movieCastRef in document.QuerySelectorAll("div[align=center]"))
                 {
@@ -63,6 +69,46 @@ namespace idib_import
                         })
                     );                  
                 }
+            }            
+        }
+
+        private string ReplaceATag(IElement note, string sourcePath)
+        {
+            var html = note.InnerHtml;
+            var start = html.IndexOf("<a");
+            while (start != -1)
+            {
+                var stop = html.IndexOf("</a>", start) + "</a>".Length;
+                var aTag = html.Substring(start, stop - start);
+                
+                var s = aTag.IndexOf("\"");
+                var link = aTag.Substring(s + 1, aTag.IndexOf("\"", s + 1) - s - 1);
+                if (link.StartsWith("../"))
+                    link = link.Replace("../","");
+                else
+                    link = $"{sourcePath}/{link}";
+
+                s = aTag.IndexOf(">");
+                var text = aTag.Substring(s + 1, aTag.IndexOf("<", s + 1) - s - 1);
+                text = Utils.Unquote(text);
+                if (text != string.Empty)
+                    html = html.Remove(start, stop - start).Insert(start, $"[{text}](movie-page.html?movieSource={link})");
+                else
+                    html = html.Remove(start, stop - start);
+
+                start = html.IndexOf("<a");
+            }
+            return html;
+        }
+
+        private void ExtractMovieNotes(IElement movieRef, ref Movie movie, string sourcePath)
+        {
+            var notes = movieRef.QuerySelectorAll("li");
+            movie.notes = new Notes();
+            foreach (var note in notes)
+            {
+                note.InnerHtml = ReplaceATag(note, sourcePath);
+                movie.notes.Add(Utils.Cleanup(note.TextContent, false));
             }            
         }
 

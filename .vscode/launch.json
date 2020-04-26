@@ -39,12 +39,12 @@
             "stopAtEntry": false
         },
         {
-            "name": "movies single (nausicaa)",
+            "name": "movies single (007 casino royale)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film/nausicaa.htm"],
+            "args": ["-movies", "samples/doppiaggio/film/007-casinoroyale.htm"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
