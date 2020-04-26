@@ -19682,6 +19682,18 @@
       "country": "G.B.",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Wolf Mankowitz"
+        },
+        {
+          "description": "Musiche",
+          "content": "Burt Bacharach"
+        },
+        {
+          "description": "Durata",
+          "content": "131 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         }
@@ -19807,6 +19819,22 @@
       "year": "1992",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Roger Allers,  Burny Mattinson,  Daan Jippes,  Kevin Harkey,  Sue C. Nichols,  Francis Glebas,  Darrell Rooney,  Larry Leker,  James Fujii,  Kirk Hanson,  Kevin Lima,  Rebecca Rees,  David S. Smith,  Chris Sanders,  Brian Pimental,  Patrick A. Ventura"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Ron Clements,  John Musker,  Ted Elliott,  Terry Rossio"
+        },
+        {
+          "description": "Musiche",
+          "content": "Alan Menken (Canzoni Di Alan Menken,  Howard Ashman,  Tim Rice)"
+        },
+        {
+          "description": "Durata",
+          "content": "90 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Angriservices Edizioni"
@@ -19993,6 +20021,26 @@
       "country": "Usa / Nuova Zelanda",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Ronald Bass"
+        },
+        {
+          "description": "Basato sul Romanzo di",
+          "content": "Richard Matheson"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Kamen"
+        },
+        {
+          "description": "Durata",
+          "content": "110 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 1 Oscar Per",
+          "content": "Migliori Effetti Visivi"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cast Doppiaggio"
         },
@@ -20090,6 +20138,18 @@
       "year": "1951",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Winston Hibler,  Ted Sears,  Bill Peet,  Erdman Penner,  Joe Rinaldi,  Milt Banta,  Bill Cottrell,  Dick Kelsey,  Joe Grant,  Dick Huemer,  Del Connell,  Tom Oreb,  John Walbridge"
+        },
+        {
+          "description": "Musiche",
+          "content": "Oliver Wallace (Autore Partiture); Mack David,  Gene De Paul,  Sammy Fain,  Winston Hibler,  Bob Hilliard,  Al Hoffman,  Jerry Livingston,  Don Raye (Autori Canzoni)"
+        },
+        {
+          "description": "Durata",
+          "content": "75 Minuti"
+        },
         {
           "description": "Versione Italiana",
           "content": "Roberto De Leonardis"
@@ -20295,6 +20355,18 @@
       "year": "1997",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Susan Gauthier,  Bruce Graham,  Bob Tzudiker E Noni White"
+        },
+        {
+          "description": "Musiche",
+          "content": "David Newman"
+        },
+        {
+          "description": "Durata",
+          "content": "94 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Royfilm"
@@ -20504,6 +20576,22 @@
       "year": "1992",
       "country": "Usa / G.B.",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Sam Hamm E Daniel Waters"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Daniel Waters,  Wesley Strick (Non Accreditato)"
+        },
+        {
+          "description": "Musiche",
+          "content": "Danny Elfman"
+        },
+        {
+          "description": "Durata",
+          "content": "126 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Gruppo Trenta"
@@ -20720,6 +20808,22 @@
       "year": "2005",
       "country": "Usa / G.B.",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "David S. Goyer"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Christopher Nolan E David S. Goyer"
+        },
+        {
+          "description": "Musiche",
+          "content": "Hans Zimmer,  James Newton Howard"
+        },
+        {
+          "description": "Durata",
+          "content": "134 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
@@ -21006,6 +21110,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "John August"
+        },
+        {
+          "description": "Musiche",
+          "content": "Danny Elfman"
+        },
+        {
+          "description": "Durata",
+          "content": "126 Minuti"
+        },
+        {
           "description": "Altre Voci",
           "content": "[Dante Biagioni](dubber-page.html?dubberSource=voci/vocidb.htm), [Simone Mori](dubber-page.html?dubberSource=voci/vocismo.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm)"
         },
@@ -21164,7 +21280,48 @@
       "director": "Ridley Scott",
       "year": "1982",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Hampton Fancher E David Peoples"
+        },
+        {
+          "description": "Musiche",
+          "content": "Vangelis"
+        },
+        {
+          "description": "Montaggio Per Gli Stati Uniti (1982)",
+          "content": "116 Minuti"
+        },
+        {
+          "description": "Montaggio Internazionale (1982)",
+          "content": "117 Minuti"
+        },
+        {
+          "description": "Montaggio Per Gli Stati Uniti (1982)",
+          "content": "116 Minuti"
+        },
+        {
+          "description": "Montaggio Internazionale (1982)",
+          "content": "117 Minuti"
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Claudio Fattoretto](dubber-page.html?dubberSource=voci/vocicf.htm), [Massimo Rinaldi](dubber-page.html?dubberSource=voci/vocimr.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "International Recording,  Con La Partecipazione Della C.D."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Sergio Jacquier"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        }
+      ],
       "poster": {
         "name": "film/bladerunner.jpg",
         "description": "Manifesto originale del film"
@@ -21317,6 +21474,14 @@
       "year": "1980",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Dan Aykroyd E John Landis"
+        },
+        {
+          "description": "Durata",
+          "content": "133 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
@@ -21525,6 +21690,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Larry Ferguson E Donald Stewart"
+        },
+        {
+          "description": "Musiche",
+          "content": "Basil Poledouris"
+        },
+        {
+          "description": "Durata",
+          "content": "134 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 1 Oscar Per",
+          "content": "Miglior Montaggio Sonoro."
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         },
@@ -21668,6 +21849,10 @@
       "country": "Usa / Germania",
       "additionalInfos": [
         {
+          "description": "Durata",
+          "content": "98 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         },
@@ -21781,7 +21966,64 @@
       "director": "Robert Zemeckis",
       "year": "1988",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Jeffrey Price E Peter S. Seaman"
+        },
+        {
+          "description": "Musiche",
+          "content": "Alan Silvestri,  Alan Menken,  Joe Mccoy"
+        },
+        {
+          "description": "Durata",
+          "content": "103 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 4 Oscar Per",
+          "content": "Miglior Montaggio (Arthur Schmidt),  Montaggio Sonoro (Charles L. Campbell E Louis L. Edemann),  Effetti Speciali (George Gibbs,  Richard Williams,  Ken Ralston E Ed Jones),  Più Un Oscar Speciale Per La Creazione E Direzione Delle Animazioni (Richard Williams)."
+        },
+        {
+          "description": "Edizione Italiana",
+          "content": "Royfilm Srl"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Supervisione Al Doppiaggio",
+          "content": "Claudia Gvirtzman"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Maria Rita Amari"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Romano Pampaloni"
+        },
+        {
+          "description": "Testi Italiani Delle Canzoni",
+          "content": "[Roberto Chevalier](dubber-page.html?dubberSource=voci/vocirc.htm)"
+        },
+        {
+          "description": "Consulenza Musicale",
+          "content": "Pietro Carapellucci"
+        }
+      ],
       "poster": {
         "name": "film/chihaincastratorogerrabbit.jpg",
         "description": "Manifesto originale del film"
@@ -22085,6 +22327,14 @@
       "country": "G.B.",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Frank Cottrell Boyce"
+        },
+        {
+          "description": "Durata",
+          "content": "92 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
         },
@@ -22191,6 +22441,14 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Lawrence Konner"
+        },
+        {
+          "description": "Durata",
+          "content": "107 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cast Doppiaggio"
         },
@@ -22279,6 +22537,18 @@
       "year": "1982",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "John Milius,  Oliver Stone"
+        },
+        {
+          "description": "Musiche",
+          "content": "Basil Poledouris"
+        },
+        {
+          "description": "Durata",
+          "content": "129 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
@@ -22404,6 +22674,18 @@
       "year": "1986",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Brent Maddock E S.S. Wilson"
+        },
+        {
+          "description": "Musiche",
+          "content": "David Shire"
+        },
+        {
+          "description": "Durata",
+          "content": "98 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "S.A.S."
@@ -22583,6 +22865,14 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Kathryn Pratt"
+        },
+        {
+          "description": "Durata",
+          "content": "85 Minuti"
+        },
+        {
           "description": "Edizione Italiana",
           "content": "Donatella Saltarelli (Raiuno)"
         },
@@ -22643,6 +22933,14 @@
       "year": "2003",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Mark Steven Johnson"
+        },
+        {
+          "description": "Musiche",
+          "content": "Graeme Revell"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cis Comunicazione Immagine Suono"
@@ -22847,6 +23145,26 @@
       "year": "1988",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Jeb Stuart E Steven E. De Souza"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Kamen"
+        },
+        {
+          "description": "Durata",
+          "content": "131 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Kamoti Cinematografica"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
         {
           "description": "Equipaggiamento Utilizzato",
           "content": "I Terroristi Sono Armati Di Lanciarazzi Anticarro E Carrettate Di Esplosivo C4 Mitragliette Heckler & Koch Mp5 (Cal. 9X19 Mm); Si Vede Anche Un Fucile D'assalto Steyr Aug (Cal. 5, 56X45 Mm) Usato Per Cecchinaggio Ed Una Pistola Heckler & Koch P7 (Sempre 9X19) In Mano A Gruber.Mclane Per Un Po' Adopera La Beretta 92,  I Poliziotti Dei Fucili D'assalto M16 (5, 56X45). Ad Un Certo Punto I Poliziotti Danno L'assalto Al Grattacielo Con Un Levriere (Un Blindato Della Ii G.M. Senza Torretta)."
@@ -23095,6 +23413,14 @@
       "year": "2001",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Richard Kelly"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Andrews"
+        },
         {
           "description": "Altre Voci",
           "content": "[Franca Lumachi](dubber-page.html?dubberSource=voci/vociflum.htm), [Davide Marzi](dubber-page.html?dubberSource=voci/vocidm.htm), [Marco Mete](dubber-page.html?dubberSource=voci/vocimme.htm),  Daniele Valenti"
@@ -23349,6 +23675,10 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "David Lynch"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Gruppo Trenta"
         },
@@ -23539,7 +23869,44 @@
       "director": "Don Chaffey",
       "year": "1977",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Malcolm Marmorstein"
+        },
+        {
+          "description": "Musiche",
+          "content": "Joel Hirschhorn"
+        },
+        {
+          "description": "Durata",
+          "content": "102 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Ivana Fedele"
+        },
+        {
+          "description": "Direzione Musicale",
+          "content": "Pietro Carapellucci"
+        }
+      ],
       "poster": {
         "name": "film/elliottildragoinvisibile.jpg",
         "description": "Manifesto originale del film"
@@ -23638,6 +24005,22 @@
       "year": "1981",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Rospo Pallenberg E John Boorman"
+        },
+        {
+          "description": "Adattamento",
+          "content": "Rospo Pallenberg"
+        },
+        {
+          "description": "Musiche",
+          "content": "Trevor Jones"
+        },
+        {
+          "description": "Durata",
+          "content": "140 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Vittorio Stagni](dubber-page.html?dubberSource=voci/vocivs.htm)"
@@ -23840,6 +24223,14 @@
       "country": "Canada / Regno Unito / Francia",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "David Cronenberg"
+        },
+        {
+          "description": "Durata",
+          "content": "97 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cast Doppiaggio"
         },
@@ -23943,7 +24334,56 @@
       "director": "Robert Heath",
       "year": "1991",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Durata",
+          "content": "120 Minuti"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Edizione Italiana",
+          "content": "Disney Charachter Voices International Inc."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Cdc Sefit Group"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Nunziante Valoroso"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Leslie James La Penna"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Ilaria Tornesi"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Marco Fanelli"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Leonard Maltin"
+        },
+        {
+          "description": "Musiche",
+          "content": "Dana Mcclure,  Paul Openheim"
+        },
+        {
+          "description": "Durata",
+          "content": "40 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Royfilm"
+        }
+      ],
       "poster": {
         "name": "film/fantasia.jpg",
         "description": "Manifesto originale del film"
@@ -24188,6 +24628,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Gene Wilder,  Mel Brooks"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Morris"
+        },
+        {
+          "description": "Durata",
+          "content": "108 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
         },
@@ -24408,7 +24860,56 @@
       "director": "Brad Bird",
       "year": "2004",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Brad Bird"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Giacchino"
+        },
+        {
+          "description": "Durata",
+          "content": "115 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 2 Oscar Per",
+          "content": "Miglior Film D'animazione,  Sonoro."
+        },
+        {
+          "description": "Voci Aggiunte",
+          "content": "Edoardo Nordio, [Sergio Lucchetti](dubber-page.html?dubberSource=voci/vocisluc.htm),  Leonardo Graziano, [Manuel Meli](dubber-page.html?dubberSource=voci/vocimmel.htm), [Eva Padoan](dubber-page.html?dubberSource=voci/vociepad.htm), [Ruggero Valli](dubber-page.html?dubberSource=voci/vocirvalli.htm),  Euridice Axen, [Irene Di Valmo](dubber-page.html?dubberSource=voci/vociidv.htm),  Achille D'aniello, [Gianfranco Miranda](dubber-page.html?dubberSource=voci/vocigmir.htm), [Emidio La Vella](dubber-page.html?dubberSource=voci/vocielv.htm),  Maurizio Palladino, [Graziella Polesinanti](dubber-page.html?dubberSource=voci/vocigp.htm),  Francesca Manicone, [Carlo Scipioni](dubber-page.html?dubberSource=voci/vocicsci.htm),  Massimiliano Plinio,  Gaetano Lizzio, [Cristina Giachero](dubber-page.html?dubberSource=voci/vocicgia.htm),  Gabriele Trentalance,  Marco Benvenuto, [Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Edizione Italiana",
+          "content": "Disney Character Voices International Inc."
+        },
+        {
+          "description": "Supervisione Artistica",
+          "content": "Roberto Morville"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Sabina Montanarella"
+        }
+      ],
       "poster": {
         "name": "film/gliincredibili.jpg",
         "description": "Manifesto originale del film"
@@ -24617,6 +25118,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Mitch Markowitz"
+        },
+        {
+          "description": "Musiche",
+          "content": "Alex North"
+        },
+        {
+          "description": "Durata",
+          "content": "121 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Omega Srl,  Eseguito Presso La N.I.S."
         },
@@ -24773,6 +25286,14 @@
       "country": "Regno Unito",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "P.H. Vazok (Alias Robert Towne)"
+        },
+        {
+          "description": "Durata",
+          "content": "143 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         }
@@ -24889,6 +25410,18 @@
       "year": "2001",
       "country": "Usa / Regno Unito",
       "additionalInfos": [
+        {
+          "description": "Casa cinematografica",
+          "content": "Warner Bros. Pictures/Heyday Films/1492 Pictures"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Steven Kloves"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
@@ -25211,6 +25744,22 @@
       "country": "Usa / G.B.",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Gregory Widen"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Gregory Widen,  Peter Bellwood,  Larry Ferguson"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Kamen,  Queen"
+        },
+        {
+          "description": "Durata",
+          "content": "111 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         }
@@ -25411,6 +25960,18 @@
       "year": "2005",
       "country": "Rep. Ceca / Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Ehren Kruger"
+        },
+        {
+          "description": "Musiche",
+          "content": "Dario Marianelli"
+        },
+        {
+          "description": "Durata",
+          "content": "118 Minuti"
+        },
         {
           "description": "Edizione Italiana",
           "content": "Roberto Morville"
@@ -25664,6 +26225,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Steveb Spielberg"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Chris Columbus"
+        },
+        {
+          "description": "Musiche",
+          "content": "Dave Grusin"
+        },
+        {
+          "description": "Durata",
+          "content": "114 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         },
@@ -25827,6 +26404,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Steven Spielberg"
+        },
+        {
+          "description": "Basato sul Romanzo di",
+          "content": "Alice Walker"
+        },
+        {
+          "description": "Musiche",
+          "content": "Quincy Jones"
+        },
+        {
+          "description": "Durata",
+          "content": "154 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "S.A.S. Società Attori Sincronizzatori"
         },
@@ -25983,6 +26576,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Casa cinematografica",
+          "content": "Warner Bros"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Brad Bird"
+        },
+        {
+          "description": "Musiche",
+          "content": "Michael Kamen"
+        },
+        {
+          "description": "Durata",
+          "content": "86 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         }
@@ -26063,7 +26672,36 @@
       "director": "Frank Coraci",
       "year": "2004",
       "country": "Usa / Germania / Irlanda / Regno Unito",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "David Titcher,  David Benullo E David Goldstein"
+        },
+        {
+          "description": "Musiche",
+          "content": "Trevor Jones,  David A. Stewart"
+        },
+        {
+          "description": "Durata",
+          "content": "120 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Alessandro Rossi](dubber-page.html?dubberSource=voci/vociaros.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Angelo Nicotra](dubber-page.html?dubberSource=voci/vocian.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Elena Masini"
+        }
+      ],
       "poster": {
         "name": "film/ilgirodelmondoin80giorni2004.jpg",
         "description": "Manifesto originale del film"
@@ -26249,6 +26887,22 @@
       "year": "1999",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Frank Darabont"
+        },
+        {
+          "description": "Basato sul Romanzo di",
+          "content": "Stephen King"
+        },
+        {
+          "description": "Musiche",
+          "content": "Thomas Newman"
+        },
+        {
+          "description": "Durata",
+          "content": "188 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Anna Rita Pasanisi](dubber-page.html?dubberSource=voci/vociarp.htm),  Mario Mastria, [Eleonora De Angelis](dubber-page.html?dubberSource=voci/vocieda.htm), [Bruno Conti](dubber-page.html?dubberSource=voci/vocibcon.htm)"
@@ -26479,6 +27133,14 @@
       "country": "G.B. / Irlanda",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Shane Connaughton"
+        },
+        {
+          "description": "Durata",
+          "content": "98 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "S.A.S. Società Attori Sincronizzatori"
         }
@@ -26547,6 +27209,14 @@
       "year": "1995",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Lorne Cameron,  David Hoselton"
+        },
+        {
+          "description": "Durata",
+          "content": "134 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
@@ -26667,6 +27337,22 @@
       "year": "1997",
       "country": "Francia",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Luc Besson"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Luc Besson E Robert Mark Kamen"
+        },
+        {
+          "description": "Musiche",
+          "content": "Éric Serra"
+        },
+        {
+          "description": "Durata",
+          "content": "126 Minuti"
+        },
         {
           "description": "Edizione Italiana",
           "content": "Enzo Ocone"
@@ -26902,6 +27588,18 @@
       "year": "2001",
       "country": "Usa / Nuova Zelanda",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Fran Walsh,  Peter Jackson,  Philippa Boyens"
+        },
+        {
+          "description": "Musiche",
+          "content": "Howard Shore"
+        },
+        {
+          "description": "Film Vincitore Di 4 Premi Oscar Per",
+          "content": "Migliori Effetti Speciali,  Fotografia,  Trucco,  Colonna Sonora."
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
@@ -27183,6 +27881,18 @@
       "year": "2002",
       "country": "Usa / Nuova Zelanda",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Fran Walsh,  Peter Jackson,  Philippa Boyens"
+        },
+        {
+          "description": "Musiche",
+          "content": "Howard Shore"
+        },
+        {
+          "description": "Film Vincitore Di 2 Oscar 2003 Per",
+          "content": "Migliori Effetti Sonori,  Effetti Visivi."
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
@@ -27515,6 +28225,18 @@
       "year": "2003",
       "country": "Usa / Nuova Zelanda",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Fran Walsh,  Peter Jackson,  Philippa Boyens"
+        },
+        {
+          "description": "Musiche",
+          "content": "Howard Shore"
+        },
+        {
+          "description": "Film Vincitore Di 11 Oscar Per",
+          "content": "Miglior Film,  Regista,  Sceneggiatura Non Originale,  Colonna Sonora Originale,  Canzone Originale (\"Into The West\",  Cantata Da Annie Lennox),  Effetti Sonori,  Effetti Visivi,  Scenografia,  Costumi,  Trucco,  Montaggio"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
@@ -27907,6 +28629,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Paul Rudnick"
+        },
+        {
+          "description": "Musiche",
+          "content": "Marc Shaiman"
+        },
+        {
+          "description": "Durata",
+          "content": "90 Minuti"
+        },
+        {
           "description": "Edizione Italiana",
           "content": "Elvira De Majo"
         },
@@ -28168,6 +28902,34 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Steven Spielberg"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "132 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         },
@@ -28360,6 +29122,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Willard Huyck E Gloria Katz"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "118 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "International Recording,  Con La Partecipazione Del Gruppo Trenta"
         },
@@ -28515,6 +29293,22 @@
       "year": "1989",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "George Lucas E Menno Meyjes"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Jeffrey Boam"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "127 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Vittorio De Angelis](dubber-page.html?dubberSource=voci/vocivda.htm), [Claudio Fattoretto](dubber-page.html?dubberSource=voci/vocicf.htm)"
@@ -28746,6 +29540,22 @@
       "country": "Italia / Francia / G.B.",
       "additionalInfos": [
         {
+          "description": "Titolo Internazionale",
+          "content": "\"Stealing Beauty\""
+        },
+        {
+          "description": "Soggetto",
+          "content": "Bernardo Bertolucci"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Susan Minot"
+        },
+        {
+          "description": "Durata",
+          "content": "113 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "S.A.S. Società Attori Sincronizzatori"
         },
@@ -28842,6 +29652,22 @@
       "year": "2004",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Jeff Vintar"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Jeff Vintar E Akiva Goldsman"
+        },
+        {
+          "description": "Musiche",
+          "content": "Marco Beltrami"
+        },
+        {
+          "description": "Durata",
+          "content": "115 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
@@ -28971,6 +29797,34 @@
       "year": "1981",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "George Lucas E Philip Kaufman"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Lawrence Kasdan"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "115 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "International Recording,  Con La Partecipazione Della C.D."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Alberto Piferi,  Letizia Ciotti Miller"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        },
         {
           "description": "Altre Voci",
           "content": "Riccardo Scarafoni, [Mauro Magliozzi](dubber-page.html?dubberSource=voci/vocimmag.htm),  Massimo Gentile"
@@ -29348,6 +30202,14 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Cameron Crowe"
+        },
+        {
+          "description": "Durata",
+          "content": "138 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         },
@@ -29542,6 +30404,14 @@
       "country": "Usa / Canada",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "William Gibson"
+        },
+        {
+          "description": "Durata",
+          "content": "96 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
         },
@@ -29677,6 +30547,46 @@
       "year": "1989",
       "country": "Giappone / Usa",
       "additionalInfos": [
+        {
+          "description": "Titolo Internazionale",
+          "content": "\"Kiki's Delivery Service\""
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Eiko Kadono"
+        },
+        {
+          "description": "Musiche",
+          "content": "Joe Hisaishi"
+        },
+        {
+          "description": "Durata",
+          "content": "103 Minuti"
+        },
+        {
+          "description": "Edizione Italiana",
+          "content": "Disney Character Voices International,  Inc."
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cast Doppiaggio"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Sefit-Cdc"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Gualtiero Cannarsi"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Paola Montagnoli"
+        },
         {
           "description": "Edizione Italiana",
           "content": "Romina Franzini"
@@ -29984,6 +30894,38 @@
       "country": "G.B. / Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Dennis Lee E Jim Henson"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Terry Jones"
+        },
+        {
+          "description": "Musiche",
+          "content": "Trevor Jones"
+        },
+        {
+          "description": "Durata",
+          "content": "101 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "C.D.S."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Sergio Jacquier"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
           "description": "Il Regista James Maury Henson È Nato A Greenville, Nel Mississippi, Il 24 Settembre 1936. La Sua Abilità Nell'animare Pupazzi È Evidente Fin Dalla Prima Infanzia, Ed È Proprio L'animazione La Sua Principale Attività. I Suoi Esordi Ufficiali Sono Nel \"Jimmy Dean Show\" Del '63, In Cui Anima E Presta Voce Al Cane Rowlf. Nel '65 Gira Il Cortometraggio \"Time Piece\" E Nel '69 Esce \"Hey Cinderella\", In Cui Fanno Una Delle Loro Prime Apparizioni I \"Muppets\". Progettati Insieme A Frank Oz E Alla Moglie Jane Anne Nebel, I \"Muppets\" Sono La Creazione Della Vita Per Henson, Che Mai Abbandonerà. Arrivano Al Successo Nel Programma Televisivo \"Sesame Street\" (Che Parte Nel '69) E Hanno Un Loro Personale Show A Partire Dal 1976, Dopo Un Paio Di Uscite Sperimentali Al Cinema (\"The Frog Prince\" E \"The Muppets Musicians Of Bremen\", Entrambi Del '72) E Ospitate Varie Perfino Nel Mitico \"Saturday Night Live\" (1975). I Muppets Sono Un'allegra Brigata Di Marionette, Tra Cui Le Più Famose Sono La Rana Kermit, La Porcellina Miss Piggy E Gonzo (Qualcosa Di Simile Ad Una Zanzara). Protagonisti Di Storie A Metà Tra La Commedia Sofisticata Degli Anni '30, La Fantascienza Anni '50 E La Comicità Surreale Dei Fratelli Marx, Hanno Un Loro Singolare Successo Cinematografico (Soprattutto In America) Anche Grazie Al \"Muppet Movie\" (Prodotto Dal Grande Produttore Britannico Sir Lew Grade E Che Henson Lascia Dirigere A James Frawley Nel 1979) In Cui Interagiscono Con Alcuni Grandi Di Hollywood Tra Cui James Coburn, Elliot Gould E Perfino Orson Welles (Che Rimarrà Entusiasta Di Henson E Dei Muppets Tanto Da Volerli, Poco Dopo, Nell'\"Orson Welles Show\"). Nel 1980 George Lucas, Amico Di Sempre, Lo Vuole Per Animare Yoda Ne \"L'impero Colpisce Ancora\" (Il Secondo Capitolo Della Saga \"Guerre Stellari\"), Ma Henson Deve Rifiutare Proprio A Causa Degli Impegni Televisivi E Cinematografici Dei Muppets (Che Continuano Con \"Muppets Go To The Movies\" E \"The Great Muppet Caper\", Usciti Entrambi Nel 1981), Lasciando Yoda Al Fidatissimo Frank Oz. Nel 1982 Henson E Oz Realizzano Un Ambiziosissimo Film Fatto Solo E Soltanto Di Marionette",
           "content": "\"The Dark Crystal\". Girato In Inghilterra Con Un'estetica Assai Dark (Inedita E Sorprendente Per L'inventore Dei Muppets),  \"The Dark Crystal\" Lascia Ancora Stupefatti Per L'eccellenza Tecnica Davvero Mirabile,  Ma Ha Il Suo Punto Debole Nella Narrazione Della Vicenda,  Che Va Avanti Molto Tortuosamente,  Con La Noia Sempre In Agguato,  Soprattutto Perché La Sceneggiatura Di David Odell Non È Che Sia Prorpio Perfetta. Dopo \"The Dark Crystal\",  Henson Si Ributta Nei Suoi Muppets,  Che Divengono Protagonisti Di \"Fraggle Rock\" (Serie Televisiva Che Comincia Nel 1983) E Del Cartone Animato \"Muppet Babies\" (Inaugurato Nel 1984) Che Henson Produce Solamente,  Ma Che Rappresenta,  Forse,  L'unico Vero Prodotto Dei Muppets Che Abbiamo Potuto Vedere Anche In Italia."
         }
@@ -30125,6 +31067,22 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Edward Khmara"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Edward Khmara,  Michael Thomas,  Tom Mankiewicz E David Webb Peoples"
+        },
+        {
+          "description": "Musiche",
+          "content": "Andrew Powell"
+        },
+        {
+          "description": "Durata",
+          "content": "121 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
         },
@@ -30238,6 +31196,14 @@
       "year": "2005",
       "country": "Usa / Regno Unito",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "John August"
+        },
+        {
+          "description": "Durata",
+          "content": "106 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Carlo Valli](dubber-page.html?dubberSource=voci/vocicv.htm)"
@@ -30484,6 +31450,14 @@
       "country": "G.B. / Lussemburgo",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Olivia Hetreed"
+        },
+        {
+          "description": "Durata",
+          "content": "95 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cdl"
         },
@@ -30580,6 +31554,14 @@
       "year": "1985",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Woody Allen"
+        },
+        {
+          "description": "Durata",
+          "content": "84 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "Carlo Valli (Un Giornalista), [Emilio Cappuccio](dubber-page.html?dubberSource=voci/vociecap.htm),  Saverio Moriones (Collaboratori Di Hirsch)"
@@ -30682,6 +31664,18 @@
       "year": "2005",
       "country": "Regno Unito",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "John August,  Pamela Pettler,  Caroline Thompson"
+        },
+        {
+          "description": "Musiche",
+          "content": "Danny Elfman"
+        },
+        {
+          "description": "Durata",
+          "content": "76 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D. Cine Doppiaggi"
@@ -30874,6 +31868,26 @@
       "country": "Usa / Hong Kong / Cina / Taiwan",
       "additionalInfos": [
         {
+          "description": "Titolo Internazionale",
+          "content": "\"Crouching Tiger,  Hidden Dragon\""
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Hui-Ling Wang"
+        },
+        {
+          "description": "Musiche",
+          "content": "Tan Dun,  Yo-Yo Ma"
+        },
+        {
+          "description": "Durata",
+          "content": "120 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 4 Oscar Per",
+          "content": "Miglior Film Straniero (Taiwan),  Miglior Fotografia (Peter Pau),  Miglior Scenografia (Timmy Yip),  Miglior Colonna Sonora (Tan Dun)."
+        },
+        {
           "description": "Altre Voci",
           "content": "[Gianni Bonagura](dubber-page.html?dubberSource=voci/vocigbona.htm)"
         },
@@ -31019,6 +32033,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Frank Darabont"
+        },
+        {
+          "description": "Musiche",
+          "content": "Thomas Newmann"
+        },
+        {
+          "description": "Durata",
+          "content": "142 Minuti"
+        },
+        {
           "description": "Altre Voci",
           "content": "[Romano Ghini](dubber-page.html?dubberSource=voci/vocirghi.htm), [Sergio Matteucci](dubber-page.html?dubberSource=voci/vocismat.htm), [Maurizio Mattioli](dubber-page.html?dubberSource=voci/vocimmat.htm)"
         },
@@ -31163,6 +32189,34 @@
       "year": "1975",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Peter Benchley E Carl Gottlieb (In Collaborazione Con Howard Sackler,  John Milius E Robert Shaw)"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "124 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 3 Premi Oscar Per",
+          "content": "Migliore Colonna Sonora,  Montaggio E Sonoro."
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Sergio Fiorentini](dubber-page.html?dubberSource=voci/vocisfio.htm), [Mario Milita](dubber-page.html?dubberSource=voci/vocimmil.htm), [Luciano De Ambrosis](dubber-page.html?dubberSource=voci/vocilda.htm), [Anna Rita Pasanisi](dubber-page.html?dubberSource=voci/vociarp.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D."
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Renato Izzo](dubber-page.html?dubberSource=voci/vocirizz.htm)"
+        },
         {
           "description": "Altre Voci",
           "content": "[Roberto Draghetti](dubber-page.html?dubberSource=voci/vocird.htm), [Saverio Indrio](dubber-page.html?dubberSource=voci/vocisi.htm)"
@@ -31379,6 +32433,14 @@
       "country": "Usa / Nuova Zelanda / Giappone",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "John Logan E Marshall Herskovitz"
+        },
+        {
+          "description": "Durata",
+          "content": "154 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         },
@@ -31521,6 +32583,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "David Duncan"
+        },
+        {
+          "description": "Musiche",
+          "content": "Russell Garcia"
+        },
+        {
+          "description": "Durata",
+          "content": "103 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "A.R.S."
         }
@@ -31620,6 +32694,14 @@
       "country": "G.B. / Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "John Huston E Gladys Hill"
+        },
+        {
+          "description": "Durata",
+          "content": "129 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Cvd"
         }
@@ -31701,7 +32783,72 @@
       "director": "Robert Stevenson",
       "year": "1964",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Bill Walsh,  Don Da Gradi"
+        },
+        {
+          "description": "Musiche",
+          "content": "Richard M. Sherman,  Robert B. Sherman,  Irwin Kostal"
+        },
+        {
+          "description": "Durata",
+          "content": "140 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 5 Oscar Per",
+          "content": "Miglior Attrice Protagonista (Julie Andrews),  Montaggio,  Effetti Speciali,  Colonna Sonora,  Canzone (\"Chim Chim Cher-Ee\")."
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C. (1965)"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Giulio Panicali"
+        },
+        {
+          "description": "Testi Italiani Delle Canzoni",
+          "content": "Pertitas E Amurri"
+        },
+        {
+          "description": "Direzione Musicale",
+          "content": "Alberto Brandi,  Con La Collaborazione Di Pietro Carapellucci"
+        },
+        {
+          "description": "Tecnico Del Suono",
+          "content": "Franco Bassi"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Royfilm Srl"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Cvd"
+        },
+        {
+          "description": "Traduzione",
+          "content": "Nunziante Valoroso"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Manuela Marianetti"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Leslie James La Penna"
+        }
+      ],
       "poster": {
         "name": "film/marypoppins.jpg",
         "description": "Copertina americana del DVD del film"
@@ -32013,6 +33160,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Ed Solomon"
+        },
+        {
+          "description": "Musiche",
+          "content": "Danny Elfman"
+        },
+        {
+          "description": "Durata",
+          "content": "98 Minuti"
+        },
+        {
           "description": "Altre Voci",
           "content": "[Riccardo Rossi](dubber-page.html?dubberSource=voci/vocirr.htm)"
         },
@@ -32157,6 +33316,18 @@
       "year": "2002",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Scott Frank E Jon Cohen"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams,  Paul Haslinger"
+        },
+        {
+          "description": "Durata",
+          "content": "145 Minuti"
+        },
         {
           "description": "Edizione Italiana",
           "content": "Claudia Gvirtzman Dichter"
@@ -32391,6 +33562,42 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "David Koepp E Steven Zaillian"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "David Koepp E Robert Towne"
+        },
+        {
+          "description": "Musiche",
+          "content": "Danny Elfman"
+        },
+        {
+          "description": "Durata",
+          "content": "110 Minuti"
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm),  Roberto Certoma'"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        },
+        {
           "description": "\"Mission",
           "content": "Impossible - 2\" (2000),  Diretto Da John Woo;"
         },
@@ -32553,6 +33760,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Leslie Dixon,  Randi Mayem Singer"
+        },
+        {
+          "description": "Musiche",
+          "content": "Howard Shore"
+        },
+        {
+          "description": "Durata",
+          "content": "125 Minuti"
+        },
+        {
           "description": "Dialoghi Italiani",
           "content": "Sergio Jacquier"
         },
@@ -32713,6 +33932,34 @@
       "year": "1984",
       "country": "Giappone",
       "additionalInfos": [
+        {
+          "description": "Casa cinematografica",
+          "content": "Toei Animation"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Hayao Miyazaki"
+        },
+        {
+          "description": "Musiche",
+          "content": "Joe Hisaishi"
+        },
+        {
+          "description": "Durata",
+          "content": "116 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Sinc Cinematografica"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Rodolfo Cappellini"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Eva Ricca"
+        },
         {
           "description": "Voci Aggiunte",
           "content": "Antonio Angrisano,  Massimo Aresu,  Alessandro Ballico,  Alessandro Budroni,  Fabiola Bittarello,  Francesco Capanna,  Raffaele Carpentieri,  Sacha De Toni, [Maria Grazia Dominici](dubber-page.html?dubberSource=voci/vocimgd.htm), [Gianluca Machelli](dubber-page.html?dubberSource=voci/vocigmac.htm), [Goffredo Matassi](dubber-page.html?dubberSource=voci/vocigmat.htm),  Alessandro Pala,  Cristina Piras, [Guido Sagliocca](dubber-page.html?dubberSource=voci/vocigs.htm),  Luigi Scribani,  Francesco Sechi,  Serena Sigismondo,  Stefano Thermes,  Luciano Turi,  Dodo Versino"
@@ -33043,6 +34290,22 @@
       "country": "Usa / Norvegia",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Mark H. Baker"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Michael Burton E Matt Macmanus"
+        },
+        {
+          "description": "Musiche",
+          "content": "Alan Silvestri"
+        },
+        {
+          "description": "Durata",
+          "content": "90 Minuti"
+        },
+        {
           "description": "Altre Voci",
           "content": "[Paolo Lombardi](dubber-page.html?dubberSource=voci/vociplom.htm), [Lorenza Biella](dubber-page.html?dubberSource=voci/vocilbie.htm)"
         },
@@ -33146,6 +34409,22 @@
       "country": "Italia / Francia / G.B.",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "Gabriele Salvatores"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Pino Cacucci,  Gloria Corica E Gabriele Salvatores"
+        },
+        {
+          "description": "Musiche",
+          "content": "Federico De Robertis,  Mauro Pagani"
+        },
+        {
+          "description": "Durata",
+          "content": "113 Minuti"
+        },
+        {
           "description": "Altre Voci",
           "content": "[Angiola Baggi](dubber-page.html?dubberSource=voci/vociabag.htm), [Franco Zucca](dubber-page.html?dubberSource=voci/vocifz.htm), [Saverio Moriones](dubber-page.html?dubberSource=voci/vocism.htm)"
         },
@@ -33237,6 +34516,10 @@
           "content": "Terry Hayes"
         },
         {
+          "description": "Basato sul Romanzo di",
+          "content": "Charles Williams"
+        },
+        {
           "description": "Musiche",
           "content": "Graeme Revell"
         },
@@ -33313,6 +34596,14 @@
       "year": "2001",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Marc Hyman"
+        },
+        {
+          "description": "Durata",
+          "content": "95 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D. Cine Doppiaggi"
@@ -33405,6 +34696,18 @@
       "year": "1998",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Steve Oedekerk"
+        },
+        {
+          "description": "Musiche",
+          "content": "Marc Shaiman"
+        },
+        {
+          "description": "Durata",
+          "content": "115 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cast Doppiaggio"
@@ -33547,6 +34850,22 @@
       "year": "1993",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Ron Nyswaner"
+        },
+        {
+          "description": "Musiche",
+          "content": "Howard Shore"
+        },
+        {
+          "description": "Durata",
+          "content": "125 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 2 Oscar Per",
+          "content": "Miglior Attore Protagonista (Tom Hanks),  Canzone Originale (\"Streets Of Philadelphia\",  Di Bruce Springsteen)."
+        },
         {
           "description": "Altre Voci",
           "content": "[Eleonora De Angelis](dubber-page.html?dubberSource=voci/vocieda.htm), [Fabrizio Manfredi](dubber-page.html?dubberSource=voci/vocifma.htm), [Isabella Pasanisi](dubber-page.html?dubberSource=voci/vociip.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm)"
@@ -33798,6 +35117,14 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Warren Beatty,  Trevor Griffiths"
+        },
+        {
+          "description": "Durata",
+          "content": "194 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "C.D."
         }
@@ -33900,6 +35227,18 @@
       "year": "1990",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Steven Zaillian"
+        },
+        {
+          "description": "Musiche",
+          "content": "Randy Newman"
+        },
+        {
+          "description": "Durata",
+          "content": "121 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Simone Mori](dubber-page.html?dubberSource=voci/vocismo.htm), [Sandro Sardone](dubber-page.html?dubberSource=voci/vocissa.htm), [Alessandro Rossi](dubber-page.html?dubberSource=voci/vociaros.htm)"
@@ -34054,6 +35393,18 @@
       "year": "1985",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Robert Zemeckis E Bob Gale"
+        },
+        {
+          "description": "Musiche",
+          "content": "Alan Silvestri"
+        },
+        {
+          "description": "Durata",
+          "content": "111 Minuti"
+        },
         {
           "description": "Altre Voci",
           "content": "[Isabella Pasanisi](dubber-page.html?dubberSource=voci/vociip.htm),  Federico Neri"
@@ -34245,7 +35596,44 @@
       "director": "Steven Spielberg",
       "year": "1993",
       "country": "Usa",
-      "additionalInfos": [],
+      "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Steven Zaillian"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "197 Minuti"
+        },
+        {
+          "description": "Vincitore Di 7 Oscar Per",
+          "content": "Miglior Film,  Regia,  Sceneggiatura Non Originale,  Colonna Sonora,  Fotografia (Janusz Kaminski),  Scenografia (Allan Starski,  Ewa Braun),  Montaggio (Michael Kahn)."
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "C.D.C."
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Manlio De Angelis](dubber-page.html?dubberSource=voci/vocimda.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Antonella Bartolomei"
+        }
+      ],
       "poster": {
         "name": "film/schindlerslist.jpg",
         "description": "Manifesto originale del film"
@@ -34448,6 +35836,14 @@
       "year": "2003",
       "country": "Usa / Germania",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Mike White"
+        },
+        {
+          "description": "Durata",
+          "content": "108 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Cast Doppiaggio,  Eseguito Presso Sefit - Via Margutta"
@@ -34765,6 +36161,14 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "Erin Cressida Wilson"
+        },
+        {
+          "description": "Durata",
+          "content": "104 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         },
@@ -34854,6 +36258,26 @@
       "year": "2004",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Charlie Kaufman,  Michel Gondry E Pierre Bismuth"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Charlie Kaufman"
+        },
+        {
+          "description": "Musiche",
+          "content": "Jon Brion"
+        },
+        {
+          "description": "Durata",
+          "content": "108 Minuti"
+        },
+        {
+          "description": "Film Vincitore Di 1 Oscar Per",
+          "content": "Miglior Sceneggiatura Originale"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
@@ -34976,6 +36400,18 @@
       "year": "2001",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Ted Elliott & Terry Rossio,  Joe Stillman,  Roger S.H. Schulman"
+        },
+        {
+          "description": "Musiche",
+          "content": "Harry Gregson-Williams,  John Powell"
+        },
+        {
+          "description": "Durata",
+          "content": "96 Minuti"
+        },
         {
           "description": "Voci Aggiunte",
           "content": "Fabrizio Apolloni,  Giovanni Argante,  Aide Aste, [Carlo Baccarini](dubber-page.html?dubberSource=voci/vocicbac.htm),  Antonio Bonanotte,  Michele Carli,  Riccardo Polizzy Carbonelli, [Raffaella Castelli](dubber-page.html?dubberSource=voci/vocircas.htm), [Marco De Risi](dubber-page.html?dubberSource=voci/vocimdr.htm),  Monica Ferri, [Sergio Gibello](dubber-page.html?dubberSource=voci/vocisgib.htm), [Emidio La Vella](dubber-page.html?dubberSource=voci/vocielv.htm), [Sergio Lucchetti](dubber-page.html?dubberSource=voci/vocisluc.htm), [Franco Mannella](dubber-page.html?dubberSource=voci/vocifman.htm),  Riccardo Montanaro,  Leonardo Petrillo,  Matteo Reggiani,  Gabriele Sabatini,  Olivia Testi,  Enzo Turrin,  Daniele Valenti"
@@ -35159,6 +36595,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Casa cinematografica",
+          "content": "20Th Century Fox / Lightstorm Entertainment"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Steven Soderbergh"
+        },
+        {
+          "description": "Durata",
+          "content": "99 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Sefit-Cdc"
         },
@@ -35253,6 +36701,14 @@
       "year": "1994",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Roland Emmerich E Dean Devlin"
+        },
+        {
+          "description": "Musiche",
+          "content": "David Arnold"
+        },
         {
           "description": "Altre Voci",
           "content": "[Roberto Gammino](dubber-page.html?dubberSource=voci/vocirga.htm)"
@@ -35460,6 +36916,42 @@
       "year": "1999",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Musica",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "133 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Royfilm"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Dubbing Brothers Int. Italia"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Filippo Ottoni"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Filippo Ottoni"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Edoardo Cannata"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Saverio Ceraselli"
+        },
         {
           "description": "\"Star Wars",
           "content": "Episodio 2 - L'attacco Dei Cloni\" (2002)"
@@ -35732,6 +37224,46 @@
       "year": "2002",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "George Lucas,  Jonathan Hales"
+        },
+        {
+          "description": "Musica",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "143 Minuti"
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Claudio Sorrentino](dubber-page.html?dubberSource=voci/vocicsor.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Dubbing Brothers International Italia"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Mauro Trentini"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Claudio Sorrentino](dubber-page.html?dubberSource=voci/vocicsor.htm)"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Silvia Ferri"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Emanuele Leolini"
+        },
         {
           "description": "\"Star Wars",
           "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
@@ -36029,6 +37561,54 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Durata",
+          "content": "140 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Dubbing Brothers International Italia"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Mauro Trentini"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Francesco Vairano](dubber-page.html?dubberSource=voci/vocifvai.htm)"
+        },
+        {
+          "description": "Assistenti Al Doppiaggio",
+          "content": "Ivana Fedele,  Sabrina Lettini"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Emanuele Leolini"
+        },
+        {
+          "description": "Sincronizzazione",
+          "content": "Titti Valentini"
+        },
+        {
+          "description": "Montaggio Dialoghi",
+          "content": "Stuart Mccowan"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Tony Sereno"
+        },
+        {
+          "description": "Supervisione",
+          "content": "Fred Taieb"
+        },
+        {
           "description": "\"Guerre Stellari",
           "content": "Episodio 5 - L'impero Colpisce Ancora\" (1980)"
         },
@@ -36266,6 +37846,66 @@
       "year": "1977",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Film Vincitore Di 6 Oscar Per",
+          "content": "Costumi,  Colonna Sonora,  Effetti Speciali Visivi,  Effetti Speciali Sonori,  Scenografia,  Montaggio."
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Gil Baroni](dubber-page.html?dubberSource=voci/vocigbar.htm), [Sergio Di Giulio](dubber-page.html?dubberSource=voci/vocisdg.htm), [Roberto Del Giudice](dubber-page.html?dubberSource=voci/vocirdg.htm), [Silvio Anselmo](dubber-page.html?dubberSource=voci/vocisans.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Novella Marcucci"
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Art Collage"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma Film Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
         {
           "description": "\"Star Wars",
           "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
@@ -36506,6 +38146,66 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Soggetto",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Leigh Brackett,  Lawrence Kasdan"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Film Vincitore Di 2 Oscar Per",
+          "content": "Suono,  Effetti Speciali Visivi."
+        },
+        {
+          "description": "Altre Voci",
+          "content": "[Giampiero Albertini](dubber-page.html?dubberSource=voci/vocigalb.htm), [Gil Baroni](dubber-page.html?dubberSource=voci/vocigbar.htm)"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "International Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Novella Marcucci"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Art Collage"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma Film Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
+        {
           "description": "\"Star Wars",
           "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
         },
@@ -36736,6 +38436,62 @@
       "year": "1983",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "George Lucas"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Lawrence Kasdan E George Lucas"
+        },
+        {
+          "description": "Musiche",
+          "content": "John Williams"
+        },
+        {
+          "description": "Film Vincitore Di 1 Oscar Per",
+          "content": "Effetti Speciali Visivi."
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Cvd"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "N.I.S."
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Roberto De Leonardis"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "Mario Maldesi"
+        },
+        {
+          "description": "Assistente Al Doppiaggio",
+          "content": "Novella Marcucci"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Art Collage"
+        },
+        {
+          "description": "Sonorizzazione",
+          "content": "Fono Roma Film Recording"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
+        },
+        {
+          "description": "Fonico Di Doppiaggio",
+          "content": "Franco Mirra"
+        },
         {
           "description": "\"Star Wars",
           "content": "Episodio 1 - La Minaccia Fantasma\" (1999)"
@@ -36970,6 +38726,42 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Sceneggiatura",
+          "content": "James Cameron E Gale Anne Hurd"
+        },
+        {
+          "description": "Musiche",
+          "content": "Brad Fiedel"
+        },
+        {
+          "description": "Durata",
+          "content": "108 Minuti"
+        },
+        {
+          "description": "Doppiaggio Italiano",
+          "content": "Coop. Fcm"
+        },
+        {
+          "description": "Versione Italiana",
+          "content": "Enzo Ocone"
+        },
+        {
+          "description": "Dialoghi Italiani",
+          "content": "Letizia Ciotti Miller"
+        },
+        {
+          "description": "Direzione Del Doppiaggio",
+          "content": "[Carlo Marini](dubber-page.html?dubberSource=voci/vocicmar.htm)"
+        },
+        {
+          "description": "Sincronizzazione",
+          "content": "Coop. Di Lavoro Fono Roma Srl"
+        },
+        {
+          "description": "Fonico Di Mix",
+          "content": "Romano Checcacci"
+        },
+        {
           "description": "\"Terminator 2",
           "content": "Il Giorno Del Giudizio\" (1991)"
         },
@@ -37120,6 +38912,18 @@
       "country": "Usa",
       "additionalInfos": [
         {
+          "description": "Casa cinematografica",
+          "content": "Walt Disney"
+        },
+        {
+          "description": "Soggetto",
+          "content": "Jeb Rosebrook E Bob Barbash"
+        },
+        {
+          "description": "Durata",
+          "content": "98 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Defis (1980),  Eseguito Presso L'international Recording"
         },
@@ -37221,6 +39025,18 @@
       "country": "Usa / Taiwan",
       "additionalInfos": [
         {
+          "description": "Casa cinematografica",
+          "content": "Walt Disney"
+        },
+        {
+          "description": "Soggetto",
+          "content": "Steven Lisberger E Bonnie Macbird"
+        },
+        {
+          "description": "Durata",
+          "content": "96 Minuti"
+        },
+        {
           "description": "Doppiaggio Italiano",
           "content": "Defis (1980),  Eseguito Presso La International Recording"
         },
@@ -37311,6 +39127,18 @@
       "year": "1994",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "James Cameron"
+        },
+        {
+          "description": "Musiche",
+          "content": "Brad Fiedel"
+        },
+        {
+          "description": "Durata",
+          "content": "135 Minuti"
+        },
         {
           "description": "Direzione Del Doppiaggio",
           "content": "[Tonino Accolla](dubber-page.html?dubberSource=voci/vocitac.htm)"
@@ -37417,6 +39245,22 @@
       "year": "1966",
       "country": "Usa",
       "additionalInfos": [
+        {
+          "description": "Soggetto",
+          "content": "Jerome Bixby"
+        },
+        {
+          "description": "Sceneggiatura",
+          "content": "Harry Kleiner (Adattamento Di David Duncan)"
+        },
+        {
+          "description": "Musiche",
+          "content": "Leonard Rosenman"
+        },
+        {
+          "description": "Durata",
+          "content": "100 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D.C."
@@ -37534,6 +39378,14 @@
       "year": "1982",
       "country": "G.B. / Usa",
       "additionalInfos": [
+        {
+          "description": "Sceneggiatura",
+          "content": "Blake Edwards,  Hans Hoemburg"
+        },
+        {
+          "description": "Durata",
+          "content": "132 Minuti"
+        },
         {
           "description": "Doppiaggio Italiano",
           "content": "C.D."

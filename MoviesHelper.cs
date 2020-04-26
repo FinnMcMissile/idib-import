@@ -115,11 +115,12 @@ namespace idib_import
         {
             var infos = movieInfoRef.QuerySelectorAll("li");
             var result = string.Empty;
-            movie.additionalInfos = new AdditionalInfos();
+            if (movie.additionalInfos == null)
+                movie.additionalInfos = new AdditionalInfos();
+            
             foreach (var elem in infos)
             {
                 if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))          movie.italianTitle = result;
-                else if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))     movie.italianTitle = result;
                 else if (ExtractInfo(elem, "TITOLO.*ORIGINALE*.:", ref result))    movie.originalTitle = result;
                 else if (ExtractInfo(elem, "REGIA*.:", ref result))                movie.director = result;
                 else if (ExtractInfo(elem, "PRODUZIONE*.:", ref result))
@@ -138,6 +139,14 @@ namespace idib_import
                             content = result
                         });
                     }
+                }
+                else if (ExtractInfo(elem, "BASATO.*SUL.*ROMANZO.*DI", ref result))
+                {
+                    movie.additionalInfos.Add(new AdditionalInfo()
+                    {
+                        description = "Basato sul Romanzo di",
+                        content = result
+                    });                    
                 }
                 else
                 {
