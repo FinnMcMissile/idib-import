@@ -13,6 +13,7 @@ namespace idib_import
         public string outputPathname = string.Empty;
         public string indexPathname = string.Empty;
         public bool verbose = false;
+        public bool tmdb = false;
     }
 
     class Program
@@ -81,6 +82,14 @@ namespace idib_import
             }
         }
 
+        static void tmdbScan() 
+        {
+            foreach (var movie in idibData.movies)
+            {
+                TMDBHelper.search(movie);
+            }
+        }
+
         static void writeOutput()
         {
             TextWriter stream = new StreamWriter(options.outputPathname); 
@@ -113,6 +122,8 @@ namespace idib_import
                     options.moviesPathname = args[++a];
                 else if (args[a] == "-index")
                     options.indexPathname = args[++a];
+                else if (args[a] == "-tmdb")
+                    options.tmdb = true;
                 else
                 {
                     Console.WriteLine("Bad parameters");
@@ -137,6 +148,8 @@ namespace idib_import
             if (options.writeLog) Console.WriteLine(IdibDataHelper.check(idibData));
 
             if (options.outputPathname != string.Empty) writeOutput();
+
+            if (options.tmdb) tmdbScan();
 
             return 0;
         }

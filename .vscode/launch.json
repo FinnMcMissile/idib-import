@@ -94,6 +94,17 @@
             "stopAtEntry": false
         },
         {
+            "name": "tmdb",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
+            "args": ["-movies", "samples/doppiaggio/film", "-tmdb"],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach",
