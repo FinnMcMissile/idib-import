@@ -166,16 +166,31 @@ namespace idib_import
             
             foreach (var elem in infos)
             {
-                if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))          movie.italianTitle = result;
-                else if (ExtractInfo(elem, "TITOLO.*ORIGINALE*.:", ref result))    movie.originalTitle = result;
-                else if (ExtractInfo(elem, "REGIA*.:", ref result))                movie.director = result;
+                if (ExtractInfo(elem, "TITOLO.*ITALIANO*.:", ref result))          
+                {
+                    if (movie.italianTitle == null)
+                        movie.italianTitle = result;
+                }
+                else if (ExtractInfo(elem, "TITOLO.*ORIGINALE*.:", ref result))    
+                {
+                    if (movie.originalTitle == null) 
+                        movie.originalTitle = result;
+                }
+                else if (ExtractInfo(elem, "REGIA*.:", ref result))                
+                {
+                    if (movie.director == null)
+                        movie.director = result;
+                }
                 else if (ExtractInfo(elem, "PRODUZIONE*.:", ref result))
                 {
                     var regex = new Regex("^[0-9]+$");
                     if (regex.IsMatch(result.Substring(result.Length - 4)))
                     {
-                        movie.year = result.Substring(result.Length - 4);
-                        movie.country = result.Substring(0, result.Length - 4).Trim();
+                        if (movie.year == null)
+                        {
+                            movie.year = result.Substring(result.Length - 4);
+                            movie.country = result.Substring(0, result.Length - 4).Trim();
+                        }
                     }
                     else
                     {

@@ -94,12 +94,23 @@
             "stopAtEntry": false
         },
         {
-            "name": "tmdb",
+            "name": "tmdb - all",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film", "-tmdb"],
+            "args": ["-movies", "samples/doppiaggio/film", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "tmdb - single",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
+            "args": ["-movies", "samples/doppiaggio/film/in&out.htm", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false

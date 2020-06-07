@@ -8,6 +8,7 @@ namespace idib_import
     {
         public int id { get; set;}
         public string original_title { get; set;}
+        public string title { get; set;}
         public string release_date { get; set;}
     }
 
@@ -35,37 +36,72 @@ namespace idib_import
 
         }
 
-        static public void search(Movie movie)
+        static public bool search(Movie movie, string query, string language, out int id, out string message, bool fuzzyMatches = false)
         {
+            if (query == null)
+            {
+                message = $"null query";
+                id = 0;
+                return false;
+            }
+
             using (HttpClient client = new HttpClient())
             {
-                var path = $"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={movie.originalTitle}&primary_release_year={movie.year}";
-                // var path = $"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={movie.originalTitle}";
+                var path = $"https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&language={language}&query={Uri.EscapeUriString(query)}&primary_release_year={movie.year}";
                 HttpResponseMessage response = client.GetAsync(path).Result;
-                if (response.IsSuccessStatusCode)
+                if (!response.IsSuccessStatusCode)
                 {
-                    var jsonMatches = response.Content.ReadAsStringAsync().Result;
-                    var matches = JsonConvert.DeserializeObject<TMDBResponse>(jsonMatches); 
-                    if (
-                            matches.results.Length > 0 &&
-                            matches.results[0].original_title == movie.originalTitle &&
-                            matches.results[0].release_date.Substring(0, 4) == movie.year
+                    message = $"Error in query response: {response.StatusCode}";
+                    id = 0;
+                    return false;
+                }
+                
+                var matches = JsonConvert.DeserializeObject<TMDBResponse>(response.Content.ReadAsStringAsync().Result); 
+
+                if (matches.results.Length == 0)
+                {
+                    message = $"0 matches found";
+                    id = 0;
+                    return false;
+                }
+
+                foreach (var result in matches.results)
+                {
+                    if  (
+                            string.Equals(result.original_title, movie.originalTitle, StringComparison.InvariantCultureIgnoreCase) &&
+                            result.release_date.Substring(0, 4) == movie.year
                         )
                     {
-                        Console.WriteLine($"{movie.originalTitle} - {matches.results[0].id}");
+                        id = result.id;
+                        message = string.Empty;
+                        return true; // exact match
                     }
-                    if ( matches.results.Length == 0)
-                    {
-                        Console.WriteLine($"{movie.originalTitle} - no match found");
-                    }
-                    if (
-                            matches.results.Length > 0 &&
-                            matches.results[0].original_title != movie.originalTitle
+                }
+
+                foreach (var result in matches.results)
+                {
+                    if  (
+                            string.Equals(result.title, query, StringComparison.InvariantCultureIgnoreCase) &&
+                            result.release_date.Substring(0, 4) == movie.year
                         )
                     {
-                        Console.WriteLine($"{movie.originalTitle} - matched {matches.results[0].original_title} ({matches.results[0].release_date})");
+                        id = result.id;
+                        message = $"matched {result.original_title} ({result.release_date}) using {query} ({language})";
+                        return true; // probable match
                     }
-                } 
+                }
+
+                // the query returned some results, even if there is no precise match with the title
+                if (fuzzyMatches)
+                {
+                    id = matches.results[0].id;
+                    message = $"fuzzy matched {matches.results[0].original_title} ({matches.results[0].release_date}) using {query} ({language})";
+                    return true; // probable match
+                }
+
+                message = $"no match found";
+                id = 0;
+                return false;
             }
 
         }

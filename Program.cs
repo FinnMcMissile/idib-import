@@ -86,7 +86,25 @@ namespace idib_import
         {
             foreach (var movie in idibData.movies)
             {
-                TMDBHelper.search(movie);
+                string message = string.Empty;
+                int tmdbID = 0;
+
+                if  (
+                        TMDBHelper.search(movie, movie.originalTitle, "en-US", out tmdbID, out message) ||
+                        TMDBHelper.search(movie, movie.italianTitle, "it-IT", out tmdbID, out message) ||
+                        TMDBHelper.search(movie, movie.indexTitle, "it-IT", out tmdbID, out message) ||
+                        TMDBHelper.search(movie, movie.originalTitle, "en-US", out tmdbID, out message, true)
+                    )
+                {
+                    if (message != string.Empty)
+                        Console.WriteLine($"{movie.originalTitle ?? movie.italianTitle}({movie.year}) - {tmdbID} ({message})");
+                    // Console.WriteLine($"{movie.originalTitle}({movie.year}) - {tmdbID}");
+                }
+                else
+                {
+                    Console.WriteLine($"{movie.originalTitle}({movie.year}) - {message}");
+                }
+
             }
         }
 
