@@ -22,8 +22,15 @@ namespace idib_import
                     (input.StartsWith("'") && input.EndsWith("'"))
                 )
             {
-               if (input.Length > 1)
-                    return input.Substring(1, input.Length - 2);
+                if (input.Length > 1)
+                {
+                    var unquoted = input.Substring(1, input.Length - 2);
+                    // in case of other quotes inside the string, avoid unquoting
+                    if (unquoted.Contains('"'))
+                        return input;
+                    else 
+                    return unquoted;
+                }
                 else
                     return string.Empty;
             }

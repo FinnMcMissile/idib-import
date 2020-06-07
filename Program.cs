@@ -93,7 +93,9 @@ namespace idib_import
                         TMDBHelper.search(movie, movie.originalTitle, "en-US", out tmdbID, out message) ||
                         TMDBHelper.search(movie, movie.italianTitle, "it-IT", out tmdbID, out message) ||
                         TMDBHelper.search(movie, movie.indexTitle, "it-IT", out tmdbID, out message) ||
-                        TMDBHelper.search(movie, movie.originalTitle, "en-US", out tmdbID, out message, true)
+                        TMDBHelper.search(movie, movie.originalTitle, "en-US", out tmdbID, out message, true) ||
+                        TMDBHelper.search(movie, movie.italianTitle, "it-IT", out tmdbID, out message, true) ||
+                        TMDBHelper.search(movie, movie.indexTitle, "it-IT", out tmdbID, out message, true)
                     )
                 {
                     if (message != string.Empty)

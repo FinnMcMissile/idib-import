@@ -110,7 +110,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film/in&out.htm", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
+            "args": ["-movies", "samples/doppiaggio/film/starwars4.htm", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
