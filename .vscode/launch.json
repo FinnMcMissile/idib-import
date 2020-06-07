@@ -99,7 +99,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
+            "args": ["-movies", "samples/doppiaggio/film", "-log", "-tmdb", "output/additional-data.json", "-index", "samples/doppiaggio/indice", "-dictionary"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
@@ -110,7 +110,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/idib-import.dll",
-            "args": ["-movies", "samples/doppiaggio/film/starwars4.htm", "-tmdb", "-index", "samples/doppiaggio/indice", "-dictionary"],
+            "args": ["-movies", "samples/doppiaggio/film/starwars4.htm", "-log", "-tmdb", "output/additional-data.json", "-index", "samples/doppiaggio/indice", "-dictionary"],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false

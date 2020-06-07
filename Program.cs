@@ -13,12 +13,13 @@ namespace idib_import
         public string outputPathname = string.Empty;
         public string indexPathname = string.Empty;
         public bool verbose = false;
-        public bool tmdb = false;
+        public string tmdbPathname = string.Empty;
     }
 
     class Program
     {
         static IdibData idibData = new IdibData();
+        static AdditionalData additionalData = new AdditionalData();
         static Options options = new Options();
 
         static void dubbersScan(string pathName)
@@ -82,7 +83,7 @@ namespace idib_import
             }
         }
 
-        static void tmdbScan() 
+        static void tmdbScan(string pathName, bool verbose) 
         {
             foreach (var movie in idibData.movies)
             {
@@ -98,16 +99,30 @@ namespace idib_import
                         TMDBHelper.search(movie, movie.indexTitle, "it-IT", out tmdbID, out message, true)
                     )
                 {
-                    if (message != string.Empty)
+                    if (message != string.Empty && verbose)
                         Console.WriteLine($"{movie.originalTitle ?? movie.italianTitle}({movie.year}) - {tmdbID} ({message})");
-                    // Console.WriteLine($"{movie.originalTitle}({movie.year}) - {tmdbID}");
+                    additionalData.movies.Add(new Movie{
+                        source = movie.source,
+                        tmdbID = tmdbID
+                    });
                 }
                 else
                 {
-                    Console.WriteLine($"{movie.originalTitle}({movie.year}) - {message}");
+                    if (verbose)
+                        Console.WriteLine($"{movie.originalTitle}({movie.year}) - {message}");
                 }
-
             }
+
+            var stream = new StreamWriter(pathName); 
+            stream.Write(
+                JsonConvert.SerializeObject(
+                    additionalData, 
+                    Formatting.Indented,
+                    new JsonSerializerSettings {
+                        NullValueHandling = NullValueHandling.Ignore
+                })
+            );
+            stream.Close();
         }
 
         static void writeOutput()
@@ -122,6 +137,7 @@ namespace idib_import
                 })
             );
             stream.Close();
+
         }
 
         static bool readOptions(string[] args)
@@ -143,7 +159,7 @@ namespace idib_import
                 else if (args[a] == "-index")
                     options.indexPathname = args[++a];
                 else if (args[a] == "-tmdb")
-                    options.tmdb = true;
+                    options.tmdbPathname = args[++a];
                 else
                 {
                     Console.WriteLine("Bad parameters");
@@ -169,7 +185,7 @@ namespace idib_import
 
             if (options.outputPathname != string.Empty) writeOutput();
 
-            if (options.tmdb) tmdbScan();
+            if (options.tmdbPathname != string.Empty) tmdbScan(options.tmdbPathname, options.writeLog);
 
             return 0;
         }

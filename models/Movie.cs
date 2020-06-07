@@ -25,5 +25,6 @@ namespace idib_import
         public Gallery gallery {get; set;}
         public Cast cast {get; set;}
         public Notes notes {get; set;}
+        public int tmdbID {get; set;}
     }
 }
